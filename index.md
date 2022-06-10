@@ -75,9 +75,9 @@ For example, the lot down the hill has domesticated animals (cows), please do no
 
 If you have pets with you, we strongly recommend initially putting them on a leach while out in the backyard for a few reasons:
 
-* The fences will not keep in a determined dog inside the property
-* The direct neighbor has a yellow Golden Retriver-like dog (it stays away from people, but sometimes like to look upon us from within its yard).
-* Sometimes the other tiny neighborhood hotdogs go on a field trip together and go hiking through everyone's yards. They typically pass through in a couple minutes.
+* The fences will not keep an untrained and determined dog inside the property.
+* The direct neighbor has an old yellow Golden Retriever dog (it is a timid animal and stays away from people. Though, sometimes he likes to look upon us from within his yard acting like "how dare you trespass on my mountain!". He gives up after a day of this.
+* Sometimes 2 or 3 other tiny neighborhood hotdogs go on a field trip together and go hiking through everyone's yards on the street. They typically pass through in a couple minutes (these are the little guys who like to block the road).
 
 Since we don't know how your pet behaves and cannot provide personal guidance or assume responsibility, we urge caution and play it safe at first (at least until you know for sure).
 
@@ -85,7 +85,7 @@ Since we don't know how your pet behaves and cannot provide personal guidance or
 
 ### Golden Clouds Technology Map
 
-The house has modern internet and security features. From high-speed fiber-optic internet to automated lighting that changes colors through-out the day, you can rest and/or work from paradise. Above is a topological map of these features.
+The house has modern internet and security features. From high-speed fiber-optic internet to automated lighting that changes colors through-out the day, you can rest and/or work from paradise. If you're a nerd like me, here's a topological map.
 
 ![tech map smaller](https://user-images.githubusercontent.com/3520532/173123965-d574ac07-489b-4eac-bdef-5fd4691628f5.png)
 
@@ -93,13 +93,16 @@ The house has modern internet and security features. From high-speed fiber-optic
 
 This is the same kind of Wi-Fi that you’ve used to using at airports, hospitals, stadiums, etc. 
 
-1. Connect to `Golden Clouds Guest`, there is no password.
-2. Your device should automatically open the ToS webpage (if it doesn't open a webbrowser and try to load any website)
+1. Connect to `Golden Clouds Guest` (no password).
+2. Your device should automatically open the ToS web page
+    * If it doesn't open automatically, open a web browser on your device and go to any website (this will force it).
 3. Accept the ToS and you're done.
 
-This what the ToS page looks like:
+This what the ToS acceptance page looks like:
 
 ![guest wifi](https://user-images.githubusercontent.com/3520532/173122916-10271660-8cdf-4d39-8a6c-6cdf2537f3a4.png)
+
+> If you have trouble with the Wi-Fi, message Lance. He can fix it in just a couple minutes from anywhere in the world (because he's a nerd 🤓).
 
 ### Security Cameras
 
