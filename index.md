@@ -1,12 +1,10 @@
-Welcome to Golden Clouds, in Arenal Costa Rica!
+Welcome to Golden Clouds, in Arenal, Costa Rica! Please take 4 minutes to read this before your arrival.
 
-This page is a quick 4 minute read and contains important information about the property, amenities, technology in use (Wi-Fi, security cameras) and other “pro-tips” that will make your experience as pleasurable as possible.
-
-Please read through everything before arriving so that you know how to enter the property and how to use everything.
+This page contains important information about the property, amenities, technology in use (Wi-Fi, security cameras) and other “pro-tips” that will make your experience as pleasurable as possible.
 
 ## Contacts
 
-If you have any questions during your stay, there are a few options to choose from depending on your circumstance.
+If you have any questions or problems during your stay, here's how to get in touch.
 
 *   **Roy** - Local Property Manager
     *   Whatsapp `+506 8501 7756` (for any problems or questions with the property)
@@ -17,7 +15,7 @@ If you have any questions during your stay, there are a few options to choose fr
     *  Medical, Fire, Police `911`
     *  Website [www.911.go.cr/](http://www.911.go.cr/)
 
-Tip - Roy is an excellent resource to ask about anything local; from arranging a personal chef that will cook for you in the house to a guided tour of the volcano. He literally knows everyone in the area and is an all-around rockstar. 
+> Pro-Tip: Roy is an _excellent_ resource to ask about anything local; from having a personal chef to cook dinner for you in the house to providing a guided tour of the volcano. He literally knows everyone in the area and is an all-around rockstar. 
 
 ## Check-in
 
@@ -32,18 +30,17 @@ Once you have the gate fob and keys, here is how to use them:
 ![keys](https://dvlup.com//wp-content/uploads/2022/05/FobAndKeyInstructions.png)
 
 * The key works on all door locks
-* The locks have internal deadbolts, you may need to turn the key 3 times to unlock and a final turn to unlatch.
-* We recommend entering through the kitchen door, it is the **2nd** door, the one with the screen door.
-
-> Tip: 
+* The locks have internal deadbolts, you may need to turn the key 3 times to unlatch.
+* We recommend entering through the kitchen door. It is the **2nd** door, the one with the screen.
 
 ## Check-out
 
-Checking out is stright-forward:
+Checking out is straightforward:
 
-* Close all the doors and any windows you've opened
-* Turn off any lights or fans that you turned on
-* Put the keys back into the lockbox, close the lid until the lock latches, and spin the number wheel to scramble it.
+1. You can leave all the soiled laundry on the bed you used.
+2. Close all the doors and any windows you've opened.
+3. Turn off any lights or fans that you turned on.
+4. Close the electronic gate and put the keys back into the lockbox (close the lid until the lock latches, then spin the number wheel to scramble it).
 
 Thank you!
 
@@ -58,11 +55,12 @@ Here is a list of all the major items/features of the property, with some guidan
   *   Every bathroom has a shower that has its own hot water boiler/tank. It can get hot fast, so test it before jumping in.
 * **Game Room**
   *   The chair hammock is rolled up on top of the game cabinet. There is a bracket already connected to the patio scaffolding, please only use the hammock there.
-  *   Board games are located in the game room, in the game cabinet. You can use any games, many are new and need to be opened. Please return them to the same location when finished.
+  *   Board games are located in the game room, in the game cabinet.
+      *   Some games are brand new, feel free to open them. Please return them to the same location.
   *   There is an Xbox One in the game room, but it is not hooked up yet.
 * **Yoga Room**
   *   This room has yoga mats, ball and weights.
-  *   This room also doubles as a private office for working space, if you do not want to work at the desk in the living room. You can bring the game room’s table in there, if you’d like.
+  *   This room also doubles as a private office if you do not want to work at the desk in the living room. You can bring the gameroom table in there, if you’d like.
   *   It has ambient lighting via an LED strip. You can change the color and brightness using the 3-button controller next to the cabinet. The strip will automatically change at sunset and sunrise.
 * **Kitchen**
   *   The kitchen is at your disposal, here are a few important things to keep in mind
@@ -75,8 +73,8 @@ Here is a list of all the major items/features of the property, with some guidan
   *   There are only two internal areas that are off-limits, both rooms have an electronic key-coded door lock. These rooms are for maintenance and owner access only.
   *   The bodega (tool closet) is outdoors. This is not a guest area, but if you do need a rake or shovel for some reason, your door key will open it. However, we ask that you contact Roy for anything that requires these items, he will handle it.
 * **Windows, Fans and Air Conditioners**
-  *   Arenal is always ~72 degrees (22 Celsius) and comfortable, the A/C gets turned on maybe 2x a year. Open the kitchen door, patio door and some side windows, the breeze through the house is amazing. Just don’t forget to put in the screen when you open a window (screens are next to each window)
-  *   If you do need the A/C, the one in the back bedroom is newer and more efficient than the living room one. These are operated with a remote control, but you may need to turn on the breaker first. The front breaker panel is in the yoga room, the rear breaker panel is in the rear bedroom. **If you have trouble with this, please contact Roy on Whatsapp**, he will help.
+  *   Arenal is always ~72 degrees (22 Celsius) and comfortable year-round, the A/C only gets turned on a couple times a year. To use the fans, open the kitchen door, patio door and some side windows, the breeze through the house is amazing. Just don’t forget to put in the screen when you open a window.
+  *   If you do need the A/C, the one in the back bedroom is newer and more efficient than the living room one. These are operated with a remote control, but you may need to turn on the breaker first. The front breaker panel is in the yoga room, the rear breaker panel is in the rear bedroom. **If you have trouble with A/C, please contact Roy on Whatsapp**, he will help.
 * **Hot Tubs**
   *   The external hot tub is manually filled and drained, this is handled by the property manager, Roy. If you need any assistance with this, please contact Roy or Lance (numbers above).
   *   The internal hot tub is located in the rear bathroom. Fill it using the shower faucet. To use the water jets, push down the white button on the rim of the tub (just make sure there is enough water before turning on the jets).
@@ -87,15 +85,19 @@ Here is a list of all the major items/features of the property, with some guidan
 
 ## Property Boundary
 
-The property lines have a boundary marked by a wired fence. _Please stay within these bounds for your safety and security_. For example, the lot down the hill has domesticated animals (cows), please do not climb over the fence to take photos as this is very dangerous and very steep.
+The property lines have a boundary marked by a wired fence, _please stay within these bounds for your safety and security_. For example, the lot down the hill has domesticated animals (cows), please do not climb over the fence to take photos as this is very dangerous and very steep.
 
 #### Pets 
 
-If you have pets with you, we strongly recommend initially putting them on a leach while out in the backyard for a few reasons:
+If you have pets with you, we strongly recommend initially having them on a leach while out in the backyard for a few reasons:
 
 * The fences will not keep an untrained or determined dog inside the property.
-* The neighbor on the left has an old yellow Golden Retriever dog. It is a timid animal and stays away from people. Though, if the house has been empty for a while and someone new arrives, he'll bark from his yard complaining that "you're on his mountain". Don't worry about this, he gives up after 10 or 15 minutes.
-* Occasionally, 2 or 3 of the neighborhood miniature dogs go on a field trip together and go hiking through everyone's yards on the street. They typically pass through in a couple minutes. Although they're friendly, I don't bother with them and let them pass through (these are the little guys who like to lay in the middle of the street).
+* The neighbor on the left has an old yellow Golden Retriever dog.
+    * It is a timid and stays away from people.
+    * If the house has been empty for a while and someone new arrives, he'll bark from his yard complaining that "you're on his mountain". Don't worry about this, he gives up after 10 or 15 minutes.
+* Occasionally, 2 or 3 of the neighborhood miniature dogs go on a field trip together and go hiking through everyone's yards on the street (these are the same little guys who lay in the middle of the road)
+    * They pass through in a couple minutes.
+    * Although they appear to be friendly, do not engage and just ignore them. 
 
 Since we don't know how your pet behaves, we cannot assume responsiblility for their actions. So, we urge a bit of caution and play it safe at first.
 
