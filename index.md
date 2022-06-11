@@ -108,8 +108,8 @@ If you have pets with you, we strongly recommend initially having them on a leas
 
 * The fences will not keep an untrained or determined dog inside the property.
 * The neighbor on the left has an old yellow Golden Retriever dog.
-    * It is a timid and stays away from people.
-    * If the house has been empty for a while and someone new arrives, he'll bark from his yard complaining that "you're on his mountain". Don't worry about this, he gives up after 10 or 15 minutes.
+    * It's relatively timid and stays away from people.
+    * If the house has been empty for a while and someone new arrives, he'll bark from his yard complaining that "you're on his mountain". Don't be concerned, it gives up after 10 or 15 minutes.
 * Occasionally, 2 or 3 of the neighborhood miniature dogs go on a field trip together and go hiking through everyone's yards on the street (these are the same little guys who lay in the middle of the road)
     * They pass through in a couple minutes.
     * Although they appear to be friendly, do not engage and just ignore them. 
