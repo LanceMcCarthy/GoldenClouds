@@ -2,18 +2,18 @@ Welcome to Golden Clouds, in Arenal, Costa Rica! Please take 4 minutes to read t
 
 This page contains important information about the property, amenities, technology in use (Wi-Fi, security cameras) and other “pro-tips” that will make your experience as pleasurable as possible.
 
-* [Contacts](/#contacts)
-* [Check-in](/#check-in)
-    * [Gated Entrance and Keys](/#gated-entrance-and-keys)
-    * [Key Operation](/#key-operation)
-* [Check-out](/#check-out)
-* [Rooms and Amenities](/#rooms-and-amenities)
-* [Property Boundary](/#property-boundary)
-  * [Pets](/#pets)
-* [Onsite Technology](/#onsite-technology)
-  * [Topology](/#golden-clouds-technology-map)
-  * [Wi-Fi](/#wi-fi)
-  * [Security Cameras](/#security-cameras)
+* [Contacts](https://lancemccarthy.github.io/GoldenClouds/#contacts)
+* [Check-in](https://lancemccarthy.github.io/GoldenClouds/#check-in)
+    * [Gated Entrance and Keys](https://lancemccarthy.github.io/GoldenClouds/#gated-entrance-and-keys)
+    * [Key Operation](https://lancemccarthy.github.io/GoldenClouds/#key-operation)
+* [Check-out](https://lancemccarthy.github.io/GoldenClouds/#check-out)
+* [Rooms and Amenities](https://lancemccarthy.github.io/GoldenClouds/#rooms-and-amenities)
+* [Property Boundary](https://lancemccarthy.github.io/GoldenClouds/#property-boundary)
+  * [Pets](https://lancemccarthy.github.io/GoldenClouds/#pets)
+* [Onsite Technology](https://lancemccarthy.github.io/GoldenClouds/#onsite-technology)
+  * [Topology](https://lancemccarthy.github.io/GoldenClouds/#golden-clouds-technology-map)
+  * [Wi-Fi](https://lancemccarthy.github.io/GoldenClouds/#wi-fi)
+  * [Security Cameras](https://lancemccarthy.github.io/GoldenClouds/#security-cameras)
 
 ## Contacts
 
