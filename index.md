@@ -2,6 +2,19 @@ Welcome to Golden Clouds, in Arenal, Costa Rica! Please take 4 minutes to read t
 
 This page contains important information about the property, amenities, technology in use (Wi-Fi, security cameras) and other “pro-tips” that will make your experience as pleasurable as possible.
 
+* [Contacts](/#contacts)
+* [Check-in](/#check-in)
+    * [Gated Entrance and Keys](/#gated-entrance-and-keys)
+    * [Key Operation](/#key-operation)
+* [Check-out](/#check-out)
+* [Rooms and Amenities](/#rooms-and-amenities)
+* [Property Boundary](/#property-boundary)
+  * [Pets](/#pets)
+* [Onsite Technology](/#onsite-technology)
+  * [Topology](/#golden-clouds-technology-map)
+  * [Wi-Fi](/#wi-fi)
+  * [Security Cameras](/#security-cameras)
+
 ## Contacts
 
 If you have any questions or problems during your stay, here's how to get in touch.
@@ -29,8 +42,10 @@ Once you have the gate fob and keys, here is how to use them:
 
 ![keys](https://dvlup.com//wp-content/uploads/2022/05/FobAndKeyInstructions.png)
 
+### Key Operation
+
 * The key works on all door locks
-* The locks have internal deadbolts, you may need to turn the key 3 times to unlatch.
+* The locks have double locking mechanism, you may need to turn the key 3 times to unlock & unlatch.
 * We recommend entering through the kitchen door. It is the **2nd** door, the one with the screen.
 
 ## Check-out
@@ -42,11 +57,11 @@ Checking out is straightforward:
 3. Turn off any lights or fans that you turned on.
 4. Close the electronic gate and put the keys back into the lockbox (close the lid until the lock latches, then spin the number wheel to scramble it).
 
-Thank you!
+Thank you for being considerate when sharing our home!
 
 ## Rooms and Amenities
 
-Here is a list of all the major items/features of the property, with some guidance and recommendations on use.
+Here is a list of all the major items & features of the property, with some guidance and recommendations.
 
 * **Bathrooms**
   *   Extra shampoo, conditioner and soap can be found in the bottom drawer of bathrooms. Extra towels and linens can be found in the cabinets of the rear bedroom.
