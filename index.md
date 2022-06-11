@@ -104,7 +104,7 @@ The property lines have a boundary marked by a wired fence, _please stay within 
 
 #### Pets 
 
-If you have pets with you, we strongly recommend initially having them on a leach while out in the backyard for a few reasons:
+If you have pets with you, we strongly recommend initially having them on a leash while out in the backyard for a few reasons:
 
 * The fences will not keep an untrained or determined dog inside the property.
 * The neighbor on the left has an old yellow Golden Retriever dog.
