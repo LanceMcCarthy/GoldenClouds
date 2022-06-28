@@ -150,11 +150,15 @@ The 3 internal cameras that only face the common areas. They are all in clear vi
     * ![g3 instant](https://user-images.githubusercontent.com/3520532/173119017-314d9687-0a32-48be-b860-fb89e9156fd8.png) 
 * **Privacy Zones** - In addition to the Guest Present schedule, we also apply privacy zones to the raw video sensor feed. 
     * ![privacy zones](https://user-images.githubusercontent.com/3520532/175552439-7fdfa731-afaf-4578-beb3-4fa9d10f4c62.png)
-    * If this is not sufficient, you may fold a piece of paper and place it over any of the 3 internal cameras, as long as you agree to the following guidelines:
+* **Guest Access to Camera Feeds** - We can give you guest access to the web dashboard to verify the camera feeds are not recording and have the privacy filter applied. Just ask Lance to enable the guest account.
+    1. Go to https://ha.goldenclouds.dvlup.com
+    2. Username is `localguest`
+    3. Password will be unique for every quest
+    <!-- * If this is not sufficient, you may fold a piece of paper and place it over any of the 3 internal cameras, as long as you agree to the following guidelines:
       *  You agree to remove the paper covering before check-out. Failing to do so presents a real security risk to the property and future guests.
       *  You agree to not using any sticky substance to ahere the covering to the device (tape, glue, etc., such materials can cause permanent heat damage).
-      *  Any damage to security devices resulting from guest manipulation will be the responsibility of the guest and submitted to AirCover for reimbursement.
-  * Please do not **move**, **remove**, **reposition**, or **unplug** any security devices (loss of power will trigger a security event).
+      *  Any damage to security devices resulting from guest manipulation will be the responsibility of the guest and submitted to AirCover for reimbursement. -->
+  * Please do not **move**, **remove**, **reposition**, or **unplug** any security devices (loss of power will trigger a security event). Any damage to security devices resulting from guest manipulation will be the responsibility of the guest and submitted to AirCover for reimbursement.
 * Optional Items (requires explicit request):
   * Guest Access to Camera Feed - We can setup a temporary guest account to access the camera feeds, this will allow you to confirm the privacy zones are applied. Bonus: this will also let you electronically manage the LED strip in the Yoga room. Contact Lance and he'll set this up for you.
   * Overnight Security - If you would like the security cameras to detect motion while you are sleeping, let us know. We can enable the `Guest Present - Overnight Schedule` instead of the `Guest Present - No Recording` schedule. This schedule detects and record records only motion detection between 0:00-4:00. contact Lance and state exactly which nights you want this enabled on.
