@@ -2,6 +2,8 @@ Welcome to Golden Clouds, in Arenal, Costa Rica! Please take 4 minutes to read t
 
 This page contains important information about the property, amenities, technology in use (Wi-Fi, security cameras) and other “pro-tips” that will make your experience as pleasurable as possible.
 
+### Table of Contents
+
 * [Contacts](#contacts)
 * [Check-in](#check-in)
     * [Gated Entrance and Keys](#gated-entrance-and-keys)
@@ -14,6 +16,8 @@ This page contains important information about the property, amenities, technolo
   * [Topology](#golden-clouds-technology-map)
   * [Wi-Fi](#wi-fi)
   * [Security Cameras](#security-cameras)
+
+> You can click any menu item to jump down to that section
 
 ## Contacts
 
@@ -53,9 +57,9 @@ Once you have the gate fob and keys, here is how to use them:
 Checking out is straightforward:
 
 1. You can leave all the soiled laundry on the bed you used.
-2. Close all the doors and any windows you've opened.
-3. Turn off any lights or fans that you turned on.
-4. Close the electronic gate and put the keys back into the lockbox (close the lid until the lock latches, then spin the number wheel to scramble it).
+2. Close all the doors/windows (you've opened) and turn off any lights or fans (that you turned on)
+3. Close the electronic gate after you've driven out 
+4. Lock the keys away in the lockbox you got the keys from (then spin the number wheel to scramble the code).
 
 Thank you for being considerate when sharing our home!
 
@@ -147,10 +151,10 @@ The 3 internal cameras that only face the common areas. They are all in clear vi
 
 * **Recording Schedule** - The system is not recording or detecting motion while a guest is present, this is the `Guest Present - No Recording` schedule. It begins at 1:00 PM on the day of your check-in and ends on 11:00 AM on the day of your check-out.
   * You can confirm the 'Guest Present - No Recording" schedule is active when the blue operational light is turned off. ![g3 instant](https://user-images.githubusercontent.com/3520532/173119017-314d9687-0a32-48be-b860-fb89e9156fd8.png) 
-* **Privacy Zones** - In addition to the Guest Present schedule, we also apply privacy zones to the raw video sensor feed. ![privacy zones](https://user-images.githubusercontent.com/3520532/175552439-7fdfa731-afaf-4578-beb3-4fa9d10f4c62.png)
+* **Privacy Zones** - In addition to the Guest Present schedule, we also apply privacy zones to the raw video sensor feed. ![privacy zones](https://user-images.githubusercontent.com/3520532/176272380-ba517579-ece8-41e1-8ec8-b56125ed0367.png)
 * **Guest Access to Camera Feeds** - We can give you guest access to the web dashboard to verify the camera feeds are not recording and have the privacy filter applied (_just ask Lance to enable the guest account, it only take a couple seconds_).
     1. Go to [Golden Clouds - Home Assistant](https://ha.goldenclouds.dvlup.com) and login
-       * Username is `localguest`
+       * Username is always `localguest`
        * Password will be unique for every quest
     2. On the Home tab you will see the feeds (and some other stuff you can use) ![ha home](https://user-images.githubusercontent.com/3520532/176267468-24a34c9e-bfb8-480a-a8af-ac6c93dd6e6e.png)
 * Please do not **move**, **remove**, **reposition**, or **unplug** any security devices (loss of power will trigger a security event). Any damage to security devices resulting from guest manipulation will be the responsibility of the guest and submitted to AirCover for reimbursement.
