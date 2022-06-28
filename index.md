@@ -146,21 +146,13 @@ There are security cameras on the property, please read and understand this sect
 The 3 internal cameras that only face the common areas. They are all in clear view of occupants; **Living Room**, **Game Room** and **Hallway**. These are not recording while there is a guest on the property.
 
 * **Recording Schedule** - The system is not recording or detecting motion while a guest is present, this is the `Guest Present - No Recording` schedule. It begins at 1:00 PM on the day of your check-in and ends on 11:00 AM on the day of your check-out.
-  * You can confirm the 'Guest Present - No Recording" schedule is active when the blue operational light is turned off. 
-    * ![g3 instant](https://user-images.githubusercontent.com/3520532/173119017-314d9687-0a32-48be-b860-fb89e9156fd8.png) 
-* **Privacy Zones** - In addition to the Guest Present schedule, we also apply privacy zones to the raw video sensor feed. 
-    * ![privacy zones](https://user-images.githubusercontent.com/3520532/175552439-7fdfa731-afaf-4578-beb3-4fa9d10f4c62.png)
-* **Guest Access to Camera Feeds** - We can give you guest access to the web dashboard to verify the camera feeds are not recording and have the privacy filter applied. Just ask Lance to enable the guest account.
-    1. Go to https://ha.goldenclouds.dvlup.com
-    2. Username is `localguest`
-    3. Password will be unique for every quest
-    <!-- * If this is not sufficient, you may fold a piece of paper and place it over any of the 3 internal cameras, as long as you agree to the following guidelines:
-      *  You agree to remove the paper covering before check-out. Failing to do so presents a real security risk to the property and future guests.
-      *  You agree to not using any sticky substance to ahere the covering to the device (tape, glue, etc., such materials can cause permanent heat damage).
-      *  Any damage to security devices resulting from guest manipulation will be the responsibility of the guest and submitted to AirCover for reimbursement. -->
-  * Please do not **move**, **remove**, **reposition**, or **unplug** any security devices (loss of power will trigger a security event). Any damage to security devices resulting from guest manipulation will be the responsibility of the guest and submitted to AirCover for reimbursement.
-* Optional Items (requires explicit request):
-  * Guest Access to Camera Feed - We can setup a temporary guest account to access the camera feeds, this will allow you to confirm the privacy zones are applied. Bonus: this will also let you electronically manage the LED strip in the Yoga room. Contact Lance and he'll set this up for you.
-  * Overnight Security - If you would like the security cameras to detect motion while you are sleeping, let us know. We can enable the `Guest Present - Overnight Schedule` instead of the `Guest Present - No Recording` schedule. This schedule detects and record records only motion detection between 0:00-4:00. contact Lance and state exactly which nights you want this enabled on.
+  * You can confirm the 'Guest Present - No Recording" schedule is active when the blue operational light is turned off. ![g3 instant](https://user-images.githubusercontent.com/3520532/173119017-314d9687-0a32-48be-b860-fb89e9156fd8.png) 
+* **Privacy Zones** - In addition to the Guest Present schedule, we also apply privacy zones to the raw video sensor feed. ![privacy zones](https://user-images.githubusercontent.com/3520532/175552439-7fdfa731-afaf-4578-beb3-4fa9d10f4c62.png)
+* **Guest Access to Camera Feeds** - We can give you guest access to the web dashboard to verify the camera feeds are not recording and have the privacy filter applied (_just ask Lance to enable the guest account, it only take a couple seconds_).
+    1. Go to [Golden Clouds - Home Assistant](https://ha.goldenclouds.dvlup.com) and login
+       * Username is `localguest`
+       * Password will be unique for every quest
+    2. On the Home tab you will see the feeds (and some other stuff you can use) ![ha home](https://user-images.githubusercontent.com/3520532/176267468-24a34c9e-bfb8-480a-a8af-ac6c93dd6e6e.png)
+* Please do not **move**, **remove**, **reposition**, or **unplug** any security devices (loss of power will trigger a security event). Any damage to security devices resulting from guest manipulation will be the responsibility of the guest and submitted to AirCover for reimbursement.
 
 > There are two temporary WiZ cameras: one in the living room on top of the blinds, this is facing the wall and is not used. The one on the window sill faces the left part of the backyard and is for external security. It does not have a view of the patio or jacuzzi. This are temporary while the older external cameras are being replaced.
