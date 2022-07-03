@@ -1,6 +1,6 @@
-## Welcome to Golden Clouds!
+Welcome to Golden Clouds! Please take a few minutes to read this before your arrival.
 
-Please take a few minutes to read this before your arrival. This page contains very important information about the property, amenities, technology (Wi-Fi, security cameras) and other “pro-tips” that will make your experience as pleasurable as possible.
+This page contains very important information about the property, amenities, technology (Wi-Fi, security cameras) and other “pro-tips” that will make your experience as pleasurable as possible.
 
 First, to help you get excited for your stay, [here's a 30 second video at sunset](https://youtu.be/wHkB9e4JbyI):
 
