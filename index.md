@@ -1,6 +1,8 @@
-Welcome to Golden Clouds, in Arenal, Costa Rica! Please take 4 minutes to read this before your arrival.
+# Welcome to Golden Clouds: Arenal, Costa Rica!
 
-This page contains important information about the property, amenities, technology in use (Wi-Fi, security cameras) and other “pro-tips” that will make your experience as pleasurable as possible.
+Please take a few minutes to read this before your arrival. This page contains very important information about the property, amenities, technology (Wi-Fi, security cameras) and other “pro-tips” that will make your experience as pleasurable as possible.
+
+First, to help you get excited for your stay, [here's a 30 second video at sunset](https://youtu.be/wHkB9e4JbyI):
 
 ### Table of Contents
 
