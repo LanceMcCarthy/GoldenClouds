@@ -1,4 +1,4 @@
-# Welcome to Golden Clouds: Arenal, Costa Rica!
+## Welcome to Golden Clouds!
 
 Please take a few minutes to read this before your arrival. This page contains very important information about the property, amenities, technology (Wi-Fi, security cameras) and other “pro-tips” that will make your experience as pleasurable as possible.
 
@@ -156,8 +156,8 @@ The 3 internal cameras that only face the common areas. They are all in clear vi
 * **Privacy Zones** - In addition to the Guest Present schedule, we also apply privacy zones to the raw video sensor feed. ![privacy zones](https://user-images.githubusercontent.com/3520532/176272380-ba517579-ece8-41e1-8ec8-b56125ed0367.png)
 * **Guest Access to Camera Feeds** - We can give you guest access to the web dashboard to verify the camera feeds are not recording and have the privacy filter applied (_just ask Lance to enable the guest account, it only take a couple seconds_).
     1. Go to [Golden Clouds - Home Assistant](https://ha.goldenclouds.dvlup.com) and login
-       * Username is always `localguest`
-       * Password will be unique for every quest
+       * Username: `localguest`
+       * Password: This will be uniquely created for every quest
     2. On the Home tab you will see the feeds (and some other stuff you can use) ![ha home](https://user-images.githubusercontent.com/3520532/176267468-24a34c9e-bfb8-480a-a8af-ac6c93dd6e6e.png)
 * Please do not **move**, **remove**, **reposition**, or **unplug** any security devices (loss of power will trigger a security event). Any damage to security devices resulting from guest manipulation will be the responsibility of the guest and submitted to AirCover for reimbursement.
 
