@@ -29,7 +29,6 @@ If you have any questions or problems during your stay, here's how to get in tou
     *   Whatsapp `+506 8501 7756` (for any problems or questions with the property)
 *   **Lance** and **Irina** - Host
     *   Use AirBnb Messenger (for casual questions)
-    *   Whatsapp `+1 617 595 3686` (for urgent issue)
 *   Emergency Services
     *  Medical, Fire, Police `911`
     *  Website [www.911.go.cr/](http://www.911.go.cr/)
@@ -90,6 +89,10 @@ Here is a list of all the major items & features of the property, with some guid
   *   If you trip a breaker, you can find the panel in the yoga room.
   *   Although Arenal water is very pure, the kitchen’s water has its own filter and hot water system.
   *   Clothes washer and dryer are in the kitchen, behind the closet doors.
+* **Trash**
+  *   The city of Arenal has trash service every week on Thursday morning (5AM-7AM)
+  *   The cleaning service will take care of any trash. However, if you are staying longer than average guest, you might need to take some bags out. Please only use the metal trash bin to the right of the gate, in this photo:
+      *   ![trashbin](https://user-images.githubusercontent.com/3520532/179368463-44689124-083d-4bea-bc88-95f4c323773f.jpg)
 * **Off-limits Areas**
   *   There are only two internal areas that are off-limits, both rooms have an electronic key-coded door lock. These rooms are for maintenance and owner access only.
   *   The bodega (tool closet) is outdoors. This is not a guest area, but if you do need a rake or shovel for some reason, your door key will open it. However, we ask that you contact Roy for anything that requires these items, he will handle it.
