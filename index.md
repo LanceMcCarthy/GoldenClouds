@@ -160,8 +160,8 @@ The 3 internal cameras that only face the common areas. They are all in clear vi
 * **Guest Access to Camera Feeds** - We can give you guest access to the web dashboard to verify the camera feeds are not recording and have the privacy filter applied (_just ask Lance to enable the guest account, it only take a couple seconds_).
     1. Go to [Golden Clouds - Home Assistant](https://ha.goldenclouds.dvlup.com) and login
        * Username: `localguest`
-       * Password: This will be uniquely created for every quest
+       * Password: This will be uniquely created for every guest
     2. On the Home tab you will see the feeds (and some other stuff you can use) ![ha home](https://user-images.githubusercontent.com/3520532/176267468-24a34c9e-bfb8-480a-a8af-ac6c93dd6e6e.png)
 * Please do not **move**, **remove**, **reposition**, or **unplug** any security devices (loss of power will trigger a security event). Any damage to security devices resulting from guest manipulation will be the responsibility of the guest and submitted to AirCover for reimbursement.
 
-> There are two temporary WiZ cameras: one in the living room on top of the blinds, this is facing the wall and is not used. The one on the window sill faces the left part of the backyard and is for external security. It does not have a view of the patio or jacuzzi. This are temporary while the older external cameras are being replaced.
+> There are two temporary WiZ cameras: one in the living room on top of the blinds, this is facing the wall and is not used. The one on the window sill faces the left part of the backyard and is for external security. It does not have a view of the patio or jacuzzi. You can unplug the internal one if you want.
