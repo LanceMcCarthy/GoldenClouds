@@ -28,7 +28,8 @@ If you have any questions or problems during your stay, here's how to get in tou
 *   **Roy** - Local Property Manager
     *   Whatsapp `+506 8501 7756` (for any problems or questions with the property)
 *   **Lance** and **Irina** - Host
-    *   Use AirBnb Messenger (for casual questions)
+    *   Use AirBnb Messenger for fastest turnaround
+    *   Use email for more robust information (lance @ dvlup . com)
 *   Emergency Services
     *  Medical, Fire, Police `911`
     *  Website [www.911.go.cr/](http://www.911.go.cr/)
