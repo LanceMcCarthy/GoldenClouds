@@ -156,13 +156,15 @@ There are security cameras on the property, please read and understand this sect
 The 3 internal cameras that only face the common areas. They are all in clear view of occupants; **Living Room**, **Game Room** and **Hallway**. These are not recording while there is a guest on the property.
 
 * **Recording Schedule** - The system is not recording or detecting motion while a guest is present, this is the `Guest Present - No Recording` schedule. It begins at 1:00 PM on the day of your check-in and ends on 11:00 AM on the day of your check-out.
-  * You can confirm the 'Guest Present - No Recording" schedule is active when the blue operational light is turned off. ![g3 instant](https://user-images.githubusercontent.com/3520532/173119017-314d9687-0a32-48be-b860-fb89e9156fd8.png) 
-* **Privacy Zones** - In addition to the Guest Present schedule, we also apply privacy zones to the raw video sensor feed. ![privacy zones](https://user-images.githubusercontent.com/3520532/176272380-ba517579-ece8-41e1-8ec8-b56125ed0367.png)
-* **Guest Access to Camera Feeds** - We can give you guest access to the web dashboard to verify the camera feeds are not recording and have the privacy filter applied (_just ask Lance to enable the guest account, it only take a couple seconds_).
-    1. Go to [Golden Clouds - Home Assistant](https://ha.goldenclouds.dvlup.com) and login
-       * Username: `localguest`
-       * Password: This will be uniquely created for every guest
-    2. On the Home tab you will see the feeds (and some other stuff you can use) ![ha home](https://user-images.githubusercontent.com/3520532/176267468-24a34c9e-bfb8-480a-a8af-ac6c93dd6e6e.png)
+* **Guest Access to Camera Feeds** - We can give you guest access to the web dashboard to verify the camera feeds are not recording and have the privacy mode applied (_just ask Lance to enable the guest account, it only take a couple seconds_).
+  1. Go to [Golden Clouds - Home Assistant](https://ha.goldenclouds.dvlup.com) and login
+    * **Username**: `localguest`
+    * **Password**: This will be uniquely created for every guest
+  2. ![HA home page](https://user-images.githubusercontent.com/3520532/185434001-62ca3173-6636-4ef5-a6aa-6066d0d3f197.png)
+* **Privacy Mode** - You have the direct capability to enable and disable Privacy Mode for the 3 internal general area cameras. You can turn on privacy while you're in the house and also turn it off while you're out.
+  1. Click the little eye icon to enable or disable Privacy Mode
+  2. Wait ~5 seconds for the mode to be applied to the device. In this screenshot, the camera on the left has Privacy Mode turned on.
+    * ![privacy mode](https://user-images.githubusercontent.com/3520532/185434308-c15c4f63-29b9-44f7-9987-867001ae20e0.png)
 * Please do not **move**, **remove**, **reposition**, or **unplug** any security devices (loss of power will trigger a security event). Any damage to security devices resulting from guest manipulation will be the responsibility of the guest and submitted to AirCover for reimbursement.
 
 > There are two temporary WiZ cameras: one in the living room on top of the blinds, this is facing the wall and is not used. The one on the window sill faces the left part of the backyard and is for external security. It does not have a view of the patio or jacuzzi. You can unplug the internal one if you want.
