@@ -1,4 +1,4 @@
-Welcome to Golden Clouds! Please take a few minutes to read this before your arrival.
+Welcome to Golden Clouds! Please take 5 minutes to read this **before** your arrival so that you are prepared.
 
 This page contains very important information about the property, amenities, technology (Wi-Fi, security cameras) and other “pro-tips” that will make your experience as pleasurable as possible.
 
@@ -52,18 +52,18 @@ Once you have the gate fob and keys, here is how to use them:
 
 * The key works on all door locks
 * The locks have double locking mechanism, you may need to turn the key 3 times to unlock & unlatch.
-* We recommend entering through the kitchen door. It is the **2nd** door, the one with the screen.
+* We recommend entering through the kitchen door (it's the 2nd door in the driveway, the one with the screen).
 
 ## Check-out
 
 Checking out is straightforward:
 
 1. You can leave all the soiled laundry on the bed you used.
-2. Close all the doors/windows (you've opened) and turn off any lights or fans (that you turned on)
+2. Close all the doors/windows you've opened and turn off any lights or fans that you turned on.
 3. Close the electronic gate after you've driven out 
-4. Lock the keys away in the lockbox you got the keys from (then spin the number wheel to scramble the code).
+4. Lock the keys away in the lockbox you got the keys from, then spin the number wheel to scramble the code.
 
-Thank you for being considerate when sharing our home!
+This is our home, not just an investment property for Airbnb, so we thank you for being considerate!
 
 ## Rooms and Amenities
 
@@ -71,14 +71,12 @@ Here is a list of all the major items & features of the property, with some guid
 
 * **Bathrooms**
   *   Extra shampoo, conditioner and soap can be found in the bottom drawer of bathrooms. Extra towels and linens can be found in the cabinets of the rear bedroom.
-  *   The house uses a septic tank, please do not flush anything except the toilet paper we supply (and ehem, you know what).
-      *   Things like paper towels and sanitary items can result in a backup and is a quick way to have an uncomfortable experience during your stay 😢. There's a wastebasket next to each toilet for these items and plenty of extra trash bags.
+  *   The house uses a septic tank, please do not flush anything extra except the toilet paper we supply (it's made for septic tanks).
+      *   **Warning**: Things like paper towels and sanitary items will result in a backup and is a quick way to have an uncomfortable experience during your stay 😢. There's a wastebasket next to each toilet for these items and plenty of extra trash bags.
   *   Every bathroom has a shower that has its own hot water boiler/tank. It can get hot fast, so test it before jumping in.
 * **Game Room**
-  *   The chair hammock is rolled up on top of the game cabinet. There is a bracket already connected to the patio scaffolding, please only use the hammock there.
-  *   Board games are located in the game room, in the game cabinet.
-      *   Some games are brand new, feel free to open them. Please return them to the same location.
-  *   There is an Xbox One in the game room, but it is not hooked up yet.
+  *   The chair hammock is rolled up on top of the game cabinet. There is a bracket already hanging on the patio scaffolding, only connect the hammock to that hook.
+  *   Board games are located in the game room, in the game cabinet (you can open any new games).
 * **Yoga Room**
   *   This room has yoga mats, ball and weights.
   *   This room also doubles as a private office if you do not want to work at the desk in the living room. You can bring the gameroom table in there, if you’d like.
@@ -106,7 +104,7 @@ Here is a list of all the major items & features of the property, with some guid
 * **Night-time Tips**
   *   Keep the screen door shut if you’re on the patio. We have excellent, non-toxic pest control on the grounds, but you still don’t want a firefly beep-booping around the house while you’re trying to sleep.
   *   Sunset is absolutely breathtaking, grab a chair on the patio, a drink and watch the pastel color show. Use `#GoldenCloudsArenal` and `#NeuvoArenal` hashtags on social. Pro-tip: If you’re showering in the front bathroom at this time of day, slide open the window to get the view!
-  *   At night, especially right after sunset, bright lights will attract insects. I recommend shutting the kitchen door if you have the bar lights/kitchen lights on. This will prevent finding a bunch of insects just outside the door in the morning.
+  *   At night, especially right after sunset, bright lights will attract insects. We recommend keeping the kitchen door closed if you have the bar lights/kitchen lights on. This will prevent finding a bunch of insects just outside the door in the morning.
 
 ## Property Boundary
 
@@ -122,7 +120,7 @@ If you have pets with you, we strongly recommend initially having them on a leas
     * If the house has been empty for a while and someone new arrives, he'll bark from his yard complaining that "you're on his mountain". Don't be concerned, it gives up after 10 or 15 minutes.
 * Occasionally, 2 or 3 of the neighborhood miniature dogs go on a field trip together and go hiking through everyone's yards on the street (these are the same little guys who lay in the middle of the road)
     * They pass through in a couple minutes.
-    * Although they appear to be friendly, do not engage and just ignore them. 
+    * Although they appear to be friendly, do not engage... just ignore them. 
 
 Since we don't know how your pet behaves, we cannot assume responsiblility for their actions. So, we urge a bit of caution and play it safe at first.
 
@@ -130,7 +128,7 @@ Since we don't know how your pet behaves, we cannot assume responsiblility for t
 
 ### Golden Clouds Technology Map
 
-The house has modern internet and security features. From high-speed fiber-optic internet to automated lighting that changes colors through-out the day, you can rest and/or work from paradise. If you're a nerd like me, here's a topological map.
+The house has modern internet and security features. From high-speed fiber-optic internet to automated lighting that changes colors through-out the day, you can rest and/or work from paradise. If you're curious, here's a topological map.
 
 ![tech map smaller](https://user-images.githubusercontent.com/3520532/173123965-d574ac07-489b-4eac-bdef-5fd4691628f5.png)
 
@@ -147,7 +145,7 @@ This what the ToS acceptance page looks like:
 
 ![guest wifi](https://user-images.githubusercontent.com/3520532/173122916-10271660-8cdf-4d39-8a6c-6cdf2537f3a4.png)
 
-> If you have trouble with the Wi-Fi, message Lance. He can fix it in just a couple minutes from anywhere in the world (because he's a nerd 🤓).
+> If you have trouble with the Wi-Fi, message Lance on Airbnb. He can usually fix it in just a couple minutes.
 
 ### Security Cameras
 
@@ -155,16 +153,16 @@ There are security cameras on the property, please read and understand this sect
 
 The 3 internal cameras that only face the common areas. They are all in clear view of occupants; **Living Room**, **Game Room** and **Hallway**. These are not recording while there is a guest on the property.
 
-* **Internal Cameras Disabled** - During your stay, the 3 internal cameras are set to Privacy Mode from 1:00 PM on the day of your check-in and ends on 11:00 AM on the day of your check-out. This *completely blacks out all the pixels at the firmware level!*
-* **Guest Access to Camera Feeds** - IF you would like access to the camera system so that you can enable or disable Privacy Mode, let Lance know and he'll give you a username and password to the Guest Home Assistant website.
-  1. Go to [Golden Clouds - Home Assistant](https://ha.goldenclouds.dvlup.com) and login
-    * **Username**: `localguest`
-    * **Password**: This will be unique for every guest
-  2. ![HA home page](https://user-images.githubusercontent.com/3520532/185434001-62ca3173-6636-4ef5-a6aa-6066d0d3f197.png)
-* **Operating Privacy Mode**
-  1. Click the little eye icon to enable or disable Privacy Mode
-  2. Wait ~5 seconds for the mode to be applied to the device. In this screenshot, the camera on the left has Privacy Mode turned on.
-    * ![privacy mode](https://user-images.githubusercontent.com/3520532/185434308-c15c4f63-29b9-44f7-9987-867001ae20e0.png)
+* **Internal Cameras - Disabled** - During your entire stay, the 3 internal cameras are set to Privacy Mode from 1:00 PM on the day of your check-in and ends on 11:00 AM on the day of your check-out. This *completely blacks out all the pixels at the firmware level.*
+* **Guest Access** - If you would like access to the camera system, so you can manually enable or disable Privacy Mode, let Lance know and he'll enable the Home Assistant guest account.
+    1. Go to [Golden Clouds - Home Assistant](https://ha.goldenclouds.dvlup.com) and login (this is a webpage, not an app)
+        * **Username**: `localguest`
+        * **Password**: `This is newly created for every guest`
+    2. **Operating Privacy Mode**
+        1. Click the little eye icon to enable or disable Privacy Mode
+        2. Wait ~5 seconds for the mode to be applied to the device. In this screenshot, the camera on the left has Privacy Mode turned on.
+            * ![HA home page](https://user-images.githubusercontent.com/3520532/185434001-62ca3173-6636-4ef5-a6aa-6066d0d3f197.png)
+            * ![privacy mode](https://user-images.githubusercontent.com/3520532/185434308-c15c4f63-29b9-44f7-9987-867001ae20e0.png)
 * Please do not **move**, **remove**, **reposition**, or **unplug** any security devices (loss of power will trigger a security event). Any damage to security devices resulting from guest manipulation will be the responsibility of the guest and submitted to AirCover for reimbursement.
 
 If you have any questions or concerns, please do not remain silent! Message Lance on AirBnb and he will respond quickly to answer all your questions.
