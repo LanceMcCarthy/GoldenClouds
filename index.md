@@ -17,7 +17,7 @@ First, to help you get excited for your stay, [here's a 30 second video at sunse
 * [Onsite Technology](#onsite-technology)
   * [Topology](#golden-clouds-technology-map)
   * [Wi-Fi](#wi-fi)
-  * [Security Cameras](#security-cameras)
+  * [Security Cameras](#security-cameras) ⚠️
 
 > You can click any menu item to jump down to that section
 
@@ -99,8 +99,8 @@ Here is a list of all the major items & features of the property, with some guid
   *   Arenal is always ~72 degrees (22 Celsius) and comfortable year-round, the A/C only gets turned on a couple times a year. To use the fans, open the kitchen door, patio door and some side windows, the breeze through the house is amazing. Just don’t forget to put in the screen when you open a window.
   *   If you do need the A/C, the one in the back bedroom is newer and more efficient than the living room one. These are operated with a remote control, but you may need to turn on the breaker first. The front breaker panel is in the yoga room, the rear breaker panel is in the rear bedroom. **If you have trouble with A/C, please contact Roy on Whatsapp**, he will help.
 * **Hot Tubs**
-  *   The external hot tub is manually filled and drained, this is handled by the property manager, Roy. If you need any assistance with this, please contact Roy or Lance (numbers above).
-  *   The internal hot tub is located in the rear bathroom. Fill it using the shower faucet. To use the water jets, push down the white button on the rim of the tub (just make sure there is enough water before turning on the jets).
+  *   A previous guest burned out the heater coil and pump 🥺, thus it has been removed from the Airbnb listing (until repairs can be made). ~~The external hot tub is manually filled and drained, this is handled by the property manager, Roy. If you need any assistance with this, please contact Roy or Lance (numbers above).~~
+  *   The internal hot tub is located in the rear bathroom. Fill it using the shower faucet. To use the water jets, push down the white button on the rim of the tub to activate the pumps (make sure there is enough water before turning on the jets).
 * **Night-time Tips**
   *   Keep the screen door shut if you’re on the patio. We have excellent, non-toxic pest control on the grounds, but you still don’t want a firefly beep-booping around the house while you’re trying to sleep.
   *   Sunset is absolutely breathtaking, grab a chair on the patio, a drink and watch the pastel color show. Use `#GoldenCloudsArenal` and `#NeuvoArenal` hashtags on social. Pro-tip: If you’re showering in the front bathroom at this time of day, slide open the window to get the view!
