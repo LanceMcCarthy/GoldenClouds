@@ -1,4 +1,4 @@
-Welcome to Golden Clouds! Please take 5 minutes to read this **before** your arrival so that you are prepared.
+Welcome to Golden Clouds! Please take 5 minutes to read this **before** your arrival so that you are prepared ([para español, vaya aquí](https://goldenclouds-dvlup-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en)).
 
 This page contains very important information about the property, amenities, technology (Wi-Fi, security cameras) and other “pro-tips” that will make your experience as pleasurable as possible.
 
