@@ -145,7 +145,7 @@ This what the ToS acceptance page looks like:
 
 ![guest wifi](https://user-images.githubusercontent.com/3520532/173122916-10271660-8cdf-4d39-8a6c-6cdf2537f3a4.png)
 
-> If you have trouble with the Wi-Fi, message Lance on Airbnb. He can usually fix it in just a couple minutes.
+> If you have trouble with the Wi-Fi, message Lance on Airbnb. He can usually fix it in just a couple minutes. Network traffic goes through a firewall that blocks known malicious traffic (C2 servers, RATs, etc). As long as you're using HTTPS, it doesn't see what you're doing because it only sees the root domain (e.g. facebook.com). If you'd like more information about how this works, Lance will share the details.
 
 ### Security Cameras
 
