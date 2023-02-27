@@ -61,7 +61,7 @@ Checking out is straightforward:
 1. You can leave all the soiled laundry on the bed you used.
 2. Close all the doors/windows you've opened and turn off any lights or fans that you turned on.
 3. Close the electronic gate after you've driven out 
-4. Lock the keys away in the lockbox you got the keys from, then spin the number wheel to scramble the code.
+4. Put the keys back in the lockbox, then spin scramble the code.
 
 This is our home, not just an investment property for Airbnb, so we thank you for being considerate!
 
@@ -96,11 +96,13 @@ Here is a list of all the major items & features of the property, with some guid
   *   There are only two internal areas that are off-limits, both rooms have an electronic key-coded door lock. These rooms are for maintenance and owner access only.
   *   The bodega (tool closet) is outdoors. This is not a guest area, but if you do need a rake or shovel for some reason, your door key will open it. However, we ask that you contact Roy for anything that requires these items, he will handle it.
 * **Windows, Fans and Air Conditioners**
-  *   Arenal is always ~72 degrees (22 Celsius) and comfortable year-round, the A/C only gets turned on a couple times a year. To use the fans, open the kitchen door, patio door and some side windows, the breeze through the house is amazing. Just don’t forget to put in the screen when you open a window.
-  *   If you do need the A/C, the one in the back bedroom is newer and more efficient than the living room one. These are operated with a remote control, but you may need to turn on the breaker first. The front breaker panel is in the yoga room, the rear breaker panel is in the rear bedroom. **If you have trouble with A/C, please contact Roy on Whatsapp**, he will help.
+  *  Arenal is always ~72 degrees (22 Celsius) and comfortable year-round
+  *  Open the windows, patio door and turn on the ceiling fans to get an excellent whole-house breeze.
+    * Each window has a screen next to it, insert the screen after openign the window    
+  *  For the rare hot times, there are two band-new A/C units (bedroom and living room). Please do not forget it off when not in use or while the doors/windows are open.
+    * Be sure turn 
 * **Hot Tubs**
-  *   A previous guest burned out the heater coil and pump 🥺, thus it has been removed from the Airbnb listing (until repairs can be made). ~~The external hot tub is manually filled and drained, this is handled by the property manager, Roy. If you need any assistance with this, please contact Roy or Lance (numbers above).~~
-  *   The internal hot tub is located in the rear bathroom. Fill it using the shower faucet. To use the water jets, push down the white button on the rim of the tub to activate the pumps (make sure there is enough water before turning on the jets).
+  *   The Jacuzzi and hot tubs are currently unavailable, do not attempt to enable or use them.
 * **Night-time Tips**
   *   Keep the screen door shut if you’re on the patio. We have excellent, non-toxic pest control on the grounds, but you still don’t want a firefly beep-booping around the house while you’re trying to sleep.
   *   Sunset is absolutely breathtaking, grab a chair on the patio, a drink and watch the pastel color show. Use `#GoldenCloudsArenal` and `#NeuvoArenal` hashtags on social. Pro-tip: If you’re showering in the front bathroom at this time of day, slide open the window to get the view!
@@ -149,13 +151,16 @@ This what the ToS acceptance page looks like:
 
 ### Security Cameras
 
-There are security cameras on the property, please read and understand this section so that you can feel comfortable and confident during your stay.
+There are security cameras on the property, please read and understand this section so that you can feel comfortable and confident during your stay.  **__DO NOT__** unplug or reposition the cameras, this will trigger security alerts. We provide you with both privacy options:
 
-The 3 internal cameras that only face the common areas. They are all in clear view of occupants; **Living Room**, **Game Room** and **Hallway**. These are not recording while there is a guest on the property.
+1. A cover you can place over the camera during your stay.
+2. You can electronically access and enable/disable the camera at your demand.
+
+The 3 internal cameras that only face the common areas. They are all in clear view of occupants; **Living Room**, **Game Room** and **Hallway**. These are not recording while there is a guest on the property and are electronically "blacked out" at the firmware level.
 
 * **Internal Cameras - Disabled** - During your entire stay, the 3 internal cameras are set to Privacy Mode from 1:00 PM on the day of your check-in and ends on 11:00 AM on the day of your check-out. This *completely blacks out all the pixels at the firmware level.*
 * **Guest Access** - If you would like access to the camera system, so you can manually enable or disable Privacy Mode, let Lance know and he'll enable the Home Assistant guest account.
-    1. Go to [Golden Clouds - Home Assistant](https://ha.goldenclouds.dvlup.com) and login (this is a webpage, not an app)
+    1. Go to [Golden Clouds - Home Assistant](https://ha.goldenclouds.dvlup.com) website and login (this is a webpage, not an app)
         * **Username**: `localguest`
         * **Password**: `This is newly created for every guest`
     2. **Operating Privacy Mode**
@@ -163,6 +168,7 @@ The 3 internal cameras that only face the common areas. They are all in clear vi
         2. Wait ~5 seconds for the mode to be applied to the device. In this screenshot, the camera on the left has Privacy Mode turned on.
             * ![HA home page](https://user-images.githubusercontent.com/3520532/185434001-62ca3173-6636-4ef5-a6aa-6066d0d3f197.png)
             * ![privacy mode](https://user-images.githubusercontent.com/3520532/185434308-c15c4f63-29b9-44f7-9987-867001ae20e0.png)
+
 * Please do not **move**, **remove**, **reposition**, or **unplug** any security devices (loss of power will trigger a security event). Any damage to security devices resulting from guest manipulation will be the responsibility of the guest and submitted to AirCover for reimbursement.
 
 If you have any questions or concerns, please do not remain silent! Message Lance on AirBnb and he will respond quickly to answer all your questions.
