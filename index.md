@@ -1,6 +1,6 @@
 Welcome to Golden Clouds! Please take 5 minutes to read this **before** your arrival so that you are prepared ([para español, vaya aquí](https://goldenclouds-dvlup-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en)).
 
-This page contains very important information about the property, amenities, technology (Wi-Fi, security cameras) and other “pro-tips” that will make your experience as pleasurable as possible.
+This page contains very important information about the property, amenities, technology (Wi-Fi, security cameras) and other “pro-tips” that will make your experience as pleasurable as possible. Please carefully read anything that says "warning"
 
 First, to help you get excited for your stay, [here's a 30 second video at sunset](https://youtu.be/wHkB9e4JbyI):
 
@@ -18,6 +18,7 @@ First, to help you get excited for your stay, [here's a 30 second video at sunse
   * [Topology](#golden-clouds-technology-map)
   * [Wi-Fi](#wi-fi)
   * [Security Cameras](#security-cameras) ⚠️
+* [Photos!](#photos)
 
 > You can click any menu item to jump down to that section
 
@@ -73,7 +74,7 @@ Here is a list of all the major items & features of the property, with some guid
   *   Extra shampoo, conditioner and soap can be found in the bottom drawer of bathrooms. Extra towels and linens can be found in the cabinets of the rear bedroom.
   *   The house uses a septic tank, please do not flush anything extra except the toilet paper we supply (it's made for septic tanks).
       *   **Warning**: Things like paper towels and sanitary items will result in a backup and is a quick way to have an uncomfortable experience during your stay 😢. There's a wastebasket next to each toilet for these items and plenty of extra trash bags.
-  *   Every bathroom has a shower that has its own hot water boiler/tank. It can get hot fast, so test it before jumping in.
+  *   Every bathroom has a shower that has its own hot water boiler/tank, we recommend the main bathroom for showering. Water can get hot really fast, test it before jumping in.
 * **Game Room**
   *   The chair hammock is rolled up on top of the game cabinet. There is a bracket already hanging on the patio scaffolding, only connect the hammock to that hook.
   *   Board games are located in the game room, in the game cabinet (you can open any new games).
@@ -98,11 +99,13 @@ Here is a list of all the major items & features of the property, with some guid
 * **Windows, Fans and Air Conditioners**
   *  Arenal is always ~72 degrees (22 Celsius) and comfortable year-round
   *  Open the windows, patio door and turn on the ceiling fans to get an excellent whole-house breeze.
-    * Each window has a screen next to it, insert the screen after openign the window    
-  *  For the rare hot times, there are two band-new A/C units (bedroom and living room). Please do not forget it off when not in use or while the doors/windows are open.
-    * Be sure turn 
+    * Each window has a screen next to it, insert the screen after opening the window    
+  *  For the rare hot/humid times, there are two band-new A/C units (bedroom and living room). Please do not forget it off when not in use or while the doors/windows are open.
 * **Hot Tubs**
-  *   The Jacuzzi and hot tubs are currently unavailable, do not attempt to enable or use them.
+  *   The outdoor one is operational, but:
+    *  **WARNING**: Do not attempt to use it yourself, ask Roy or Lance to enable it (it has a custom pump and heater system and is not guest operable)     
+    *  The max temp is 85 degrees, we classify this as a warm plunge pool with jets.
+  *   The indoor one does not have operational jets, only use it as a bath tub.
 * **Night-time Tips**
   *   Keep the screen door shut if you’re on the patio. We have excellent, non-toxic pest control on the grounds, but you still don’t want a firefly beep-booping around the house while you’re trying to sleep.
   *   Sunset is absolutely breathtaking, grab a chair on the patio, a drink and watch the pastel color show. Use `#GoldenCloudsArenal` and `#NeuvoArenal` hashtags on social. Pro-tip: If you’re showering in the front bathroom at this time of day, slide open the window to get the view!
@@ -139,36 +142,60 @@ The house has modern internet and security features. From high-speed fiber-optic
 This is the same kind of Wi-Fi that you’ve used at airports, hospitals, stadiums, etc. 
 
 1. Connect to `Golden Clouds Guest` (no password).
-2. Your device should automatically open the Terms of Service (ToS) web page
-    * If it doesn't open automatically, open a web browser on your device and go to any website (this will force it to load).
+2. Your device should automatically open the Terms of Service (ToS) web page, just like airports.
 3. Accept the ToS and you're done.
 
 This what the ToS acceptance page looks like:
 
 ![guest wifi](https://user-images.githubusercontent.com/3520532/173122916-10271660-8cdf-4d39-8a6c-6cdf2537f3a4.png)
 
-> If you have trouble with the Wi-Fi, message Lance on Airbnb. He can usually fix it in just a couple minutes. Network traffic goes through a firewall that blocks known malicious traffic (C2 servers, RATs, etc). As long as you're using HTTPS, it doesn't see what you're doing because it only sees the root domain (e.g. facebook.com). If you'd like more information about how this works, Lance will share the details.
+> If you have trouble with the Wi-Fi, message Lance on Airbnb. He can usually fix it in just a couple minutes remotely.
 
 ### Security Cameras
 
-There are security cameras on the property, please read and understand this section so that you can feel comfortable and confident during your stay.  **__DO NOT__** unplug or reposition the cameras, this will trigger security alerts. We provide you with both privacy options:
+There are security cameras on the property, this is a fact of life in Costa Rica that you will find on many properties. Please read and understand this section so that you can feel comfortable and confident during your stay. 
 
-1. A cover you can place over the camera during your stay.
-2. You can electronically access and enable/disable the camera at your demand.
+1. The cameras all have an internal blackout that is enabled during guest stays, but we provide 3 camera covers for your additional peace of mind.
+2. **__DO NOT__** unplug or reposition the cameras, this will trigger security alert (use the camera covers)
+3. You can access and enable/disable the camera feeds at your demand, if you want it as an option when you leave the property.
 
 The 3 internal cameras that only face the common areas. They are all in clear view of occupants; **Living Room**, **Game Room** and **Hallway**. These are not recording while there is a guest on the property and are electronically "blacked out" at the firmware level.
 
-* **Internal Cameras - Disabled** - During your entire stay, the 3 internal cameras are set to Privacy Mode from 1:00 PM on the day of your check-in and ends on 11:00 AM on the day of your check-out. This *completely blacks out all the pixels at the firmware level.*
+* **Internal Cameras - Disabled During your entire stay** - The 3 internal cameras are set to Privacy Mode from 1:00 PM on the day of your check-in and ends on 11:00 AM on the day of your check-out. This *completely blacks out all the pixels at the firmware level.*
 * **Guest Access** - If you would like access to the camera system, so you can manually enable or disable Privacy Mode, let Lance know and he'll enable the Home Assistant guest account.
     1. Go to [Golden Clouds - Home Assistant](https://ha.goldenclouds.dvlup.com) website and login (this is a webpage, not an app)
         * **Username**: `localguest`
-        * **Password**: `This is newly created for every guest`
+        * **Password**: `your airbnb name`
     2. **Operating Privacy Mode**
         1. Click the little eye icon to enable or disable Privacy Mode
         2. Wait ~5 seconds for the mode to be applied to the device. In this screenshot, the camera on the left has Privacy Mode turned on.
             * ![HA home page](https://user-images.githubusercontent.com/3520532/185434001-62ca3173-6636-4ef5-a6aa-6066d0d3f197.png)
             * ![privacy mode](https://user-images.githubusercontent.com/3520532/185434308-c15c4f63-29b9-44f7-9987-867001ae20e0.png)
 
-* Please do not **move**, **remove**, **reposition**, or **unplug** any security devices (loss of power will trigger a security event). Any damage to security devices resulting from guest manipulation will be the responsibility of the guest and submitted to AirCover for reimbursement.
+* Again, please do not **move**, **remove**, **reposition**, or **unplug** any security devices. Any damage to security devices resulting from guest manipulation will be the responsibility of the guest and submitted to AirCover for reimbursement.
 
 If you have any questions or concerns, please do not remain silent! Message Lance on AirBnb and he will respond quickly to answer all your questions.
+
+## Photos
+
+Here are some photos to prepare you for your visit:
+
+![sunset on the patio](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/b09eb353-a71d-4e60-a168-776e6a7f75c5)
+![patio midday](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/14a32ded-b048-446a-8637-d04f2d25c234)
+![rainbow](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/336dcfcb-5258-42bc-89bd-4895e1014734)
+![cotton candy sky](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/d43775ce-ac42-4d45-b6b4-c2a6fe1cba68)
+![living room from kitchen](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/cba14676-83f3-43b8-8c68-1f7d16189180)
+![view from barstools](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/29f9a41f-b1c0-417d-9d81-820d71b30108)
+![view from sofa](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/d5c537de-0bfa-4d76-b570-9a179cb1ebc5)
+![WFH](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/c8a25408-5bf8-4b13-bcb8-2e7ef2125875)
+![gate](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/cd417a88-f41c-4594-98a7-5910627066a6)
+![game room](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/f0c3b51d-de47-4e42-ac68-9e9a5af8309f)
+![living room facing kitchen](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/0245c5a0-57de-4f7a-8034-e3a74dcf34d7)
+![yoga room](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/37ae28b5-315b-4d2c-a196-1f12eccfb544)
+![main guest bedroom](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/cfa24f4a-9260-4330-b717-bfd24142d070)
+![second guest bedroom](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/5bdb0a8e-02c1-4ce2-9be4-efe9273615e2)
+![primary bathroom](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/70e036d2-9c09-41a2-813d-b5a6b0f901d8)
+![second bathroom](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/f20b11ae-ff89-40ba-851e-e7e76d34bc8f)
+![third bathroom](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/0967a588-4d74-481a-9300-93ee45fb8d7a)
+![post sunset view](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/3694ca7f-ff2d-4ecc-9452-a8650012355e)
+![cloud formation](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/0d13123d-bbc1-45be-a415-3be0ebcec2a4)
