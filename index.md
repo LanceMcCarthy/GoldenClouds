@@ -20,7 +20,7 @@ First, to help you get excited for your stay, [here's a 30 second video at sunse
   * [Security Cameras](#security-cameras) ⚠️
 * [Photos!](#photos)
 
-> You can click any menu item to jump down to that section
+> Click any item to jump to that section
 
 ## Contacts
 
@@ -79,9 +79,9 @@ Here is a list of all the major items & features of the property, with some guid
   *   The chair hammock is rolled up on top of the game cabinet. There is a bracket already hanging on the patio scaffolding, only connect the hammock to that hook.
   *   Board games are located in the game room, in the game cabinet (you can open any new games).
 * **Yoga Room**
-  *   This room has yoga mats, ball and weights.
-  *   This room also doubles as a private office if you do not want to work at the desk in the living room. You can bring the gameroom table in there, if you’d like.
-  *   It has ambient lighting via an LED strip. You can change the color and brightness using the 3-button controller next to the cabinet. The strip will automatically change at sunset and sunrise.
+  *   This room has yoga mats, ball, weights, and a mirror.
+  *   This room also doubles as a private office if you do not want to work in the living room with gorgeous view. The gameroom table can be moved in there to act as desktop, the living room desk is very heavy and should be moved.
+  *   There is LED ambiance lighting in this room. You can change the color and brightness using the 3-button controller next to the cabinet. The strip will automatically change at sunset and sunrise.
 * **Kitchen**
   *   The kitchen is at your disposal, here are a few important things to keep in mind
   *   Be sure to clean up thoroughly when you’re done. Remember that you’re in a jungle, any dropped food or scraps will attract insects.
@@ -96,16 +96,15 @@ Here is a list of all the major items & features of the property, with some guid
 * **Off-limits Areas**
   *   There are only two internal areas that are off-limits, both rooms have an electronic key-coded door lock. These rooms are for maintenance and owner access only.
   *   The bodega (tool closet) is outdoors. This is not a guest area, but if you do need a rake or shovel for some reason, your door key will open it. However, we ask that you contact Roy for anything that requires these items, he will handle it.
-* **Windows, Fans and Air Conditioners**
+* **Windows | Fans | Air Conditioners**
   *  Arenal is always ~72 degrees (22 Celsius) and comfortable year-round
   *  Open the windows, patio door and turn on the ceiling fans to get an excellent whole-house breeze.
     * Each window has a screen next to it, insert the screen after opening the window    
-  *  For the rare hot/humid times, there are two band-new A/C units (bedroom and living room). Please do not forget it off when not in use or while the doors/windows are open.
-* **Hot Tubs**
-  *   The outdoor one is operational, but:
-    *  **WARNING**: Do not attempt to use it yourself, ask Roy or Lance to enable it (it has a custom pump and heater system and is not guest operable)     
-    *  The max temp is 85 degrees, we classify this as a warm plunge pool with jets.
-  *   The indoor one does not have operational jets, only use it as a bath tub.
+  *  For the rare hot/humid times, there are two brand-new A/C units (bedroom and living room). Please do not forget it off when not in use or while the doors/windows are open. You can use smart timers, if you're familiar with the controls.
+* **Jacuzzis (unlisted feature)**
+  * These are not in the Airbnb listing because they break frequently and we do not want to promise their availability. If it is not working while you're there, that's great... but if they weren't, please keep this fact in mind when leaving an airbnb review :)
+      *   Outdoor tub: The external tub/plunge pool has jets and caps at 85 degrees (30 Celcius). **WARNING** do not attempt to use it yourself before talking to Roy (the property manager). He will enable it for you and then teach you how to use it. *This is for your own safety as It has a custom migrated system that is not guest operable from the top panel*.
+      *   Indoor tub: The indoor one does not have operational jets, this one is more for hot bubble baths w/candles and LED lighting.
 * **Night-time Tips**
   *   Keep the screen door shut if you’re on the patio. We have excellent, non-toxic pest control on the grounds, but you still don’t want a firefly beep-booping around the house while you’re trying to sleep.
   *   Sunset is absolutely breathtaking, grab a chair on the patio, a drink and watch the pastel color show. Use `#GoldenCloudsArenal` and `#NeuvoArenal` hashtags on social. Pro-tip: If you’re showering in the front bathroom at this time of day, slide open the window to get the view!
@@ -123,9 +122,9 @@ If you have pets with you, we strongly recommend initially having them on a leas
 * The neighbor on the left has an old yellow Golden Retriever dog.
     * It's relatively timid and stays away from people.
     * If the house has been empty for a while and someone new arrives, he'll bark from his yard complaining that "you're on his mountain". Don't be concerned, it gives up after 10 or 15 minutes.
-* Occasionally, 2 or 3 of the neighborhood miniature dogs go on a field trip together and go hiking through everyone's yards on the street (these are the same little guys who lay in the middle of the road)
+* Occasionally, a couple of the neighborhood's small dogs go on a field trip together and hike through everyone's yards on the street (these are the same little guys who lay in the middle of the road)
     * They pass through in a couple minutes.
-    * Although they appear to be friendly, do not engage... just ignore them. 
+    * Although they may appear to be friendly, do not engage... just ignore them. 
 
 Since we don't know how your pet behaves, we cannot assume responsiblility for their actions. So, we urge a bit of caution and play it safe at first.
 
@@ -133,16 +132,14 @@ Since we don't know how your pet behaves, we cannot assume responsiblility for t
 
 ### Golden Clouds Technology Map
 
-The house has modern internet and security features. From high-speed fiber-optic internet to automated lighting that changes colors through-out the day, you can rest and/or work from paradise. If you're curious, here's a topological map.
-
-![tech map smaller](https://user-images.githubusercontent.com/3520532/173123965-d574ac07-489b-4eac-bdef-5fd4691628f5.png)
+The house has modern internet and security features. From high-speed fiber-optic internet, to automated lighting that changes colors through-out the day, you can rest and/or work from paradise.
 
 ### Wi-Fi
 
 This is the same kind of Wi-Fi that you’ve used at airports, hospitals, stadiums, etc. 
 
 1. Connect to `Golden Clouds Guest` (no password).
-2. Your device should automatically open the Terms of Service (ToS) web page, just like airports.
+2. Your device should automatically open the Terms of Service (ToS) web page, just like airports and coffee shops.
 3. Accept the ToS and you're done.
 
 This what the ToS acceptance page looks like:
@@ -153,20 +150,23 @@ This what the ToS acceptance page looks like:
 
 ### Security Cameras
 
-There are security cameras on the property, this is a fact of life in Costa Rica that you will find on many properties. Please read and understand this section so that you can feel comfortable and confident during your stay. 
+It is really important that you read and understand this section so that you can feel comfortable and confident during your stay.  There are security cameras on the property, this is a fact of life in Costa Rica that you will find on many properties.
 
-1. The cameras all have an internal blackout that is enabled during guest stays, but we provide 3 camera covers for your additional peace of mind.
-2. **__DO NOT__** unplug or reposition the cameras, this will trigger security alert (use the camera covers)
+There are only 3 internal cameras facing the common areas. They are all in clear view of occupants; **Living Room**, **Game Room** and **Hallway**. These are not recording while there is a guest on the property and are electronically "blacked out" at the firmware level (see screenshots below).
+
+1. The internal cameras all have a blackout feature that is enabled during guest stays.
+2. **__DO NOT__** unplug or reposition the cameras, this will trigger security alert. Use the provided camera covers for additional peace of mind.
 3. You can access and enable/disable the camera feeds at your demand, if you want it as an option when you leave the property.
+4. Camer Vovers - You will find three blue covers in the kitchen, they look like cups and are made out of opaque painter's tape.
 
-The 3 internal cameras that only face the common areas. They are all in clear view of occupants; **Living Room**, **Game Room** and **Hallway**. These are not recording while there is a guest on the property and are electronically "blacked out" at the firmware level.
+#### Camera Access & Info
 
-* **Internal Cameras - Disabled During your entire stay** - The 3 internal cameras are set to Privacy Mode from 1:00 PM on the day of your check-in and ends on 11:00 AM on the day of your check-out. This *completely blacks out all the pixels at the firmware level.*
+* **Internal Cameras - Disabled During your entire stay** - The 3 internal cameras are set to Privacy Mode, which *completely blacks out all the pixels at the firmware level.*
 * **Guest Access** - If you would like access to the camera system, so you can manually enable or disable Privacy Mode, let Lance know and he'll enable the Home Assistant guest account.
     1. Go to [Golden Clouds - Home Assistant](https://ha.goldenclouds.dvlup.com) website and login (this is a webpage, not an app)
         * **Username**: `localguest`
-        * **Password**: `your airbnb name`
-    2. **Operating Privacy Mode**
+        * **Password**: `your first name`
+    2. Operating **Privacy Mode**
         1. Click the little eye icon to enable or disable Privacy Mode
         2. Wait ~5 seconds for the mode to be applied to the device. In this screenshot, the camera on the left has Privacy Mode turned on.
             * ![HA home page](https://user-images.githubusercontent.com/3520532/185434001-62ca3173-6636-4ef5-a6aa-6066d0d3f197.png)
