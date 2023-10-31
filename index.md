@@ -158,6 +158,8 @@ There are only 3 internal cameras facing the common areas. They are all in clear
 2. **__DO NOT__** unplug or reposition the cameras, this will trigger security alert. Use the provided camera covers for additional peace of mind.
 3. You can access and enable/disable the camera feeds at your demand, if you want it as an option when you leave the property.
 4. Camera Privacy Covers - You will find three blue covers in the kitchen, they look like cups and are made out of opaque painter's tape.
+    -  ![privacy covers](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/1dd13ce6-c01b-4a49-ae66-304ee7f3fa63)
+
 
 #### Camera Access & Info
 
