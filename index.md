@@ -106,14 +106,14 @@ Here is a list of all the major items & features of the property, with some guid
   *  Open the windows, patio door and turn on the ceiling fans to get an excellent whole-house breeze.
     * Each window has a screen next to it, insert the screen after opening the window    
   *  For the rare hot/humid times, there are two brand-new A/C units (bedroom and living room). Please do not forget it off when not in use or while the doors/windows are open. You can use smart timers, if you're familiar with the controls.
-* **Jacuzzis (unlisted feature)**
-  * These are not in the online listing because they break frequently and we do not want to promise their availability. If it is working while you're there, that's great... but if it is not, please keep in mind when leaving a review :)
+* **Jacuzzis** - `[unlisted feature]`
+  * These are not in the online listing because they break frequently and we do not want to always promise their availability. If it is working while you're there, that's great... but if it is not, please keep this non-dedication in mind when leaving a review :)
       *   **Outdoor Jacuzzi**: We are waiting for a new control unit, which limits the temperature. In the meantime, guests can still use it as everything works, but only of the property manager (Roy) sets it up for you at specific temperature. `This is for your own safety! Do not attempt to operate it yourself, you run the risk of serious physical harm due to overheating`.
       *   **Indoor tub**: The indoor one does not have operational jets, but it still can be used for hot bubble baths w/candles or the room's LED lighting.
 * **Night-time Tips**
   *   Keep the screen door shut if you’re on the patio. We have excellent, non-toxic pest control on the grounds, but you still don’t want a firefly beep-booping around the house while you’re trying to sleep.
   *   Sunset is absolutely breathtaking, grab a chair on the patio, a drink and watch the pastel color show. Use `#GoldenCloudsArenal` and `#NeuvoArenal` hashtags on social. Pro-tip: If you’re showering in the front bathroom at this time of day, slide open the window to get the view!
-  *   At night, especially right after sunset, bright lights will attract insects. We recommend keeping the kitchen door closed if you have the bar lights/kitchen lights on. This will prevent finding a bunch of insects just outside the door in the morning.
+  *   At night, especially right after sunset, bright lights will attract insects. We recommend keeping the kitchen door closed if you have the bar/kitchen lights on. This will prevent finding a bunch of insects just outside the door in the morning.
 
 ## Property Boundary
 
@@ -161,7 +161,7 @@ There are only 3 internal cameras facing the common areas. They are all in clear
 
 1. The internal cameras all have a blackout feature that is enabled during guest stays.
 2. **__DO NOT__** unplug or reposition the cameras, this will trigger security alert. Use the provided camera covers for additional peace of mind.
-3. You can access and enable/disable the camera feeds at your demand, if you want it as an option when you leave the property.
+3. You can access and enable/disable the camera feeds at your demand, if you want it as an option when you leave the property (see the [Camera Access & Info](#camera-access--info) section below).
 4. Camera Privacy Covers - You will find three blue covers in the kitchen, they look like cups and are made out of opaque painter's tape.
     -  ![privacy covers](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/1dd13ce6-c01b-4a49-ae66-304ee7f3fa63)
 
