@@ -6,19 +6,20 @@ First, to help you get excited for your stay, [here's a 30 second video at sunse
 
 ### Table of Contents
 
-* [Contacts](#contacts)
-* [Check-in](#check-in)
-    * [Gated Entrance and Keys](#gated-entrance-and-keys)
-    * [Key Operation](#key-operation)
-* [Check-out](#check-out)
-* [Rooms and Amenities](#rooms-and-amenities)
-* [Property Boundary](#property-boundary)
-  * [Pets](#pets)
-* [Onsite Technology](#onsite-technology)
-  * [Topology](#golden-clouds-technology-map)
-  * [Wi-Fi](#wi-fi)
-  * [Security Cameras](#security-cameras) ⚠️
-* [Photos!](#photos)
+- [Contacts](#contacts)
+- [Check-in](#check-in)
+  - [Gated Entrance and Keys](#gated-entrance-and-keys)
+  - [Key Operation](#key-operation)
+- [Check-out](#check-out)
+- [Rooms and Amenities](#rooms-and-amenities)
+- [Property Boundary](#property-boundary)
+    - [Pets](#pets)
+- [Onsite Technology](#onsite-technology)
+  - [Golden Clouds Technology Map](#golden-clouds-technology-map)
+  - [Wi-Fi](#wi-fi)
+  - [Security Cameras](#security-cameras)
+    - [Camera Access \& Info](#camera-access--info)
+- [Photos](#photos)
 
 > Click any item to jump to that section
 
@@ -51,9 +52,9 @@ Once you have the gate fob and keys, here is how to use them:
 
 ### Key Operation
 
-* The key works on all door locks
+* The key works on all door locks available to guests.
 * The locks have double locking mechanism, you may need to turn the key 3 times to unlock & unlatch.
-* We recommend entering through the kitchen door (it's the 2nd door in the driveway, the one with the screen).
+* You must enter through the kitchen door (it's the 2nd door in the carport, the one with the screen door). The first door is a utility room and is inaccessible to guests.
 
 ## Check-out
 
@@ -61,8 +62,9 @@ Checking out is straightforward:
 
 1. You can leave all the soiled laundry on the bed you used.
 2. Close all the doors/windows you've opened and turn off any lights or fans that you turned on.
-3. Close the electronic gate after you've driven out 
-4. Put the keys back in the lockbox, then spin scramble the code.
+3. Turn of any Air Conditioners
+4. Close the electronic gate after you've driven out 
+5. Put the keys back in the lockbox, scramble the code and close to lock it.
 
 This is our home, not just an investment property for Airbnb, so we thank you for being considerate!
 
@@ -71,27 +73,30 @@ This is our home, not just an investment property for Airbnb, so we thank you fo
 Here is a list of all the major items & features of the property, with some guidance and recommendations.
 
 * **Bathrooms**
-  *   Extra shampoo, conditioner and soap can be found in the bottom drawer of bathrooms. Extra towels and linens can be found in the cabinets of the rear bedroom.
-  *   The house uses a septic tank, please do not flush anything extra except the toilet paper we supply (it's made for septic tanks).
-      *   **Warning**: Things like paper towels and sanitary items will result in a backup and is a quick way to have an uncomfortable experience during your stay 😢. There's a wastebasket next to each toilet for these items and plenty of extra trash bags.
-  *   Every bathroom has a shower that has its own hot water boiler/tank, we recommend the main bathroom for showering. Water can get hot really fast, test it before jumping in.
+    * Extra shampoo, conditioner and soap can be found in the bottom drawer of bathrooms. Extra towels and linens can be found in the cabinets of the rear bedroom.
+    * The house uses a septic tank, please do not flush anything extra except the toilet paper we supply (it's made for septic tanks).
+      * **Important**: Non-toilet paper items (paper towels, sanitary items, etc) *will* result in a backup and is a quick way to have an uncomfortable experience during your stay 😢. There's a wastebasket next to each toilet dedicated for these items and plenty of extra trash bags in case you want to empty it early (this is common behavior in Costa Rica).
+    * Every bathroom has a shower that has its own hot water boiler/tank, we recommend the main bathroom for showering. Water can get hot really fast, so start with a tiny bit of hot water, then add cold. Always test it before jumping in :)
+* **Back Patio**
+  * There are two chair hammocks available above the game room cabinet. These hammock chairs hook into the rings in the overhead structure.
+  * Full hammock. We do not yet have a dedicated place to hook this up to yet, please do not use this one.
 * **Game Room**
-  *   The chair hammock is rolled up on top of the game cabinet. There is a bracket already hanging on the patio scaffolding, only connect the hammock to that hook.
   *   Board games are located in the game room, in the game cabinet (you can open any new games).
+  *   There is an Xbox available, but it is not hooked up. If you require this for any kids, the property manager can bring out the TV from the storage room.
 * **Yoga Room**
   *   This room has yoga mats, ball, weights, and a mirror.
   *   This room also doubles as a private office if you do not want to work in the living room with gorgeous view. The gameroom table can be moved in there to act as desktop, the living room desk is very heavy and should be moved.
-  *   There is LED ambiance lighting in this room. You can change the color and brightness using the 3-button controller next to the cabinet. The strip will automatically change at sunset and sunrise.
+  *   There is LED ambiance lighting in this room. You can change the color and brightness using the 3-button controller next to the cabinet or the controller from the kitchen. The strip will automatically change at sunset and sunrise.
 * **Kitchen**
-  *   The kitchen is at your disposal, here are a few important things to keep in mind
-  *   Be sure to clean up thoroughly when you’re done. Remember that you’re in a jungle, any dropped food or scraps will attract insects.
-  *   There is no garbage disposal, food scraps should be thrown out into the jungle instead of a trash bag.
-  *   If you trip a breaker, you can find the panel in the yoga room.
-  *   Although Arenal water is very pure, the kitchen’s water has its own filter and hot water system.
-  *   Clothes washer and dryer are in the kitchen, behind the closet doors.
+  *  The kitchen is at your disposal, here are a few important things to keep in mind
+  *  Be sure to clean up thoroughly when you’re done. Remember that you’re in a jungle, any dropped food or scraps will attract insects.
+  *  There is no garbage disposal, food scraps should be thrown out into the jungle instead of a trash bag.
+  *  If you trip a breaker, you can find the panel in the yoga room.
+  *  Although Arenal water is very pure, the kitchen’s water has its own filter and hot water system.
+  *  Clothes washer and dryer are in the kitchen, behind the closet doors.
 * **Trash**
-  *   The city of Arenal has trash service every week on Thursday morning (5AM-7AM)
-  *   The cleaning service will take care of any trash. However, if you are staying longer than average guest, you might need to take some bags out. Please only use the metal trash bin to the right of the gate, in this photo:
+  *  The city of Arenal has trash service every week on Thursday morning (5AM-7AM)
+  *  The cleaning service will take care of any trash. However, if you are staying longer than average guest, you might need to take some bags out. Please only use the metal trash bin to the right of the gate, in this photo:
       *   ![trashbin](https://user-images.githubusercontent.com/3520532/179368463-44689124-083d-4bea-bc88-95f4c323773f.jpg)
 * **Off-limits Areas**
   *   There are only two internal areas that are off-limits, both rooms have an electronic key-coded door lock. These rooms are for maintenance and owner access only.
@@ -102,9 +107,9 @@ Here is a list of all the major items & features of the property, with some guid
     * Each window has a screen next to it, insert the screen after opening the window    
   *  For the rare hot/humid times, there are two brand-new A/C units (bedroom and living room). Please do not forget it off when not in use or while the doors/windows are open. You can use smart timers, if you're familiar with the controls.
 * **Jacuzzis (unlisted feature)**
-  * These are not in the Airbnb listing because they break frequently and we do not want to promise their availability. If it is working while you're there, that's great... but if it is not, please keep in mind when leaving an airbnb review :)
-      *   Outdoor tub: The external tub/plunge pool has jets and caps at 85 degrees (30 Celcius). **WARNING** do not attempt to use it yourself before talking to Roy (the property manager). He will enable it for you and then teach you how to use it. *This is for your own safety as It has a custom migrated system that is not guest operable from the top panel*.
-      *   Indoor tub: The indoor one does not have operational jets, this one is more for hot bubble baths w/candles and LED lighting.
+  * These are not in the online listing because they break frequently and we do not want to promise their availability. If it is working while you're there, that's great... but if it is not, please keep in mind when leaving a review :)
+      *   **Outdoor Jacuzzi**: We are waiting for a new control unit, which limits the temperature. In the meantime, guests can still use it as everything works, but only of the property manager (Roy) sets it up for you at specific temperature. `This is for your own safety! Do not attempt to operate it yourself, you run the risk of serious physical harm due to overheating`.
+      *   **Indoor tub**: The indoor one does not have operational jets, but it still can be used for hot bubble baths w/candles or the room's LED lighting.
 * **Night-time Tips**
   *   Keep the screen door shut if you’re on the patio. We have excellent, non-toxic pest control on the grounds, but you still don’t want a firefly beep-booping around the house while you’re trying to sleep.
   *   Sunset is absolutely breathtaking, grab a chair on the patio, a drink and watch the pastel color show. Use `#GoldenCloudsArenal` and `#NeuvoArenal` hashtags on social. Pro-tip: If you’re showering in the front bathroom at this time of day, slide open the window to get the view!
