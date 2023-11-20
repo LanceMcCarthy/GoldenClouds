@@ -177,8 +177,8 @@ If you would like access to the camera system, so you can manually enable or dis
     * **Username**: `localguest`
     * **Password**: `your first name (all lowercase)`
 2. Operating **Privacy Mode**
-  1. Click the little eye icon to enable or disable Privacy Mode
-  2. Wait ~5 seconds for the mode to be applied to the device. In this screenshot, the camera on the left has Privacy Mode turned on.
+    1. Click the little eye icon to enable or disable Privacy Mode
+    2. Wait ~5 seconds for the mode to be applied to the device. In this screenshot, the camera on the left has Privacy Mode turned on.
       * ![HA home page](https://user-images.githubusercontent.com/3520532/185434001-62ca3173-6636-4ef5-a6aa-6066d0d3f197.png)
       * ![privacy mode](https://user-images.githubusercontent.com/3520532/185434308-c15c4f63-29b9-44f7-9987-867001ae20e0.png)
 
