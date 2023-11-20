@@ -18,7 +18,8 @@ First, to help you get excited for your stay, [here's a 30 second video at sunse
   - [Golden Clouds Technology Map](#golden-clouds-technology-map)
   - [Wi-Fi](#wi-fi)
   - [Security Cameras](#security-cameras)
-    - [Camera Access \& Info](#camera-access--info)
+    - [Guest Camera Access](#guest-camera-access)
+- [Videos](#videos)
 - [Photos](#photos)
 
 > Click any item to jump to that section
@@ -29,9 +30,9 @@ If you have any questions or problems during your stay, here's how to get in tou
 
 *   **Roy** - Local Property Manager
     *   Whatsapp `+506 8501 7756` (for any problems or questions with the property)
-*   **Lance** and **Irina** - Host
-    *   Use AirBnb Messenger for fastest turnaround
-    *   Use email for more robust information (lance @ dvlup . com)
+*   **Lance** and **Irina** - Host/Owner
+    *   Use AirBnb/Vrbo chat for fastest turnaround
+    *   Use email to share more robust information (lance @ dvlup . com)
 *   Emergency Services
     *  Medical, Fire, Police `911`
     *  Website [www.911.go.cr/](http://www.911.go.cr/)
@@ -151,37 +152,46 @@ This what the ToS acceptance page looks like:
 
 ![guest wifi](https://user-images.githubusercontent.com/3520532/173122916-10271660-8cdf-4d39-8a6c-6cdf2537f3a4.png)
 
-> If you have trouble with the Wi-Fi, message Lance on Airbnb. He can usually fix it in just a couple minutes remotely.
+> If you have trouble with the Wi-Fi, message Lance in the AirBnb/Vrbo app. He can usually fix it in just a couple minutes remotely.
 
 ### Security Cameras
 
-It is really important that you read and understand this section so that you can feel comfortable and confident during your stay.  There are security cameras on the property, this is a fact of life in Costa Rica that you will find on many properties.
+It is really important that you read and understand this section so that you can feel comfortable and confident with your privacy during your stay.
 
-There are only 3 internal cameras facing the common areas. They are all in clear view of occupants; **Living Room**, **Game Room** and **Hallway**. These are not recording while there is a guest on the property and are electronically "blacked out" at the firmware level (see screenshots below).
+There are security cameras on the property, this is a fact of life in Costa Rica that you will find on many properties.
+
+There are only 3 internal cameras facing the common areas. They are all in clear view of occupants; **Living Room**, **Game Room** and **Hallway**. These are all electronically blacked out at the firmware level (see screenshots below), and the guest can use the camera covers if they desire.
 
 1. The internal cameras all have a blackout feature that is enabled during guest stays.
-2. **__DO NOT__** unplug or reposition the cameras, this will trigger security alert. Use the provided camera covers for additional peace of mind.
-3. You can access and enable/disable the camera feeds at your demand, if you want it as an option when you leave the property (see the [Camera Access & Info](#camera-access--info) section below).
-4. Camera Privacy Covers - You will find three blue covers in the kitchen, they look like cups and are made out of opaque painter's tape.
+2. **__DO NOT__** unplug or reposition the cameras, this will trigger security alert. *Use the provided camera covers instead*.
+3. The guest can access and enable or disable the camera blackout (see the [Guest Camera Access](#camera-access) section below). This might be something you want if you're away from the property for a large portion of the day.
+4. Camera Privacy Covers - You will find three blue covers in the kitchen, they are made out of opaque material and look like this:
     -  ![privacy covers](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/1dd13ce6-c01b-4a49-ae66-304ee7f3fa63)
 
 
-#### Camera Access & Info
+#### Guest Camera Access
 
-* **Internal Cameras - Disabled During your entire stay** - The 3 internal cameras are set to Privacy Mode, which *completely blacks out all the pixels at the firmware level.*
-* **Guest Access** - If you would like access to the camera system, so you can manually enable or disable Privacy Mode, let Lance know and he'll enable the Home Assistant guest account.
-    1. Go to [Golden Clouds - Home Assistant](https://ha.goldenclouds.dvlup.com) website and login (this is a webpage, not an app)
-        * **Username**: `localguest`
-        * **Password**: `your first name`
-    2. Operating **Privacy Mode**
-        1. Click the little eye icon to enable or disable Privacy Mode
-        2. Wait ~5 seconds for the mode to be applied to the device. In this screenshot, the camera on the left has Privacy Mode turned on.
-            * ![HA home page](https://user-images.githubusercontent.com/3520532/185434001-62ca3173-6636-4ef5-a6aa-6066d0d3f197.png)
-            * ![privacy mode](https://user-images.githubusercontent.com/3520532/185434308-c15c4f63-29b9-44f7-9987-867001ae20e0.png)
+If you would like access to the camera system, so you can manually enable or disable Privacy Mode, let Lance know and he'll enable the Home Assistant guest account.
 
-* Again, please do not **move**, **remove**, **reposition**, or **unplug** any security devices. Any damage to security devices resulting from guest manipulation will be the responsibility of the guest and submitted to AirCover for reimbursement.
+1. Click this link => [Golden Clouds - Home Assistant](https://ha.goldenclouds.dvlup.com) and login:
+    * **Username**: `localguest`
+    * **Password**: `your first name (all lowercase)`
+2. Operating **Privacy Mode**
+  1. Click the little eye icon to enable or disable Privacy Mode
+  2. Wait ~5 seconds for the mode to be applied to the device. In this screenshot, the camera on the left has Privacy Mode turned on.
+      * ![HA home page](https://user-images.githubusercontent.com/3520532/185434001-62ca3173-6636-4ef5-a6aa-6066d0d3f197.png)
+      * ![privacy mode](https://user-images.githubusercontent.com/3520532/185434308-c15c4f63-29b9-44f7-9987-867001ae20e0.png)
 
-If you have any questions or concerns, please do not remain silent! Message Lance on AirBnb and he will respond quickly to answer all your questions.
+> Again, please do not **move**, **remove**, **reposition**, or **unplug** any security devices. This is sensitive electronic equipment connected to a sophisticated security system that will send a security alert if a device is powered off or repositoned. Any damage to security devices resulting from guest manipulation will be the responsibility of the guest and submitted to AirCover for reimbursement.
+
+If you have any questions or concerns, please do not remain silent! Message Lance and he will respond quickly to answer all your questions.
+
+## Videos
+
+Click the video thumbnail to watch on YouTube
+
+[![youtube link](https://img.youtube.com/vi/wHkB9e4JbyI/0.jpg)](https://youtu.be/wHkB9e4JbyI)
+
 
 ## Photos
 
