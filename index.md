@@ -174,8 +174,8 @@ There are only 3 internal cameras facing the common areas. They are all in clear
 If you would like access to the camera system, so you can manually enable or disable Privacy Mode, let Lance know and he'll enable the Home Assistant guest account.
 
 1. Click this link => [Golden Clouds - Home Assistant](https://ha.goldenclouds.dvlup.com) and login:
-    * **Username**: `localguest`
-    * **Password**: `your first name (all lowercase)`
+    * **Username**: `guest`
+    * **Password**: `reservation's first name (lowercase)`
 2. Operating **Privacy Mode**
     1. Click the little eye icon to enable or disable Privacy Mode
     2. Wait ~5 seconds for the mode to be applied to the device. In this screenshot, the camera on the left has Privacy Mode turned on.
