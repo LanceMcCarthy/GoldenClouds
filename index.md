@@ -190,8 +190,10 @@ If you have any questions or concerns, please do not remain silent! Message Lanc
 
 Click the video thumbnail to watch on YouTube
 
-[![youtube link](https://img.youtube.com/vi/wHkB9e4JbyI/0.jpg)](https://youtu.be/wHkB9e4JbyI)
-
+- Patio Walk to Edge
+    - [![youtube link](https://img.youtube.com/vi/wHkB9e4JbyI/0.jpg)](https://youtu.be/wHkB9e4JbyI)
+- Drone Footage
+    - [![youtube link](https://img.youtube.com/vi/8pDvcqIi6Qw/0.jpg)]([https://youtu.be/wHkB9e4JbyI](https://youtu.be/8pDvcqIi6Qw))
 
 ## Photos
 
