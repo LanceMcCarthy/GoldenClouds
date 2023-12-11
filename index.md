@@ -186,6 +186,23 @@ If you would like access to the camera system, so you can manually enable or dis
 
 If you have any questions or concerns, please do not remain silent! Message Lance and he will respond quickly to answer all your questions.
 
+## Food Recommendations
+
+There are soooo many amazong places to eat in just the small area of Arenal. IT takes a week just to go to them all. Let me share our favorite places:
+
+- ⭐⭐⭐⭐⭐ El Corral BBQ - [https://maps.app.goo.gl/vZkXCBSiJ6DmTyZQ7](https://maps.app.goo.gl/vZkXCBSiJ6DmTyZQ7)
+  - This is hands-down, our absolute favorite place, we go there every. single. day.
+- ⭐⭐⭐⭐ Moya's Place - [https://maps.app.goo.gl/PyL9zM12X2yzDcyR7](https://maps.app.goo.gl/PyL9zM12X2yzDcyR7)
+  - Great for quick lunch or dinner, right in the middle of town and has a great ambience
+- ⭐⭐⭐⭐ Cafe Macadmaia - [https://maps.app.goo.gl/vZkXCBSiJ6DmTyZQ7](https://maps.app.goo.gl/vZkXCBSiJ6DmTyZQ7)
+  - A local and visitor favorite. The patio has unparallel views of the lake. Their blended drinks are a must-try.
+- ⭐⭐⭐⭐ Los Platillos Voladores - [https://maps.app.goo.gl/PyL9zM12X2yzDcyR7](https://maps.app.goo.gl/PyL9zM12X2yzDcyR7)
+  - Don't let the location's appearance fool you, her italian food rivals the best in any city.
+
+You can always ask Roy for recommendations based on a specific topic and where you're willing to go. 
+
+> If you are vegan, vegitarian, or gluten-free, there are plenty of menu options available for you at these locations. Although I can't speak directly to this, I have taken gluten-free vegan friends with me and they were happy with the options.
+
 ## Videos
 
 Click the video thumbnail to watch on YouTube
