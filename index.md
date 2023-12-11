@@ -19,7 +19,7 @@ First, to help you get excited for your stay, [here's a 30 second video at sunse
   - [Wi-Fi](#wi-fi)
   - [Security Cameras](#security-cameras)
     - [Guest Camera Access](#guest-camera-access)
-- [Food Recommendation](#food-recommendations)
+- [Food Recommendations](#food-recommendations)
 - [Videos](#videos)
 - [Photos](#photos)
 
@@ -189,20 +189,23 @@ If you have any questions or concerns, please do not remain silent! Message Lanc
 
 ## Food Recommendations
 
-There are soooo many amazong places to eat in just the small area of Arenal. IT takes a week just to go to them all. Let me share our favorite places:
+There are so many amazing places to eat packed in just Nuevo Arenal's small town limits. It takes a whole week just to go to them all, so let me share our favorite places (stars are our rating):
 
-- ⭐⭐⭐⭐⭐ El Corral BBQ - [https://maps.app.goo.gl/vZkXCBSiJ6DmTyZQ7](https://maps.app.goo.gl/vZkXCBSiJ6DmTyZQ7)
-  - This is hands-down, our absolute favorite place, we go there every. single. day.
-- ⭐⭐⭐⭐ Moya's Place - [https://maps.app.goo.gl/PyL9zM12X2yzDcyR7](https://maps.app.goo.gl/PyL9zM12X2yzDcyR7)
+- **El Corral BBQ** (⭐⭐⭐⭐⭐): [https://maps.app.goo.gl/vZkXCBSiJ6DmTyZQ7](https://maps.app.goo.gl/vZkXCBSiJ6DmTyZQ7)
+  - This is hands-down, our absolute favorite place, we go there every-single-day. 
+- **Moya's Place** (⭐⭐⭐⭐): [https://maps.app.goo.gl/PyL9zM12X2yzDcyR7](https://maps.app.goo.gl/PyL9zM12X2yzDcyR7)
   - Great for quick lunch or dinner, right in the middle of town and has a great ambience
-- ⭐⭐⭐⭐ Cafe Macadmaia - [https://maps.app.goo.gl/vZkXCBSiJ6DmTyZQ7](https://maps.app.goo.gl/vZkXCBSiJ6DmTyZQ7)
+- **Gingerbread** (⭐⭐⭐⭐⭐): [https://maps.app.goo.gl/9MTPYuieNEBa29em7](https://maps.app.goo.gl/9MTPYuieNEBa29em7)
+  - This place is a little more expensive than average, but the plates are HUGE and are meant to server many people. The tradition is you pick 2 or 3 plates, then everyone takes their share from it
+- **Cafe Macadmaia** (⭐⭐⭐⭐): [https://maps.app.goo.gl/vZkXCBSiJ6DmTyZQ7](https://maps.app.goo.gl/vZkXCBSiJ6DmTyZQ7)
   - A local and visitor favorite. The patio has unparallel views of the lake. Their blended drinks are a must-try.
-- ⭐⭐⭐⭐ Los Platillos Voladores - [https://maps.app.goo.gl/PyL9zM12X2yzDcyR7](https://maps.app.goo.gl/PyL9zM12X2yzDcyR7)
-  - Don't let the location's appearance fool you, her italian food rivals the best in any city.
+- **Los Platillos Voladores** (⭐⭐⭐⭐): [https://maps.app.goo.gl/PyL9zM12X2yzDcyR7](https://maps.app.goo.gl/PyL9zM12X2yzDcyR7)
+  - Don't let the location's appearance fool you, her italian food and pizza is amazing.
 
-You can always ask Roy for recommendations based on a specific topic and where you're willing to go. 
-
-> If you are vegan, vegitarian, or gluten-free, there are plenty of menu options available for you at these locations. Although I can't speak directly to this, I have taken gluten-free vegan friends with me and they were happy with the options.
+### Notes
+- You can always ask Roy for recommendations, he is like the unofficial mayor of Arenal and I'm lucky to have him as the property manager and a friend.
+- DOT NOT go to "The German Bakery", no matter how many signs on the highway you've seen or how colorful it looks. It is a tourist trap, with really bad food saftey practices. It is a lesson in "how to ruin your reputation and legacy", the owners have let it go and the staff don't care.
+- If you are vegan, vegitarian, or gluten-free, there are plenty of menu options available for you at these locations. Although I can't speak directly to this, I have taken gluten-free vegan friends with me and they were happy with the options.
 
 ## Videos
 
