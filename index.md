@@ -19,6 +19,7 @@ First, to help you get excited for your stay, [here's a 30 second video at sunse
   - [Wi-Fi](#wi-fi)
   - [Security Cameras](#security-cameras)
     - [Guest Camera Access](#guest-camera-access)
+- [Food Recommendation](#food-recommendations)
 - [Videos](#videos)
 - [Photos](#photos)
 
