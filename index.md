@@ -79,7 +79,7 @@ Here is a list of all the major items & features of the property, with some guid
 * **Bathrooms**
   * Extra shampoo, conditioner and soap can be found in the bottom drawer of bathrooms. Extra towels and linens can be found in the cabinets of the rear bedroom.
   * The house uses a septic tank, please do not flush anything extra except the toilet paper we supply (it's made for septic tanks).
-    * > **Important** - Non-toilet paper items (paper towels, sanitary items, etc) *will* result in a backup and is a quick way to have an uncomfortable experience during your stay 😢. There's a wastebasket next to each toilet dedicated for these items and plenty of extra trash bags in case you want to empty it early (this is common practice in Costa Rica).
+    * > **⚠️** - Non-toilet paper items (paper towels, sanitary items, etc) *will* result in a backup and is a quick way to have an uncomfortable experience during your stay 😢. There's a wastebasket next to each toilet dedicated for these items and plenty of extra trash bags in case you want to empty it early (this is common practice in Costa Rica).
   * Every bathroom has a shower that has its own hot water boiler/tank, we recommend the main bathroom for showering. Water can get hot really fast, so start with a tiny bit of hot water, then add cold. Always test it before jumping in 🫠.
 * **Back Patio**
   * There are two chair hammocks available above the game room cabinet. These hammock chairs hook into the rings in the overhead structure.
@@ -115,9 +115,9 @@ Here is a list of all the major items & features of the property, with some guid
     * Each window has a screen next to it, insert the screen after opening the window    
   * For the rare hot/humid times, there are two brand-new A/C units (bedroom and living room). Please do not forget it off when not in use or while the doors/windows are open. You can use smart timers, if you're familiar with the controls.
 * **Jacuzzis `(unlisted feature)`**
-  * These are not in the online listing because they break frequently and we do not want to always promise their availability. If it is working while you're there, that's great... but if it is not, please keep this non-dedication in mind when leaving a review :)
-      * **Outdoor Jacuzzi**: We are waiting for a new heater and user control unit, until this is installed, the Jacuzzi can only be set up for you by the property manager, Roy. He can bring it up to temperature and then disconnect the heater (it stays hot for hours).
-        * > **CAUTION** - Do not attempt to operate it yourself, you run the risk of serious physical harm and/or death because there is no way to limit the temperature or duration.
+  * These are not in the online listing because they break frequently and we do not want to always promise their availability. If it is working while you're there, that's great... but if it is not, please keep this non-dedication in mind when leaving a review 😋
+      * **Outdoor Jacuzzi**: We are waiting for a new heater and user control unit, until this is installed, the Jacuzzi can only be set up for you by the property manager, Roy.
+        * > **⚠️ CAUTION ⚠️** - Do not attempt to operate it yourself. Without a regulator, you run the risk of serious physical harm and/or ☠️ because there is no way to limit the temperature or duration. Roy will bring it up to a good temp for you and then turn off the heater. That temperature will last for *many* hours!
       * **Indoor tub**: The indoor one does not have operational jets, but it still can be used for hot bubble baths w/candles or the room's LED lighting.
 
 ## Tips
