@@ -1,6 +1,6 @@
 Welcome to Golden Clouds! Please take 5 minutes to read this **before** your arrival so that you are prepared ([para español, vaya aquí](https://goldenclouds-dvlup-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en)).
 
-This page contains very important information about the property, amenities, technology (Wi-Fi, security cameras) and other “pro-tips” that will make your experience as pleasurable as possible. Please carefully read anything that says "warning"
+Please bookmark this page, it contains very important information about the property, amenities, technology (e.g., Wi-Fi, cameras), and other "pro-tips" that will make your experience as pleasurable as possible. Please carefully read anything that says "warning".
 
 First, to help you get excited for your stay, [here's a 30 second video at sunset](https://youtu.be/wHkB9e4JbyI):
 
@@ -12,13 +12,15 @@ First, to help you get excited for your stay, [here's a 30 second video at sunse
   - [Key Operation](#key-operation)
 - [Check-out](#check-out)
 - [Rooms and Amenities](#rooms-and-amenities)
-- [Property Boundary](#property-boundary)
-    - [Pets](#pets)
+- [Tips](#tips)
+  - [Nighttime](#nighttime)
+  - [Property Boundary](#property-boundary)
+  - [Pets](#pets)
 - [Onsite Technology](#onsite-technology)
-  - [Golden Clouds Technology Map](#golden-clouds-technology-map)
+  - [Solar Power & Battery Backup](#solar-power-and-battery-backup)
   - [Wi-Fi](#wi-fi)
   - [Security Cameras](#security-cameras)
-    - [Guest Camera Access](#guest-camera-access)
+  - [Guest Camera Access](#guest-camera-access)
 - [Food Recommendations](#food-recommendations)
 - [Videos](#videos)
 - [Photos](#photos)
@@ -75,16 +77,19 @@ This is our home, not just an investment property for Airbnb, so we thank you fo
 Here is a list of all the major items & features of the property, with some guidance and recommendations.
 
 * **Bathrooms**
-    * Extra shampoo, conditioner and soap can be found in the bottom drawer of bathrooms. Extra towels and linens can be found in the cabinets of the rear bedroom.
-    * The house uses a septic tank, please do not flush anything extra except the toilet paper we supply (it's made for septic tanks).
-      * **Important**: Non-toilet paper items (paper towels, sanitary items, etc) *will* result in a backup and is a quick way to have an uncomfortable experience during your stay 😢. There's a wastebasket next to each toilet dedicated for these items and plenty of extra trash bags in case you want to empty it early (this is common behavior in Costa Rica).
-    * Every bathroom has a shower that has its own hot water boiler/tank, we recommend the main bathroom for showering. Water can get hot really fast, so start with a tiny bit of hot water, then add cold. Always test it before jumping in :)
+  * Extra shampoo, conditioner and soap can be found in the bottom drawer of bathrooms. Extra towels and linens can be found in the cabinets of the rear bedroom.
+  * The house uses a septic tank, please do not flush anything extra except the toilet paper we supply (it's made for septic tanks).
+    * **Important**: Non-toilet paper items (paper towels, sanitary items, etc) *will* result in a backup and is a quick way to have an uncomfortable experience during your stay 😢. There's a wastebasket next to each toilet dedicated for these items and plenty of extra trash bags in case you want to empty it early (this is common behavior in Costa Rica).
+  * Every bathroom has a shower that has its own hot water boiler/tank, we recommend the main bathroom for showering. Water can get hot really fast, so start with a tiny bit of hot water, then add cold. Always test it before jumping in :)
 * **Back Patio**
   * There are two chair hammocks available above the game room cabinet. These hammock chairs hook into the rings in the overhead structure.
   * Full hammock. We do not yet have a dedicated place to hook this up to yet, please do not use this one.
 * **Game Room**
   *   Board games are located in the game room, in the game cabinet (you can open any new games).
-  *   There is an Xbox available, but it is not hooked up. If you require this for any kids, the property manager can bring out the TV from the storage room.
+  *   There is an **Xbox One** available, but it is not hooked up. If you connect it to the TV, it is already configured to connect to the wifi, but you will need to sign in with your own Xbox account. This is a security concern, don't forget to sign out of your account before you leave.
+* **Television**
+  *   There is no permanent TV setup, this is intentional and by design. We do not list a TV as part of the Airbnb/VRBO, so please do not leave a bad review because there's no TV 😊 
+  *   However, there is a 28" TV available if you want to use it for the Xbox or as an extra laptop monitor. This is in the game room, on top of the games cabinet.
 * **Yoga Room**
   *   This room has yoga mats, ball, weights, and a mirror.
   *   This room also doubles as a private office if you do not want to work in the living room with gorgeous view. The gameroom table can be moved in there to act as desktop, the living room desk is very heavy and should be moved.
@@ -108,20 +113,24 @@ Here is a list of all the major items & features of the property, with some guid
   *  Open the windows, patio door and turn on the ceiling fans to get an excellent whole-house breeze.
     * Each window has a screen next to it, insert the screen after opening the window    
   *  For the rare hot/humid times, there are two brand-new A/C units (bedroom and living room). Please do not forget it off when not in use or while the doors/windows are open. You can use smart timers, if you're familiar with the controls.
-* **Jacuzzis** - `[unlisted feature]`
+* **Jacuzzis `(unlisted feature)`**
   * These are not in the online listing because they break frequently and we do not want to always promise their availability. If it is working while you're there, that's great... but if it is not, please keep this non-dedication in mind when leaving a review :)
       *   **Outdoor Jacuzzi**: We are waiting for a new control unit, which limits the temperature. In the meantime, guests can still use it as everything works, but only of the property manager (Roy) sets it up for you at specific temperature. `This is for your own safety! Do not attempt to operate it yourself, you run the risk of serious physical harm due to overheating`.
       *   **Indoor tub**: The indoor one does not have operational jets, but it still can be used for hot bubble baths w/candles or the room's LED lighting.
-* **Night-time Tips**
-  *   Keep the screen door shut if you’re on the patio. We have excellent, non-toxic pest control on the grounds, but you still don’t want a firefly beep-booping around the house while you’re trying to sleep.
-  *   Sunset is absolutely breathtaking, grab a chair on the patio, a drink and watch the pastel color show. Use `#GoldenCloudsArenal` and `#NeuvoArenal` hashtags on social. Pro-tip: If you’re showering in the front bathroom at this time of day, slide open the window to get the view!
-  *   At night, especially right after sunset, bright lights will attract insects. We recommend keeping the kitchen door closed if you have the bar/kitchen lights on. This will prevent finding a bunch of insects just outside the door in the morning.
 
-## Property Boundary
+## Tips
+
+### Night-time
+  *   Sunset is absolutely breathtaking, grab a chair on the patio, a drink and watch the pastel color show. Use `#GoldenCloudsArenal` and `#NeuvoArenal` hashtags on social. Pro-tip: If you’re showering in the front bathroom at this time of day, slide open the window to get the view!
+  *   Keep the screen door closed if you’re on the patio. We have excellent, non-toxic pest control on the grounds, but you still don’t want a firefly beep-booping around the house while you’re trying to sleep.
+  *   At night, especially right after sunset, bright lights will attract insects. We recommend keeping the kitchen door closed if you have the bar/kitchen lights on. This will prevent finding a bunch of insects just outside the door in the morning.
+  *   **Bats!** :bat: They can be annoying at times because they land on the roof in the early hours of the eventing (soon after sunset). You may hear them scuttling about, but there's no reason for concern.
+
+### Property Boundary
 
 The property lines have a boundary marked by a wired fence, _please stay within these bounds for your safety and security_. For example, the lot down the hill has domesticated animals (cows), please do not climb over the fence to take photos as this is very dangerous and very steep.
 
-#### Pets 
+### Pets 
 
 If you have pets with you, we strongly recommend initially having them on a leash while out in the backyard for a few reasons:
 
@@ -137,13 +146,25 @@ Since we don't know how your pet behaves, we cannot assume responsiblility for t
 
 ## Onsite Technology
 
-### Golden Clouds Technology Map
-
 The house has modern internet and security features. From high-speed fiber-optic internet, to automated lighting that changes colors through-out the day, you can rest and/or work from paradise.
+
+### Solar Power and Battery Backup
+
+We have a hybrid solar power system that will power the house through solar panels and a backup battery system. During strong storms, the power utility might go down for short periods of time.
+
+During utility power outages:
+
+* The 120v outlets and appliances will be powered by battery backup.
+* The 240v appliances like A/C, dryer, hot water, hot tub will not be powered; this gives you the longest time on battery (3-4 hours vs 15-20 minutes).
+* The internet infrastructure is on an additional battery system, so you should have internet for much longer (*assuming the reason for the power outage didn't also knock down the fiber optic lines*).
+
+If the power happens to go out during sunny weather, you will get nearly unlimited power from the solar and battery system. However, if there is no sun, only the batteries will be powering the house. Consider being strategic during such periods to get the full backup time.
 
 ### Wi-Fi
 
-This is the same kind of Wi-Fi that you’ve used at airports, hospitals, stadiums, etc. 
+This is the same kind of Wi-Fi that you’ve used at airports, hospitals, stadiums, etc. Here is the wifi coverage map (the actual coverage is much stronger, but this gives you an idea of the zones).
+
+![wifi map](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/52683fb4-b994-4581-9ff4-bdf6cb7dddcf)
 
 1. Connect to `Golden Clouds Guest` (no password).
 2. Your device should automatically open the Terms of Service (ToS) web page, just like airports and coffee shops.
@@ -153,24 +174,23 @@ This what the ToS acceptance page looks like:
 
 ![guest wifi](https://user-images.githubusercontent.com/3520532/173122916-10271660-8cdf-4d39-8a6c-6cdf2537f3a4.png)
 
-> If you have trouble with the Wi-Fi, message Lance in the AirBnb/Vrbo app. He can usually fix it in just a couple minutes remotely.
+#### Important
+- If you have trouble with the Wi-Fi, message Lance in the AirBnb/Vrbo app. He can usually fix it remotely very quickly.
+- If you would like a separate dedicated network (i.e., for work), Lance can set that up for you in just a couple minutes.
+- If you require ethernet instead of wifi, please let us know ahead of time and that will be prepared for you.
 
 ### Security Cameras
 
-It is really important that you read and understand this section so that you can feel comfortable and confident with your privacy during your stay.
+It is really important that you read and understand this section so that you can feel comfortable and confident with your privacy during your stay. There are security cameras on the property, this is a fact of life in Costa Rica that you will find on many properties.
 
-There are security cameras on the property, this is a fact of life in Costa Rica that you will find on many properties.
-
-There are only 3 internal cameras facing the common areas. They are all in clear view of occupants; **Living Room**, **Game Room** and **Hallway**. These are all electronically blacked out at the firmware level (see screenshots below), and the guest can use the camera covers if they desire.
-
-1. The internal cameras all have a blackout feature that is enabled during guest stays.
-2. **__DO NOT__** unplug or reposition the cameras, this will trigger security alert. *Use the provided camera covers instead*.
-3. The guest can access and enable or disable the camera blackout (see the [Guest Camera Access](#camera-access) section below). This might be something you want if you're away from the property for a large portion of the day.
-4. Camera Privacy Covers - You will find three blue covers in the kitchen, they are made out of opaque material and look like this:
+1. There are only 3 internal cameras facing the common areas. They are all in clear view of occupants; **Living Room**, **Game Room** and **Hallway**.
+    - ![camera coverage](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/094d892a-4a66-4167-9fbf-ac621db47e7d)
+2. **__DO NOT__** unplug or reposition the cameras, _this will trigger a security alert_, please use the provided camera covers instead.
+3. Camera Privacy Covers - You will find three blue covers in the kitchen, they are made out of opaque material and look like this:
     -  ![privacy covers](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/1dd13ce6-c01b-4a49-ae66-304ee7f3fa63)
+4. A guest can access and enable or disable the camera blackout (see the [Guest Camera Access](#camera-access) section below). This might be something you want if you're away from the property for a large portion of the day.
 
-
-#### Guest Camera Access
+### Guest Camera Access
 
 If you would like access to the camera system, so you can manually enable or disable Privacy Mode, let Lance know and he'll enable the Home Assistant guest account.
 
