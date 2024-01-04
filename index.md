@@ -40,8 +40,7 @@ If you have any questions or problems during your stay, here's how to get in tou
   * Medical, Fire, Police `911`
   * Website [www.911.go.cr/](http://www.911.go.cr/)
 
-> [!TIP]
-> Roy is an _excellent_ resource to ask about anything local; from having a personal chef to cook dinner for you in the house to providing a guided tour of the volcano. He literally knows everyone in the area and is an all-around rockstar. 
+> **➡️** Roy is an _excellent_ resource to ask about anything. He was a professional chef in New Jersey for many years, and is available for a night to make you dinner at the house. He can also provide a guided tour of the volcano, or a boat tour. He literally knows everyone in the area and is an all-around rockstar. 
 
 ## Check-in
 
@@ -128,7 +127,7 @@ Here is a list of all the major items & features of the property, with some guid
   * Keep the screen door closed if you’re on the patio. We have excellent, non-toxic pest control on the grounds, but you still don’t want a firefly beep-booping around the house while you’re trying to sleep.
   * At night, especially right after sunset, bright lights will attract insects. We recommend keeping the kitchen door closed if you have the bar/kitchen lights on. This will prevent finding a bunch of insects just outside the door in the morning.
 
-> **Heads-Up** - The valley's bats can sometimes be annoying when they land on the roof in the early hours of the evening after the sun sets. You may hear them scuttling around, but there's no reason for concern.
+> **➡️** The valley's bats can sometimes be annoying when they land on the roof in the early hours of the evening after the sun sets. You may hear them scuttling around, but there's no reason for concern. We mention this ahead of time because while some folks don't notice it, others do.
 
 ### Property Boundary
 
@@ -146,7 +145,7 @@ If you have pets with you, we strongly recommend initially having them on a leas
   * They pass through in a couple minutes.
   * Although they may appear to be friendly, do not engage... just ignore them. 
 
-> Since we don't know how your pet behaves, we cannot assume responsiblility for their actions. So, we urge a bit of caution and play it safe at first.
+> **Note** - Since we don't know how your pet behaves, the property, owners and Airbnb cannot assume responsiblility for your animal's actions. Thus, we urge caution and play it safe at first.
 
 ## Onsite Technology
 
@@ -162,7 +161,7 @@ During utility power outages:
 * The 240v appliances like A/C, dryer, hot water, hot tub will not be powered; this gives you the longest time on battery (3-4 hours vs 15-20 minutes).
 * The internet infrastructure is on an additional battery system, so you should have internet for much longer (*assuming the reason for the power outage didn't also knock down the fiber optic lines*).
 
-> TIP: If the power happens to go out during sunny weather, you will get nearly unlimited power from the solar and battery system as long as the load isn't past the capacity. However, if there is no sun, only the batteries will be powering the house. Consider being strategic during such periods to get the full backup time.
+> **➡️** If the power happens to go out during sunny weather, you will get nearly unlimited power from the solar and battery system as long as the load isn't past the capacity. However, if there is no sun, only the batteries will be powering the house. Consider being strategic during such periods to get the full backup time.
 
 ### Wi-Fi
 
@@ -193,7 +192,7 @@ It is really important that you read and understand this section so that you can
     -  ![privacy covers](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/1dd13ce6-c01b-4a49-ae66-304ee7f3fa63)
 4. A guest can access and enable or disable the camera blackout (see the [Guest Camera Access](#camera-access) section below). This might be something you want if you're away from the property for a large portion of the day.
 
-> **DO NOT** unplug or reposition the cameras, _this will trigger a security alert_, please use the provided camera covers instead.
+> **⚠️ Important** - Do not unplug or reposition the cameras, _this will trigger a security alert_, please use the provided camera covers instead.
 
 ### Guest Camera Access
 
@@ -208,7 +207,7 @@ If you would like access to the camera system, so you can manually enable or dis
       * ![HA home page](https://user-images.githubusercontent.com/3520532/185434001-62ca3173-6636-4ef5-a6aa-6066d0d3f197.png)
       * ![privacy mode](https://user-images.githubusercontent.com/3520532/185434308-c15c4f63-29b9-44f7-9987-867001ae20e0.png)
 
-> Please do not **move**, **remove**, **reposition**, or **unplug** any security devices. This is sensitive electronic equipment connected to a sophisticated security system that will send a security alert if a device is powered off or repositoned. Any damage to security devices resulting from guest manipulation will be the responsibility of the guest and submitted to AirCover for reimbursement.
+> **⚠️ Important** - Please do not **move**, **remove**, **reposition**, or **unplug** any security devices. This is sensitive electronic equipment connected to a sophisticated security system that will send a security alert if a device is powered off or repositoned. Any damage to security devices resulting from guest manipulation will be the responsibility of the guest and submitted to AirCover for reimbursement.
 
 If you have any questions or concerns, please do not remain silent! Message Lance and he will respond quickly to answer all your questions.
 
