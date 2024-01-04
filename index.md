@@ -31,14 +31,14 @@ First, to help you get excited for your stay, [here's a 30 second video at sunse
 
 If you have any questions or problems during your stay, here's how to get in touch.
 
-*   **Roy** - Local Property Manager
-    *   Whatsapp `+506 8501 7756` (for any problems or questions with the property)
-*   **Lance** and **Irina** - Host/Owner
-    *   Use AirBnb/Vrbo chat for fastest turnaround
-    *   Use email to share more robust information (lance @ dvlup . com)
-*   Emergency Services
-    *  Medical, Fire, Police `911`
-    *  Website [www.911.go.cr/](http://www.911.go.cr/)
+* **Roy** - Local Property Manager
+  * Whatsapp `+506 8501 7756` (for any problems or questions with the property)
+* **Lance** and **Irina** - Host/Owner
+  * Use AirBnb/Vrbo chat for fastest turnaround
+  * Use email to share more robust information (lance @ dvlup . com)
+* Emergency Services
+  * Medical, Fire, Police `911`
+  * Website [www.911.go.cr/](http://www.911.go.cr/)
 
 > [!TIP]
 > Roy is an _excellent_ resource to ask about anything local; from having a personal chef to cook dinner for you in the house to providing a guided tour of the volcano. He literally knows everyone in the area and is an all-around rockstar. 
@@ -80,57 +80,55 @@ Here is a list of all the major items & features of the property, with some guid
 * **Bathrooms**
   * Extra shampoo, conditioner and soap can be found in the bottom drawer of bathrooms. Extra towels and linens can be found in the cabinets of the rear bedroom.
   * The house uses a septic tank, please do not flush anything extra except the toilet paper we supply (it's made for septic tanks).
-  * Every bathroom has a shower that has its own hot water boiler/tank, we recommend the main bathroom for showering. Water can get hot really fast, so start with a tiny bit of hot water, then add cold. Always test it before jumping in :)
-  * > [!IMPORTANT]
-    > Non-toilet paper items (paper towels, sanitary items, etc) *will* result in a backup and is a quick way to have an uncomfortable experience during your stay 😢. There's a wastebasket next to each toilet dedicated for these items and plenty of extra trash bags in case you want to empty it early (this is common behavior in Costa Rica).
+    * > **Important** - Non-toilet paper items (paper towels, sanitary items, etc) *will* result in a backup and is a quick way to have an uncomfortable experience during your stay 😢. There's a wastebasket next to each toilet dedicated for these items and plenty of extra trash bags in case you want to empty it early (this is common practice in Costa Rica).
+  * Every bathroom has a shower that has its own hot water boiler/tank, we recommend the main bathroom for showering. Water can get hot really fast, so start with a tiny bit of hot water, then add cold. Always test it before jumping in 🫠.
 * **Back Patio**
   * There are two chair hammocks available above the game room cabinet. These hammock chairs hook into the rings in the overhead structure.
   * Full hammock. We do not yet have a dedicated place to hook this up to yet, please do not use this one.
 * **Game Room**
-  *   Board games are located in the game room, in the game cabinet (you can open any new games).
-  *   There is an **Xbox One** available, but it is not hooked up. If you connect it to the TV, it is already configured to connect to the wifi, but you will need to sign in with your own Xbox account. This is a security concern, don't forget to sign out of your account before you leave.
+  * Board games are located in the game room, in the game cabinet (you can open any new games).
+  * There is an **Xbox One** available, but it is not hooked up. If you connect it to the TV, it is already configured to connect to the wifi, but you will need to sign in with your own Xbox account. This is a security concern, don't forget to sign out of your account before you leave.
 * **Television**
-  *   There is no permanent TV setup, this is intentional and by design. We do not list a TV as part of the Airbnb/VRBO, so please do not leave a bad review because there's no TV 😊 
-  *   However, there is a 28" TV available if you want to use it for the Xbox or as an extra laptop monitor. This is in the game room, on top of the games cabinet.
+  * There is no permanent TV setup, this is intentional and by design. We do not list a TV as part of the Airbnb/VRBO, so please do not leave a bad review because there's no TV 😊.
+  * However, there is a 28" TV available if you want to use it for the Xbox or as an extra laptop monitor. This is in the game room, on top of the games cabinet.
 * **Yoga Room**
-  *   This room has yoga mats, ball, weights, and a mirror.
-  *   This room also doubles as a private office if you do not want to work in the living room with gorgeous view. The gameroom table can be moved in there to act as desktop, the living room desk is very heavy and should be moved.
-  *   There is LED ambiance lighting in this room. You can change the color and brightness using the 3-button controller next to the cabinet or the controller from the kitchen. The strip will automatically change at sunset and sunrise.
+  * This room has yoga mats, ball, weights, and a mirror.
+  * This room also doubles as a private office if you do not want to work in the living room with gorgeous view. The gameroom table can be moved in there to act as desktop, the living room desk is very heavy and should be moved.
+  * There is LED ambiance lighting in this room. You can change the color and brightness using any of the remote controllers and/or through Home Assistant. The strip will automatically change at sunset and sunrise.
 * **Kitchen**
-  *  The kitchen is at your disposal, here are a few important things to keep in mind
-  *  Be sure to clean up thoroughly when you’re done. Remember that you’re in a jungle, any dropped food or scraps will attract insects.
-  *  There is no garbage disposal, food scraps should be thrown out into the jungle instead of a trash bag.
-  *  If you trip a breaker, you can find the panel in the yoga room.
-  *  Although Arenal water is very pure, the kitchen’s water has its own filter and hot water system.
-  *  Clothes washer and dryer are in the kitchen, behind the closet doors.
+  * The kitchen is at your disposal, here are a few important things to keep in mind
+  * Be sure to clean up thoroughly when you’re done. Remember that you’re in a jungle, any dropped food or scraps will attract insects.
+  * There is no garbage disposal, food scraps should be thrown out into the jungle instead of a trash bag.
+  * If you trip a breaker, you can find the panel in the yoga room.
+  * Although Arenal water is very pure, the kitchen’s water has its own filter and hot water system.
+    * For the fridge water dispense, since we don't know the time between guests, so we recommend letting it run for 30 seconds to flush out the filter (it's used for the ice maker too).
+  * Clothes washer and dryer are in the kitchen, behind the closet doors.
 * **Trash**
-  *  The city of Arenal has trash service every week on Thursday morning (5AM-7AM)
-  *  The cleaning service will take care of any trash. However, if you are staying longer than average guest, you might need to take some bags out. Please only use the metal trash bin to the right of the gate, in this photo:
-      *   ![trashbin](https://user-images.githubusercontent.com/3520532/179368463-44689124-083d-4bea-bc88-95f4c323773f.jpg)
+  * The city of Arenal has trash service every week on Thursday morning (5AM-7AM)
+  * The cleaning service will take care of any trash. However, if you are staying longer than average guest, you might need to take some bags out. Please only use the metal trash bin to the right of the gate, in this photo:
+      * ![trashbin](https://user-images.githubusercontent.com/3520532/179368463-44689124-083d-4bea-bc88-95f4c323773f.jpg)
 * **Off-limits Areas**
-  *   There are only two internal areas that are off-limits, both rooms have an electronic key-coded door lock. These rooms are for maintenance and owner access only.
-  *   The bodega (tool closet) is outdoors. This is not a guest area, but if you do need a rake or shovel for some reason, your door key will open it. However, we ask that you contact Roy for anything that requires these items, he will handle it.
+  * There are only two internal areas that are off-limits, both rooms have an electronic key-coded door lock. These rooms are for maintenance and owner access only.
+  * The bodega (tool closet) is outdoors. This is not a guest area, but if you do need a rake or shovel for some reason, your door key will open it. However, we ask that you contact Roy for anything that requires these items, he will handle it.
 * **Windows, Fans, Air Conditioners**
-  *  Arenal is always ~72 degrees (22 Celsius) and comfortable year-round
-  *  Open the windows, patio door and turn on the ceiling fans to get an excellent whole-house breeze.
+  * Arenal is always ~72 degrees (22 Celsius) and comfortable year-round
+  * Open the windows, patio door and turn on the ceiling fans to get an excellent whole-house breeze.
     * Each window has a screen next to it, insert the screen after opening the window    
-  *  For the rare hot/humid times, there are two brand-new A/C units (bedroom and living room). Please do not forget it off when not in use or while the doors/windows are open. You can use smart timers, if you're familiar with the controls.
+  * For the rare hot/humid times, there are two brand-new A/C units (bedroom and living room). Please do not forget it off when not in use or while the doors/windows are open. You can use smart timers, if you're familiar with the controls.
 * **Jacuzzis `(unlisted feature)`**
   * These are not in the online listing because they break frequently and we do not want to always promise their availability. If it is working while you're there, that's great... but if it is not, please keep this non-dedication in mind when leaving a review :)
-      *   **Outdoor Jacuzzi**: We are waiting for a new heater and user control unit, until this is installed, the Jacuzzi can only be set up for you by the property manager, Roy. He can bring it up to temperature and then disconnect the heater (it stays hot for hours).
-        * > [!CAUTION]
-          > Do not attempt to operate it yourself, you run the risk of serious physical harm and/or death because there is no way to limit the temperature or duration.
-      *   **Indoor tub**: The indoor one does not have operational jets, but it still can be used for hot bubble baths w/candles or the room's LED lighting.
+      * **Outdoor Jacuzzi**: We are waiting for a new heater and user control unit, until this is installed, the Jacuzzi can only be set up for you by the property manager, Roy. He can bring it up to temperature and then disconnect the heater (it stays hot for hours).
+        * > **CAUTION** - Do not attempt to operate it yourself, you run the risk of serious physical harm and/or death because there is no way to limit the temperature or duration.
+      * **Indoor tub**: The indoor one does not have operational jets, but it still can be used for hot bubble baths w/candles or the room's LED lighting.
 
 ## Tips
 
 ### Night-time
-  *   Sunset is absolutely breathtaking, grab a chair on the patio, a drink and watch the pastel color show. Use `#GoldenCloudsArenal` and `#NeuvoArenal` hashtags on social. Pro-tip: If you’re showering in the front bathroom at this time of day, slide open the window to get the view!
-  *   Keep the screen door closed if you’re on the patio. We have excellent, non-toxic pest control on the grounds, but you still don’t want a firefly beep-booping around the house while you’re trying to sleep.
-  *   At night, especially right after sunset, bright lights will attract insects. We recommend keeping the kitchen door closed if you have the bar/kitchen lights on. This will prevent finding a bunch of insects just outside the door in the morning.
+  * Sunset is absolutely breathtaking, grab a chair on the patio, a drink and watch the pastel color show. Use `#GoldenCloudsArenal` and `#NeuvoArenal` hashtags on social. Pro-tip: If you’re showering in the front bathroom at this time of day, slide open the window to get the view!
+  * Keep the screen door closed if you’re on the patio. We have excellent, non-toxic pest control on the grounds, but you still don’t want a firefly beep-booping around the house while you’re trying to sleep.
+  * At night, especially right after sunset, bright lights will attract insects. We recommend keeping the kitchen door closed if you have the bar/kitchen lights on. This will prevent finding a bunch of insects just outside the door in the morning.
 
-> [!NOTE]
-> the valley's bats can sometimes be annoying when they land on the roof in the early hours of the evening after the sun sets. You may hear them scuttling around, but there's no reason for concern.
+> **Heads-Up** - The valley's bats can sometimes be annoying when they land on the roof in the early hours of the evening after the sun sets. You may hear them scuttling around, but there's no reason for concern.
 
 ### Property Boundary
 
@@ -142,13 +140,13 @@ If you have pets with you, we strongly recommend initially having them on a leas
 
 * The fences will not keep an untrained or determined dog inside the property.
 * The neighbor on the left has an old yellow Golden Retriever dog.
-    * It's relatively timid and stays away from people.
-    * If the house has been empty for a while and someone new arrives, he'll bark from his yard complaining that "you're on his mountain". Don't be concerned, it gives up after 10 or 15 minutes.
+  * It's relatively timid and stays away from people.
+  * If the house has been empty for a while and someone new arrives, he'll bark from his yard complaining that "you're on his mountain". Don't be concerned, it gives up after 10 or 15 minutes.
 * Occasionally, a couple of the neighborhood's small dogs go on a field trip together and hike through everyone's yards on the street (these are the same little guys who lay in the middle of the road)
-    * They pass through in a couple minutes.
-    * Although they may appear to be friendly, do not engage... just ignore them. 
+  * They pass through in a couple minutes.
+  * Although they may appear to be friendly, do not engage... just ignore them. 
 
-Since we don't know how your pet behaves, we cannot assume responsiblility for their actions. So, we urge a bit of caution and play it safe at first.
+> Since we don't know how your pet behaves, we cannot assume responsiblility for their actions. So, we urge a bit of caution and play it safe at first.
 
 ## Onsite Technology
 
@@ -164,8 +162,7 @@ During utility power outages:
 * The 240v appliances like A/C, dryer, hot water, hot tub will not be powered; this gives you the longest time on battery (3-4 hours vs 15-20 minutes).
 * The internet infrastructure is on an additional battery system, so you should have internet for much longer (*assuming the reason for the power outage didn't also knock down the fiber optic lines*).
 
-> [!TIP]
-> If the power happens to go out during sunny weather, you will get nearly unlimited power from the solar and battery system. However, if there is no sun, only the batteries will be powering the house. Consider being strategic during such periods to get the full backup time.
+> TIP: If the power happens to go out during sunny weather, you will get nearly unlimited power from the solar and battery system as long as the load isn't past the capacity. However, if there is no sun, only the batteries will be powering the house. Consider being strategic during such periods to get the full backup time.
 
 ### Wi-Fi
 
@@ -196,8 +193,7 @@ It is really important that you read and understand this section so that you can
     -  ![privacy covers](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/1dd13ce6-c01b-4a49-ae66-304ee7f3fa63)
 4. A guest can access and enable or disable the camera blackout (see the [Guest Camera Access](#camera-access) section below). This might be something you want if you're away from the property for a large portion of the day.
 
-> [!WARNING]
-> DO NOT unplug or reposition the cameras, _this will trigger a security alert_, please use the provided camera covers instead.
+> **DO NOT** unplug or reposition the cameras, _this will trigger a security alert_, please use the provided camera covers instead.
 
 ### Guest Camera Access
 
@@ -212,7 +208,6 @@ If you would like access to the camera system, so you can manually enable or dis
       * ![HA home page](https://user-images.githubusercontent.com/3520532/185434001-62ca3173-6636-4ef5-a6aa-6066d0d3f197.png)
       * ![privacy mode](https://user-images.githubusercontent.com/3520532/185434308-c15c4f63-29b9-44f7-9987-867001ae20e0.png)
 
-> [!WARNING]
 > Please do not **move**, **remove**, **reposition**, or **unplug** any security devices. This is sensitive electronic equipment connected to a sophisticated security system that will send a security alert if a device is powered off or repositoned. Any damage to security devices resulting from guest manipulation will be the responsibility of the guest and submitted to AirCover for reimbursement.
 
 If you have any questions or concerns, please do not remain silent! Message Lance and he will respond quickly to answer all your questions.
@@ -242,9 +237,9 @@ There are so many amazing places to eat packed in just Nuevo Arenal's small town
 Click the video thumbnail to watch on YouTube
 
 - Patio Walk to Edge
-    - [![youtube link](https://img.youtube.com/vi/wHkB9e4JbyI/0.jpg)](https://youtu.be/wHkB9e4JbyI)
+  - [![youtube link](https://img.youtube.com/vi/wHkB9e4JbyI/0.jpg)](https://youtu.be/wHkB9e4JbyI)
 - Drone Footage
-    - [![youtube link](https://img.youtube.com/vi/8pDvcqIi6Qw/0.jpg)]([https://youtu.be/wHkB9e4JbyI](https://youtu.be/8pDvcqIi6Qw))
+  - [![youtube link](https://img.youtube.com/vi/8pDvcqIi6Qw/0.jpg)]([https://youtu.be/wHkB9e4JbyI](https://youtu.be/8pDvcqIi6Qw))
 
 ## Photos
 
