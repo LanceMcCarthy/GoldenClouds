@@ -13,15 +13,17 @@ First, to help you get excited for your stay, [here's a 30 second video at sunse
 - [Check-out](#check-out)
 - [Rooms and Amenities](#rooms-and-amenities)
 - [Tips](#tips)
-  - [Nighttime](#nighttime)
+  - [Night-time](#night-time)
   - [Property Boundary](#property-boundary)
   - [Pets](#pets)
 - [Onsite Technology](#onsite-technology)
-  - [Solar Power & Battery Backup](#solar-power-and-battery-backup)
+  - [Solar Power and Battery Backup](#solar-power-and-battery-backup)
   - [Wi-Fi](#wi-fi)
+    - [Wi-Fi Coverage](#wi-fi-coverage)
   - [Security Cameras](#security-cameras)
   - [Guest Camera Access](#guest-camera-access)
 - [Food Recommendations](#food-recommendations)
+  - [Notes](#notes)
 - [Videos](#videos)
 - [Photos](#photos)
 
@@ -56,9 +58,9 @@ Once you have the gate fob and keys, here is how to use them:
 
 ### Key Operation
 
-* The key works on all door locks available to guests.
+* The key works on all doors which are available to guests.
 * The locks have double locking mechanism, you may need to turn the key 3 times to unlock & unlatch.
-* You must enter through the kitchen door (it's the 2nd door in the carport, the one with the screen door). The first door is a utility room and is inaccessible to guests.
+* You must enter through the kitchen door (the 2nd door in the carport, with screen door), as  The first door is a utility room and is inaccessible to guests.
 
 ## Check-out
 
@@ -70,7 +72,7 @@ Checking out is straightforward:
 4. Close the electronic gate after you've driven out 
 5. Put the keys back in the lockbox, scramble the code and close to lock it.
 
-This is our home, not just an investment property for Airbnb, so we thank you for being considerate!
+This is our home, not just an "airbnb investment property", so we thank you for being considerate!
 
 ## Rooms and Amenities
 
@@ -117,12 +119,13 @@ Here is a list of all the major items & features of the property, with some guid
 * **Jacuzzis `(unlisted feature)`**
   * These are not in the online listing because they break frequently and we do not want to always promise their availability. If it is working while you're there, that's great... but if it is not, please keep this non-dedication in mind when leaving a review 😋
       * **Outdoor Jacuzzi**: We are waiting for a new heater and user control unit, until this is installed, the Jacuzzi can only be set up for you by the property manager, Roy.
-        * > **⚠️ CAUTION ⚠️** - Do not attempt to operate it yourself. Without a regulator, you run the risk of serious physical harm and/or ☠️ because there is no way to limit the temperature or duration. Roy will bring it up to a good temp for you and then turn off the heater. That temperature will last for *many* hours!
+        * > **⚠️ Do not attempt to operate it yourself ⚠️**. Without a regulator, you run the risk of serious physical harm and/or ☠️ because there is no way to limit the temperature or duration. Roy will bring it up to a good temp for you and then turn off the heater. That temperature will last for many hours!
       * **Indoor tub**: The indoor one does not have operational jets, but it still can be used for hot bubble baths w/candles or the room's LED lighting.
 
 ## Tips
 
 ### Night-time
+
   * Sunset is absolutely breathtaking, grab a chair on the patio, a drink and watch the pastel color show. Use `#GoldenCloudsArenal` and `#NeuvoArenal` hashtags on social. Pro-tip: If you’re showering in the front bathroom at this time of day, slide open the window to get the view!
   * Keep the screen door closed if you’re on the patio. We have excellent, non-toxic pest control on the grounds, but you still don’t want a firefly beep-booping around the house while you’re trying to sleep.
   * At night, especially right after sunset, bright lights will attract insects. We recommend keeping the kitchen door closed if you have the bar/kitchen lights on. This will prevent finding a bunch of insects just outside the door in the morning.
@@ -142,10 +145,9 @@ If you have pets with you, we strongly recommend initially having them on a leas
   * It's relatively timid and stays away from people.
   * If the house has been empty for a while and someone new arrives, he'll bark from his yard complaining that "you're on his mountain". Don't be concerned, it gives up after 10 or 15 minutes.
 * Occasionally, a couple of the neighborhood's small dogs go on a field trip together and hike through everyone's yards on the street (these are the same little guys who lay in the middle of the road)
-  * They pass through in a couple minutes.
-  * Although they may appear to be friendly, do not engage... just ignore them. 
+  * They pass through in a couple minutes. Although they may appear to be friendly, do not engage... just ignore them.
 
-> **Note** - Since we don't know how your pet behaves, the property, owners and Airbnb cannot assume responsiblility for your animal's actions. Thus, we urge caution and play it safe at first.
+> **🐶** Since we don't know how your pet behaves; the property owners and Airbnb cannot assume responsiblility for your animal's actions. Thus, we urge caution and play it safe at first.
 
 ## Onsite Technology
 
@@ -157,42 +159,48 @@ We have a hybrid solar power system that will power the house through solar pane
 
 During utility power outages:
 
-* The 120v outlets and appliances will be powered by battery backup.
-* The 240v appliances like A/C, dryer, hot water, hot tub will not be powered; this gives you the longest time on battery (3-4 hours vs 15-20 minutes).
-* The internet infrastructure is on an additional battery system, so you should have internet for much longer (*assuming the reason for the power outage didn't also knock down the fiber optic lines*).
+* The 120v power outlets and appliances will be powered by solar and battery backup.
+* The 240v appliances will not be powered (e.g., A/C, hot water heaters, jacuzzi).
+  * It's the difference between having 3-4 hours of backup power versus only 30 minutes.
+* The networking is on an additional battery system.
+  * When the house batteries run out, you will have internet for about 45 minutes longer, assuming the same thing that took down the power didn't take down the fiber optic lines.
 
-> **➡️** If the power happens to go out during sunny weather, you will get nearly unlimited power from the solar and battery system as long as the load isn't past the capacity. However, if there is no sun, only the batteries will be powering the house. Consider being strategic during such periods to get the full backup time.
+> **➡️** If there is no sun during the power outage, only the batteries will be powering the house. Consider being strategic during such periods to get the most backup time. If it's sunny, then the 120v system will be powered directly from the sun and not use up the batteries.
 
 ### Wi-Fi
 
-This is the same kind of Wi-Fi that you’ve used at airports, hospitals, stadiums, etc. Here is the wifi coverage map (the actual coverage is much stronger, but this gives you an idea of the zones).
-
-![wifi map](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/52683fb4-b994-4581-9ff4-bdf6cb7dddcf)
+This is the same kind of Wi-Fi that you’ve used at airports, hospitals, stadiums, etc. 
 
 1. Connect to `Golden Clouds Guest` (no password).
 2. Your device should automatically open the Terms of Service (ToS) web page, just like airports and coffee shops.
+    - If this doesn't happen automatically, just open your browser and attempt go to any website.
 3. Accept the ToS and you're done.
 
 This what the ToS acceptance page looks like:
 
 ![guest wifi](https://user-images.githubusercontent.com/3520532/173122916-10271660-8cdf-4d39-8a6c-6cdf2537f3a4.png)
 
-#### Important
-- If you have trouble with the Wi-Fi, message Lance in the AirBnb/Vrbo app. He can usually fix it remotely very quickly.
+- If you have trouble with the Wi-Fi, message Lance, he can fix it very quickly.
 - If you would like a separate dedicated network (i.e., for work), Lance can set that up for you in just a couple minutes.
 - If you require ethernet instead of wifi, please let us know ahead of time and that will be prepared for you.
 
+#### Wi-Fi Coverage
+
+Here is the wifi coverage map (the actual coverage is much stronger, but this gives you an idea of the zones).
+
+![wifi map](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/52683fb4-b994-4581-9ff4-bdf6cb7dddcf)
+
 ### Security Cameras
 
-It is really important that you read and understand this section so that you can feel comfortable and confident with your privacy during your stay. There are security cameras on the property, this is a fact of life in Costa Rica that you will find on many properties.
+There are security cameras on the property, this is a fact of life in Costa Rica that you will find on many properties. It is important that you read and understand this section, so that you can feel comfortable and confident with your privacy during your stay.
 
 1. There are only 3 internal cameras facing the common areas. They are all in clear view of occupants; **Living Room**, **Game Room** and **Hallway**.
     - ![camera coverage](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/094d892a-4a66-4167-9fbf-ac621db47e7d)
 2. Camera Privacy Covers - You will find three blue covers in the kitchen, they are made out of opaque material and look like this:
     -  ![privacy covers](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/1dd13ce6-c01b-4a49-ae66-304ee7f3fa63)
-4. A guest can access and enable or disable the camera blackout (see the [Guest Camera Access](#camera-access) section below). This might be something you want if you're away from the property for a large portion of the day.
+3. A guest can access and enable or disable the camera blackout (see the [Guest Camera Access](#camera-access) section below). This might be something you want if you're away from the property for a large portion of the day.
 
-> **⚠️ Important** - Do not unplug or reposition the cameras, _this will trigger a security alert_, please use the provided camera covers instead.
+> **⚠️** Use only the camera covers **⚠️** Do not **unplug** or **reposition** any security devices, as this will trigger a security alert. This is a modern AI-managed security system that will send a 'tampering' alert if a device is powered off or repositoned unexpectedly. Any damage to security devices due to guest manipulation will submitted to AirCover for reimbursement.
 
 ### Guest Camera Access
 
@@ -207,9 +215,7 @@ If you would like access to the camera system, so you can manually enable or dis
       * ![HA home page](https://user-images.githubusercontent.com/3520532/185434001-62ca3173-6636-4ef5-a6aa-6066d0d3f197.png)
       * ![privacy mode](https://user-images.githubusercontent.com/3520532/185434308-c15c4f63-29b9-44f7-9987-867001ae20e0.png)
 
-> **⚠️ Important** - Please do not **move**, **remove**, **reposition**, or **unplug** any security devices. This is sensitive electronic equipment connected to a sophisticated security system that will send a security alert if a device is powered off or repositoned. Any damage to security devices resulting from guest manipulation will be the responsibility of the guest and submitted to AirCover for reimbursement.
-
-If you have any questions or concerns, please do not remain silent! Message Lance and he will respond quickly to answer all your questions.
+If you have any questions or concerns, please *do not remain silent*! Message Lance and he will respond quickly to answer all your questions... we want you to have an enjoyable stay and good communication is a major factor.
 
 ## Food Recommendations
 
@@ -238,7 +244,7 @@ Click the video thumbnail to watch on YouTube
 - Patio Walk to Edge
   - [![youtube link](https://img.youtube.com/vi/wHkB9e4JbyI/0.jpg)](https://youtu.be/wHkB9e4JbyI)
 - Drone Footage
-  - [![youtube link](https://img.youtube.com/vi/8pDvcqIi6Qw/0.jpg)]([https://youtu.be/wHkB9e4JbyI](https://youtu.be/8pDvcqIi6Qw))
+  - [![youtube link](https://img.youtube.com/vi/8pDvcqIi6Qw/0.jpg)](https://youtu.be/8pDvcqIi6Qw)
 
 ## Photos
 
