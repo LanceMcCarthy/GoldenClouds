@@ -208,7 +208,8 @@ If you would like access to the camera system, so you can manually enable or dis
 
 1. Click this link => [Golden Clouds - Home Assistant](https://ha.goldenclouds.dvlup.com) and login:
     * **Username**: `guest`
-    * **Password**: this will be sent to you during check-in
+    * **Password**: `guest_last_name-checkin_mmdd` (ex. "peterson-0607" for John Peterson who checked in on June 7th)
+        * The password can be changed to whatever you like, just let Lance know.
 2. Operating **Privacy Mode**
     1. Click the little eye icon to enable or disable Privacy Mode
     2. Wait ~5 seconds for the mode to be applied to the device. In this screenshot, the camera on the left has Privacy Mode turned on.
