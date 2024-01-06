@@ -204,18 +204,19 @@ There are security cameras on the property, this is a fact of life in Costa Rica
 
 ### Guest Camera Access
 
-We also provide you with access to the Home assistant system for the house. This lets you access the house lighting, controls the cameras (for privacy mode), lighting and more. This will be available to you between check-in until check-out.
+We also provide you with access to the [Home Assistant] system for the house. This lets you access and control the house lighting, the camera's privacy mode, and more. This will be available to you between check-in until check-out.
 
 1. Click this link => [Golden Clouds - Home Assistant](https://ha.goldenclouds.dvlup.com) and login:
     * **Username**: `guest`
     * **Password**: `provided-during-check-in`
+    * *Note: If you are using your phone, the first time you open it, the site might recommend using the app instead... just click "no/cancel" and use the website instead.*
 2. Operating **Privacy Mode**
     1. Click the little eye icon to enable or disable Privacy Mode
     2. Wait ~5 seconds for the mode to be applied to the device. In this screenshot, the camera on the left has Privacy Mode turned on.
       * ![HA home page](https://user-images.githubusercontent.com/3520532/185434001-62ca3173-6636-4ef5-a6aa-6066d0d3f197.png)
       * ![privacy mode](https://user-images.githubusercontent.com/3520532/185434308-c15c4f63-29b9-44f7-9987-867001ae20e0.png)
 
-If you have any questions or concerns, please *do not remain silent*! Message Lance and he will respond quickly to answer all your questions... we want you to have an enjoyable stay and good communication is a major factor.
+If you have any questions or concerns, please *do not remain silent*! Voice your questions/concerns to Lance and he will address all your concerns... we want you to have an enjoyable stay and good communication is a major factor.
 
 ## Food Recommendations
 
