@@ -21,7 +21,7 @@ First, to help you get excited for your stay, [here's a 30 second video at sunse
   - [Wi-Fi](#wi-fi)
     - [Wi-Fi Coverage](#wi-fi-coverage)
   - [Security Cameras](#security-cameras)
-  - [Guest Camera Access](#guest-camera-access)
+  - [Home Assistant (guest camera access and house automation)](#home-assistant-guest-camera-access)
 - [Food Recommendations](#food-recommendations)
   - [Notes](#notes)
 - [Videos](#videos)
@@ -204,12 +204,11 @@ There are security cameras on the property, this is a fact of life in Costa Rica
 
 ### Guest Camera Access
 
-If you would like access to the camera system, so you can manually enable or disable Privacy Mode, let Lance know and he'll enable the Home Assistant guest account.
+We also provide you with access to the Home assistant system for the house. This lets you access the house lighting, controls the cameras (for privacy mode), lighting and more. This will be available to you between check-in until check-out.
 
 1. Click this link => [Golden Clouds - Home Assistant](https://ha.goldenclouds.dvlup.com) and login:
     * **Username**: `guest`
-    * **Password**: `guest_last_name-checkin_mmdd` (ex. "peterson-0607" for John Peterson who checked in on June 7th)
-        * The password can be changed to whatever you like, just let Lance know.
+    * **Password**: `provided-during-check-in`
 2. Operating **Privacy Mode**
     1. Click the little eye icon to enable or disable Privacy Mode
     2. Wait ~5 seconds for the mode to be applied to the device. In this screenshot, the camera on the left has Privacy Mode turned on.
