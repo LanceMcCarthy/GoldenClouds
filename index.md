@@ -21,7 +21,7 @@ First, to help you get excited for your stay, [here's a 30 second video at sunse
   - [Wi-Fi](#wi-fi)
     - [Wi-Fi Coverage](#wi-fi-coverage)
   - [Security Cameras](#security-cameras)
-  - [Home Assistant (guest camera access and house automation)](#home-assistant-guest-camera-access)
+  - [Guest Camera Access](#guest-camera-access)
 - [Food Recommendations](#food-recommendations)
   - [Notes](#notes)
 - [Videos](#videos)
@@ -118,7 +118,7 @@ Here is a list of all the major items & features of the property, with some guid
   * For the rare hot/humid times, there are two brand-new A/C units (bedroom and living room). Please do not forget it off when not in use or while the doors/windows are open. You can use smart timers, if you're familiar with the controls.
 * **Jacuzzis `(unlisted feature)`**
   * These are not in the online listing because they break frequently and we do not want to always promise their availability. If it is working while you're there, that's great... but if it is not, please keep this non-dedication in mind when leaving a review 😋
-      * **Outdoor Jacuzzi**: We are waiting for a new heater and user control unit, until this is installed, the Jacuzzi can only be set up for you by the property manager, Roy.
+      * **Outdoor Jacuzzi**: We are waiting for a new heater and user control unit. Until this is installed, the Jacuzzi can only be set up for you by the property manager, Roy.
         * > **⚠️ Do not attempt to operate it yourself ⚠️**. Without a regulator, you run the risk of serious physical harm and/or ☠️ because there is no way to limit the temperature or duration. Roy will bring it up to a good temp for you and then turn off the heater. That temperature will last for many hours!
       * **Indoor tub**: The indoor one does not have operational jets, but it still can be used for hot bubble baths w/candles or the room's LED lighting.
 
@@ -136,16 +136,17 @@ Here is a list of all the major items & features of the property, with some guid
 
 The property lines have a boundary marked by a wired fence, _please stay within these bounds for your safety and security_. For example, the lot down the hill has domesticated animals (cows), please do not climb over the fence to take photos as this is very dangerous and very steep.
 
+You are free to walk on the road for as far as you'd like, this is a popular activity of many guests. It's a nice light-to-moderate exercise with several spots along the way to see the entire valley from different angles.
+
 ### Pets 
 
-If you have pets with you, we strongly recommend initially having them on a leash while out in the backyard for a few reasons:
+If you have pets with you, we strongly recommend initially having them on a leash while out in the backyard. This is for a few reasons:
 
 * The fences will not keep an untrained or determined dog inside the property.
 * The neighbor on the left has an old yellow Golden Retriever dog.
   * It's relatively timid and stays away from people.
   * If the house has been empty for a while and someone new arrives, he'll bark from his yard complaining that "you're on his mountain". Don't be concerned, it gives up after 10 or 15 minutes.
-* Occasionally, a couple of the neighborhood's small dogs go on a field trip together and hike through everyone's yards on the street (these are the same little guys who lay in the middle of the road)
-  * They pass through in a couple minutes. Although they may appear to be friendly, do not engage... just ignore them.
+* Occasionally, a couple of the neighborhood's small dogs go on a field trip together and hike through everyone's yards on the street (these are the same little guys who lay in the middle of the road). They pass through in a couple minutes. Although they may appear to be friendly, do not engage... just ignore them.
 
 > **🐶** Since we don't know how your pet behaves; the property owners and Airbnb cannot assume responsiblility for your animal's actions. Thus, we urge caution and play it safe at first.
 
