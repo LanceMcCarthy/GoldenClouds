@@ -89,9 +89,9 @@ Here is a list of all the major items & features of the property, with some guid
 * **Game Room**
   * Board games are located in the game room, in the game cabinet (you can open any new games).
   * There is an **Xbox One** available, but it is not hooked up. If you connect it to the TV, it is already configured to connect to the wifi, but you will need to sign in with your own Xbox account. This is a security concern, don't forget to sign out of your account before you leave.
-* **Television**
-  * There is no permanent TV setup, this is intentional and by design. We do not list a TV as part of the Airbnb/VRBO, so please do not leave a bad review because there's no TV 😊.
-  * However, there is a 28" TV available if you want to use it for the Xbox or as an extra laptop monitor. This is in the game room, on top of the games cabinet.
+* **Television & PC Hardware**
+  * There is a 32" TV available with all the apps you might want (Netflix/Hulu/etc). This also has 3 HDMI inputs and can be used as an external monitor for your laptop (very common use case for digital nomads.
+  * There is a bluetooth keyboard and mouse for use at the desk. You need to pull out the little piece of tape in front of the battery and then put it into pairing mode by pressing the bluetooth button for 4 seconds.
 * **Yoga Room**
   * This room has yoga mats, ball, weights, and a mirror.
   * This room also doubles as a private office if you do not want to work in the living room with gorgeous view. The gameroom table can be moved in there to act as desktop, the living room desk is very heavy and should be moved.
@@ -110,7 +110,7 @@ Here is a list of all the major items & features of the property, with some guid
       * ![trashbin](https://user-images.githubusercontent.com/3520532/179368463-44689124-083d-4bea-bc88-95f4c323773f.jpg)
 * **Off-limits Areas**
   * There are only two internal areas that are off-limits, both rooms have an electronic key-coded door lock. These rooms are for maintenance and owner access only.
-  * The bodega (tool closet) is outdoors. This is not a guest area, but if you do need a rake or shovel for some reason, your door key will open it. However, we ask that you contact Roy for anything that requires these items, he will handle it.
+  * The bodega (tool closet) is outdoors. This is not a guest area, but if you do need a rake, shovel, or ladder for some reason, your door key will open it. However, we ask that you contact Roy for anything that requires these items, he will handle it.
 * **Windows, Fans, Air Conditioners**
   * Arenal is always ~72 degrees (+/- 10) and comfortable year-round (22 Celsius, +/- 4).
   * Open the windows, patio door and turn on the ceiling fans to get an excellent whole-house breeze.
