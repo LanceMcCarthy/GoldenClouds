@@ -112,7 +112,7 @@ Here is a list of all the major items & features of the property, with some guid
   * There are only two internal areas that are off-limits, both rooms have an electronic key-coded door lock. These rooms are for maintenance and owner access only.
   * The bodega (tool closet) is outdoors. This is not a guest area, but if you do need a rake or shovel for some reason, your door key will open it. However, we ask that you contact Roy for anything that requires these items, he will handle it.
 * **Windows, Fans, Air Conditioners**
-  * Arenal is always ~72 degrees (22 Celsius) and comfortable year-round
+  * Arenal is always ~72 degrees (+/- 10) and comfortable year-round (22 Celsius, +/- 4).
   * Open the windows, patio door and turn on the ceiling fans to get an excellent whole-house breeze.
     * Each window has a screen next to it, insert the screen after opening the window    
   * For the rare hot/humid times, there are two brand-new A/C units (bedroom and living room). Please do not forget it off when not in use or while the doors/windows are open. You can use smart timers, if you're familiar with the controls.
