@@ -161,10 +161,8 @@ We have a hybrid solar power system that will power the house through solar pane
 During utility power outages:
 
 * The 120v power outlets and appliances will be powered by solar and battery backup.
-* The 240v appliances will not be powered (e.g., A/C, hot water heaters, jacuzzi).
-  * It's the difference between having 3-4 hours of backup power versus only 30 minutes.
-* The networking is on an additional battery system.
-  * When the house batteries run out, you will have internet for about 45 minutes longer, assuming the same thing that took down the power didn't take down the fiber optic lines.
+* The 240v appliances will not be powered (e.g., A/C, hot water heaters, jacuzzi). This is so the battery can last for a much longer time.
+* There is an extra backup battery in the guest bedroom, it is on the nightstand and can be used for the very rare event the house batteries don't last long enough.
 
 > **➡️** If there is no sun during the power outage, only the batteries will be powering the house. Consider being strategic during such periods to get the most backup time. If it's sunny, then the 120v system will be powered directly from the sun and not use up the batteries.
 
@@ -175,7 +173,7 @@ This is the same kind of Wi-Fi that you’ve used at airports, hospitals, stadiu
 1. Connect to `Golden Clouds Guest` (no password).
 2. Your device should automatically open the Terms of Service (ToS) web page, just like airports and coffee shops.
     - If this doesn't happen automatically, just open your browser and attempt go to any website.
-3. Accept the ToS and you're done.
+3. Accept the ToS and you're done. Note that the lease runs out in 30 days, if you are staying longer, you will be redirected to the ToS again for another 30 days)
 
 This what the ToS acceptance page looks like:
 
@@ -183,7 +181,7 @@ This what the ToS acceptance page looks like:
 
 - If you have trouble with the Wi-Fi, message Lance, he can fix it very quickly.
 - If you would like a separate dedicated network (i.e., for work), Lance can set that up for you in just a couple minutes.
-- If you require ethernet instead of wifi, please let us know ahead of time and that will be prepared for you.
+- If you require ethernet instead of wifi, please let Lance or Roy know ahead of time and we can provide a single guest-isolated line.
 
 #### Wi-Fi Coverage
 
@@ -224,12 +222,14 @@ If you have any questions or concerns, please *do not remain silent*! Voice your
 There are so many amazing places to eat packed in just Nuevo Arenal's small town limits. It takes a whole week just to go to them all, so let me share our favorite places (stars are our rating):
 
 - **El Corral BBQ** (⭐⭐⭐⭐⭐): [https://maps.app.goo.gl/vZkXCBSiJ6DmTyZQ7](https://maps.app.goo.gl/vZkXCBSiJ6DmTyZQ7)
-  - This is hands-down, our absolute favorite place, we go there every-single-day. 
+  - This is hands-down, our absolute favorite place, we go there every-single-day.
+- **Sea Salt** (⭐⭐⭐⭐⭐): [https://maps.app.goo.gl/anEPM5oTBbiP3Gm78](https://maps.app.goo.gl/anEPM5oTBbiP3Gm78)
+  - This is a brand new place, very modern layout and menu. They have top-notch seafood options, but also some very good chicken and beef items, too.
 - **Moya's Place** (⭐⭐⭐⭐): [https://maps.app.goo.gl/PyL9zM12X2yzDcyR7](https://maps.app.goo.gl/PyL9zM12X2yzDcyR7)
   - Great for quick lunch or dinner, right in the middle of town and has a great ambience
 - **Gingerbread** (⭐⭐⭐⭐⭐): [https://maps.app.goo.gl/9MTPYuieNEBa29em7](https://maps.app.goo.gl/9MTPYuieNEBa29em7)
   - This place is a little more expensive than average, but the plates are HUGE and are meant to server many people. The tradition is you pick 2 or 3 plates, then everyone takes their share from it
-- **Cafe Macadmaia** (⭐⭐⭐⭐): [https://maps.app.goo.gl/vZkXCBSiJ6DmTyZQ7](https://maps.app.goo.gl/vZkXCBSiJ6DmTyZQ7)
+- **Cafe Macadmaia** (⭐⭐⭐⭐): [https://maps.app.goo.gl/bW67DHDAdzQqeDzC8](https://maps.app.goo.gl/bW67DHDAdzQqeDzC8)
   - A local and visitor favorite. The patio has unparallel views of the lake. Their blended drinks are a must-try.
 - **Los Platillos Voladores** (⭐⭐⭐⭐): [https://maps.app.goo.gl/PyL9zM12X2yzDcyR7](https://maps.app.goo.gl/PyL9zM12X2yzDcyR7)
   - Don't let the location's appearance fool you, her italian food and pizza is amazing.
