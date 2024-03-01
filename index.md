@@ -195,7 +195,7 @@ There are security cameras on the property, this is a fact of life in Costa Rica
 
 1. There are only 3 internal cameras facing the common areas. They are all in clear view of occupants; **Living Room**, **Game Room** and **Hallway**.
     - ![camera coverage](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/094d892a-4a66-4167-9fbf-ac621db47e7d)
-2. Camera Privacy Covers - You will find three blue covers in the kitchen, they are made out of opaque material and look like this:
+2. Camera Privacy Covers - These are in the **game room**, on the top shelf. They are made out of opaque material (painter's tape) and look like this:
     -  ![privacy covers](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/1dd13ce6-c01b-4a49-ae66-304ee7f3fa63)
 3. A guest can access and enable or disable the camera blackout (see the [Guest Camera Access](#camera-access) section below). This might be something you want if you're away from the property for a large portion of the day.
 
