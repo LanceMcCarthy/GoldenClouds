@@ -114,12 +114,12 @@ Here is a list of all the major items & features of the property, with some guid
 * **Windows, Fans, Air Conditioners**
   * Arenal is always ~72 degrees (+/- 10) and comfortable year-round (22 Celsius, +/- 4).
   * Open the windows, patio door and turn on the ceiling fans to get an excellent whole-house breeze.
-    * Each window has a screen next to it, insert the screen after opening the window    
+    * Each window has a screen next to it, insert the screen after opening the window
   * For the rare hot/humid times, there are two brand-new A/C units (bedroom and living room). Please do not forget it off when not in use or while the doors/windows are open. You can use smart timers, if you're familiar with the controls.
 * **Jacuzzis `(unlisted feature)`**
-  * These are not in the online listing because they break frequently and we do not want to always promise their availability. If it is working while you're there, that's great... but if it is not, please keep this non-dedication in mind when leaving a review 😋
+  * These are not in the AirBnb/Vrbo listing because they break frequently and we can't promise availability. The default status is "Not available", but during check in, we will let you know it is working. If it's not, please remember when leaving an Airbnb review that we never listed it as a feature 😋
       * **Outdoor Jacuzzi**: We are waiting for a new heater and user control unit. Until this is installed, the Jacuzzi can only be set up for you by the property manager, Roy.
-        * > **⚠️ Do not attempt to operate it yourself ⚠️**. Without a regulator, you run the risk of serious physical harm and/or ☠️ because there is no way to limit the temperature or duration. Roy will bring it up to a good temp for you and then turn off the heater. That temperature will last for many hours!
+        * > **⚠️ Do not attempt to operate it yourself ⚠️**. On top of an electrocution hazard, without a thermostat you run the risk of serious physical harm (or ☠️) because there is no way to limit the temperature or duration. If it is working, Roy will manually bring it up to a good temp for you and then turn off the heater, that temp will last for *many* hours.
       * **Indoor tub**: The indoor one does not have operational jets, but it still can be used for hot bubble baths w/candles or the room's LED lighting.
 
 ## Tips
