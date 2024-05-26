@@ -81,7 +81,7 @@ Here is a list of all the major items & features of the property, with some guid
 * **Bathrooms**
   * Extra shampoo, conditioner and soap can be found in the bottom drawer of bathrooms. Extra towels and linens can be found in the cabinets of the rear bedroom.
   * The house uses a septic tank, please do not flush anything extra except the toilet paper we supply (it's made for septic tanks).
-    * > **⚠️** - Non-toilet paper items (paper towels, sanitary items, etc) *will* result in a backup and is a quick way to have an uncomfortable experience during your stay 😢. There's a wastebasket next to each toilet dedicated for these items and plenty of extra trash bags in case you want to empty it early (this is common practice in Costa Rica).
+    * > **⚠️** Non-toilet paper items like paper towels, sanitary items, etc, *will* result in a backup of the plumbing and is a quick way to ruin your stay 😢. There's a wastebasket next to each toilet dedicated for these items and plenty of extra trash bags in case you want to empty it early (this is common practice in Costa Rica).
   * Every bathroom has a shower that has its own hot water boiler/tank, we recommend the main bathroom for showering. Water can get hot really fast, so start with a tiny bit of hot water, then add cold. Always test it before jumping in 🫠.
 * **Back Patio**
   * There are two chair hammocks available above the game room cabinet. These hammock chairs hook into the rings in the overhead structure.
@@ -110,17 +110,15 @@ Here is a list of all the major items & features of the property, with some guid
       * ![trashbin](https://user-images.githubusercontent.com/3520532/179368463-44689124-083d-4bea-bc88-95f4c323773f.jpg)
 * **Off-limits Areas**
   * There are only two internal areas that are off-limits, both rooms have an electronic key-coded door lock. These rooms are for maintenance and owner access only.
-  * The bodega (tool closet) is outdoors. This is not a guest area, but if you do need a rake, shovel, or ladder for some reason, your door key will open it. However, we ask that you contact Roy for anything that requires these items, he will handle it.
+  * Owner's bedroom. This is the door facing the game room with an electronic lock.
+  * The external bodega (tool closet) is not a guest area, but if you do need a rake, shovel, or ladder for some reason, your door key will open it. However, we ask that you contact Roy for anything that requires these items, he will handle it.
 * **Windows, Fans, Air Conditioners**
   * Arenal is always ~72 degrees (+/- 10) and comfortable year-round (22 Celsius, +/- 4).
   * Open the windows, patio door and turn on the ceiling fans to get an excellent whole-house breeze.
     * Each window has a screen next to it, insert the screen after opening the window
   * For the rare hot/humid times, there are two brand-new A/C units (bedroom and living room). Please do not forget it off when not in use or while the doors/windows are open. You can use smart timers, if you're familiar with the controls.
-* **Jacuzzis `(unlisted feature)`**
-  * These are not in the AirBnb/Vrbo listing because they break frequently and we can't promise availability. The default status is "Not available", but during check in, we will let you know it is working. If it's not, please remember when leaving an Airbnb review that we never listed it as a feature 😋
-      * **Outdoor Jacuzzi**: We are waiting for a new heater and user control unit. Until this is installed, the Jacuzzi can only be set up for you by the property manager, Roy.
-        * > **⚠️ Do not attempt to operate it yourself ⚠️**. On top of an electrocution hazard, without a thermostat you run the risk of serious physical harm (or ☠️) because there is no way to limit the temperature or duration. If it is working, Roy will manually bring it up to a good temp for you and then turn off the heater, that temp will last for *many* hours.
-      * **Indoor tub**: The indoor one does not have operational jets, but it still can be used for hot bubble baths w/candles or the room's LED lighting.
+* **Jacuzzis**
+  * The indoor and out door jacuzzi are not available for use due to the unavailability of repair parts.
 
 ## Tips
 
