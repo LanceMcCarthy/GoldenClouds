@@ -191,11 +191,12 @@ Here is the wifi coverage map (the actual coverage is much stronger, but this gi
 
 There are security cameras on the property, this is a fact of life in Costa Rica that you will find on many properties. It is important that you read and understand this section, so that you can feel comfortable and confident with your privacy during your stay.
 
-1. There are only 3 internal cameras facing the common areas. They are all in clear view of occupants; **Living Room**, **Game Room** and **Hallway**.
+1. There are 4 cameras providing coverage for external property (front/driveway, left, right and backyard). These are not operatable by or accesible to the guest.
+2. There are 3 internal cameras which *all in clear view* of occupants; `Living Room`, `Game Room` and `Hallway`. The guest has full control over these cameras, see the [Guest Camera Access section](#guest-camera-access) below.
     - ![camera coverage](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/094d892a-4a66-4167-9fbf-ac621db47e7d)
-2. Camera Privacy Covers - These are in the **game room**, on the top shelf. They are made out of opaque material (painter's tape) and look like this:
+3. Internal Camera Privacy Covers - These are in the **game room**, on the top shelf. They are made out of opaque material (painter's tape) and look like this:
     -  ![privacy covers](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/1dd13ce6-c01b-4a49-ae66-304ee7f3fa63)
-3. A guest can access and enable or disable the camera blackout (see the [Guest Camera Access](#camera-access) section below). This might be something you want if you're away from the property for a large portion of the day.
+4. A guest can access and enable or disable the camera blackout (see the [Guest Camera Access](#camera-access) section below). This might be something you want if you're away from the property for a large portion of the day.
 
 > **⚠️** Use only the camera covers **⚠️** Do not **unplug** or **reposition** any security devices, as this will trigger a security alert. This is a modern AI-managed security system that will send a 'tampering' alert if a device is powered off or repositoned unexpectedly. Any damage to security devices due to guest manipulation will submitted to AirCover for reimbursement.
 
