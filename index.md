@@ -103,6 +103,7 @@ Here is a list of all the major items & features of the property, with some guid
   * If you trip a breaker, you can find the panel in the yoga room.
   * Although Arenal water is very pure, the kitchen’s water has its own filter and hot water system.
     * For the fridge water dispense, since we don't know the time between guests, so we recommend letting it run for 30 seconds to flush out the filter (it's used for the ice maker too).
+* **Laundry**
   * Clothes washer and dryer are in the kitchen, behind the closet doors.
 * **Trash**
   * The city of Arenal has trash service every week on Thursday morning (5AM-7AM)
