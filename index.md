@@ -119,7 +119,7 @@ Here is a list of all the major items & features of the property, with some guid
     * Each window has a screen next to it, insert the screen after opening the window
   * For the rare hot/humid times, there are two brand-new A/C units (bedroom and living room). Please do not forget it off when not in use or while the doors/windows are open. You can use smart timers, if you're familiar with the controls.
 * **Jacuzzis**
-  * The indoor and out door jacuzzi are not available for use due to the unavailability of repair parts.
+  * The indoor and outdoor jacuzzi are not available for use. They are in the process of being removed (they're too old) and are disconnected.
 
 ## Tips
 
@@ -142,10 +142,7 @@ You are free to walk on the road for as far as you'd like, this is a popular act
 If you have pets with you, we strongly recommend initially having them on a leash while out in the backyard. This is for a few reasons:
 
 * The fences will not keep an untrained or determined dog inside the property.
-* The neighbor on the left has an old yellow Golden Retriever dog.
-  * It's relatively timid and stays away from people.
-  * If the house has been empty for a while and someone new arrives, he'll bark from his yard complaining that "you're on his mountain". Don't be concerned, it gives up after 10 or 15 minutes.
-* Occasionally, a couple of the neighborhood's small dogs go on a field trip together and hike through everyone's yards on the street (these are the same little guys who lay in the middle of the road). They pass through in a couple minutes. Although they may appear to be friendly, do not engage... just ignore them.
+* Occasionally, a couple of the neighborhood's small dogs go on a field trip together. They pass through in a couple minutes. Although they may appear to be friendly, do not feed or engage with them, ro they will not go away.
 
 > **🐶** Since we don't know how your pet behaves; the property owners and Airbnb cannot assume responsiblility for your animal's actions. Thus, we urge caution and play it safe at first.
 
@@ -160,10 +157,10 @@ We have a hybrid solar power system that will power the house through solar pane
 During utility power outages:
 
 * The 120v power outlets and appliances will be powered by solar and battery backup.
-* The 240v appliances will not be powered (e.g., A/C, hot water heaters, jacuzzi). This is so the battery can last for a much longer time.
-* There is an extra backup battery in the guest bedroom, it is on the nightstand and can be used for the very rare event the house batteries don't last long enough.
+* The 240v appliances are also powered by a separate solar and battery backup system, this system has a smaller battery array, so I recommend not using the dryer during outages so you can use that evergy for hot water and air conditioners.
+* There is a little UPS in the guest bedroom, it is on the nightstand and can be used for the very rare event the house batteries don't last long enough.
 
-> **➡️** If there is no sun during the power outage, only the batteries will be powering the house. Consider being strategic during such periods to get the most backup time. If it's sunny, then the 120v system will be powered directly from the sun and not use up the batteries.
+> **➡️** If there is no sun during the power outage, only the batteries will be powering the house.  If it's sunny, then the solar panels will be powering the house, but that is to a limit before it starts using the batteries for overages.  Consider being strategic during outages to get the most backup time, for example don't use the washer/dryer so you can have hot water throughout the night.
 
 ### Wi-Fi
 
@@ -199,7 +196,7 @@ There are security cameras on the property, this is a fact of life in Costa Rica
     -  ![privacy covers](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/1dd13ce6-c01b-4a49-ae66-304ee7f3fa63)
 4. A guest can access and enable or disable the camera blackout (see the [Guest Camera Access](#camera-access) section below). This might be something you want if you're away from the property for a large portion of the day.
 
-> **⚠️** Use only the camera covers **⚠️** Do not **unplug** or **reposition** any security devices, as this will trigger a security alert. This is a modern AI-managed security system that will send a 'tampering' alert if a device is powered off or repositoned unexpectedly. Any damage to security devices due to guest manipulation will submitted to AirCover for reimbursement.
+> **⚠️** Use only the camera covers for additional privacy reassurance **⚠️** Do not **unplug** or **reposition** any security devices, as this will trigger a security alert. This is a modern AI-managed security system that will send a 'tampering' alert if a device is powered off or repositoned unexpectedly. Any damage to security devices due to guest manipulation will submitted to AirCover for reimbursement.
 
 ### Guest Camera Access
 
