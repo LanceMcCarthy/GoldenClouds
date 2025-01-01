@@ -50,11 +50,11 @@ If you have any questions or problems during your stay, here's how to get in tou
 
 Attached to the front of the gate is a little lockbox that contains the keys. Enter the 4-digit combination and pull down the latch to open the box.
 
-![lockbox](https://dvlup.com//wp-content/uploads/2022/05/Key-Lockbox-Instructions-1024x770.png)
+![lockbox](https://github.com/user-attachments/assets/9283540b-d921-49a9-b374-8bc21e0c19ce)
 
 Once you have the gate fob and keys, here is how to use them:
 
-![keys](https://dvlup.com//wp-content/uploads/2022/05/FobAndKeyInstructions.png)
+![keyfob](https://github.com/user-attachments/assets/18e3cbf8-734d-4a71-b674-2282fdb37d17)
 
 ### Key Operation
 
@@ -81,7 +81,7 @@ Here is a list of all the major items & features of the property, with some guid
 * **Bathrooms**
   * Extra shampoo, conditioner and soap can be found in the bottom drawer of bathrooms. Extra towels and linens can be found in the cabinets of the rear bedroom.
   * The house uses a septic tank, please do not flush anything extra except the toilet paper we supply (it's made for septic tanks).
-    * > **⚠️** Non-toilet paper items like paper towels, sanitary items, etc, *will* result in a backup of the plumbing and is a quick way to ruin your stay 😢. There's a wastebasket next to each toilet dedicated for these items and plenty of extra trash bags in case you want to empty it early (this is common practice in Costa Rica).
+    * > **⚠️** Non-toilet paper items like paper towels, sanitary items, etc, *will* result in a backup of the plumbing and is a quick way to ruin your stay. There's a wastebasket next to each toilet dedicated for these items and plenty of extra trash bags in case you want to empty it early (this is common practice in Costa Rica).
   * Every bathroom has a shower that has its own hot water boiler/tank, we recommend the main bathroom for showering. Water can get hot really fast, so start with a tiny bit of hot water, then add cold. Always test it before jumping in 🫠.
 * **Back Patio**
   * There are two chair hammocks available above the game room cabinet. These hammock chairs hook into the rings in the overhead structure.
@@ -99,19 +99,20 @@ Here is a list of all the major items & features of the property, with some guid
 * **Kitchen**
   * The kitchen is at your disposal, here are a few important things to keep in mind
   * Be sure to clean up thoroughly when you’re done. Remember that you’re in a jungle, any dropped food or scraps will attract insects.
-  * There is no garbage disposal, food scraps should be thrown out into the jungle instead of a trash bag.
+  * There is no garbage disposal, food scraps should be thrown out into the jungle instead of a trash bag. Go to the edge of the yard and throw the scraps downhill.
   * If you trip a breaker, you can find the panel in the yoga room.
   * Although Arenal water is very pure, the kitchen’s water has its own filter and hot water system.
-    * For the fridge water dispense, since we don't know the time between guests, so we recommend letting it run for 30 seconds to flush out the filter (it's used for the ice maker too).
+    * For the fridge water dispense, since we don't know the duration between guests, so we recommend letting it run for at least 30 seconds to flush out the filter (it's used for the ice maker too).
 * **Laundry**
   * Clothes washer and dryer are in the kitchen, behind the closet doors.
 * **Trash**
   * The city of Arenal has trash service every week on Thursday morning (5AM-7AM)
   * The cleaning service will take care of any trash. However, if you are staying longer than average guest, you might need to take some bags out. Please only use the metal trash bin to the right of the gate, in this photo:
-      * ![trashbin](https://user-images.githubusercontent.com/3520532/179368463-44689124-083d-4bea-bc88-95f4c323773f.jpg)
+      * ![trashbin](https://github.com/user-attachments/assets/4abb2d50-8900-4ecf-b456-92f4da62f5c8)
 * **Off-limits Areas**
-  * There are only two internal areas that are off-limits, both rooms have an electronic key-coded door lock. These rooms are for maintenance and owner access only.
-  * Owner's bedroom. This is the door facing the game room with an electronic lock.
+  * There are only two internal areas that are off-limits, both have an electronic key-coded door lock. These rooms are for maintenance and owner access only.
+  * Owner's bedroom: This is the door facing the game room with an electronic lock.
+  * Electrical and networking closet: This is the door in the living room with electronic lock. This is absolutely off-limits to unauthorized personnel, *you can die from touching the wrong thing in there*!
   * The external bodega (tool closet) is not a guest area, but if you do need a rake, shovel, or ladder for some reason, your door key will open it. However, we ask that you contact Roy for anything that requires these items, he will handle it.
 * **Windows, Fans, Air Conditioners**
   * Arenal is always ~72 degrees (+/- 10) and comfortable year-round (22 Celsius, +/- 4).
@@ -142,9 +143,9 @@ You are free to walk on the road for as far as you'd like, this is a popular act
 If you have pets with you, we strongly recommend initially having them on a leash while out in the backyard. This is for a few reasons:
 
 * The fences will not keep an untrained or determined dog inside the property.
-* Occasionally, a couple of the neighborhood's small dogs go on a field trip together. They pass through in a couple minutes. Although they may appear to be friendly, do not feed or engage with them, ro they will not go away.
+* Occasionally, a couple of the neighborhood's small dogs go on a field trip together. They pass through in a couple minutes. Although they may appear to be friendly, **do not feed** or engage with them, or they will not go away.
 
-> **🐶** Since we don't know how your pet behaves; the property owners and Airbnb cannot assume responsiblility for your animal's actions. Thus, we urge caution and play it safe at first.
+> **🐶** Since we don't know how your pet behaves; the property owners and Airbnb/Vrbo cannot assume responsiblility for your animal's actions. Thus, we strongly urge caution, leash your pet until you understand how it will act in these surroundings. Play it safe!
 
 ## Onsite Technology
 
@@ -171,9 +172,10 @@ This is the same kind of Wi-Fi that you’ve used at airports, hospitals, stadiu
     - If this doesn't happen automatically, just open your browser and attempt go to any website.
 3. Accept the ToS and you're done. Note that the lease runs out in 30 days, if you are staying longer, you will be redirected to the ToS again for another 30 days)
 
-This what the ToS acceptance page looks like:
+This what the captive portal's ToS acceptance page looks like:
 
-![guest wifi](https://user-images.githubusercontent.com/3520532/173122916-10271660-8cdf-4d39-8a6c-6cdf2537f3a4.png)
+![guest wifi](https://github.com/user-attachments/assets/3b661fa4-772b-4dc4-8096-008ebbcdf060)
+
 
 - If you have trouble with the Wi-Fi, message Lance, he can fix it very quickly.
 - If you would like a separate dedicated network (i.e., for work), Lance can set that up for you in just a couple minutes.
@@ -183,7 +185,8 @@ This what the ToS acceptance page looks like:
 
 Here is the wifi coverage map (the actual coverage is much stronger, but this gives you an idea of the zones).
 
-![wifi map](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/52683fb4-b994-4581-9ff4-bdf6cb7dddcf)
+![wifi map](https://github.com/user-attachments/assets/667f39d2-1360-49a5-b794-c7d3aac97040)
+
 
 ### Security Cameras
 
@@ -191,9 +194,9 @@ There are security cameras on the property, this is a fact of life in Costa Rica
 
 1. There are 4 cameras providing coverage for external property (front/driveway, left, right and backyard). These are not operatable by or accesible to the guest.
 2. There are 3 internal cameras which *all in clear view* of occupants; `Living Room`, `Game Room` and `Hallway`. The guest has full control over these cameras, see the [Guest Camera Access section](#guest-camera-access) below.
-    - ![camera coverage](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/094d892a-4a66-4167-9fbf-ac621db47e7d)
+    - ![camera coverage](https://github.com/user-attachments/assets/769c7e8c-6823-4863-af1c-ce9f7dbe8363)
 3. Internal Camera Privacy Covers - These are in the **game room**, on the top shelf. They are made out of opaque material (painter's tape) and look like this:
-    -  ![privacy covers](https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/1dd13ce6-c01b-4a49-ae66-304ee7f3fa63)
+    -  ![privacy covers](https://github.com/user-attachments/assets/d70a5890-9510-427f-872a-32faf017c478)
 4. A guest can access and enable or disable the camera blackout (see the [Guest Camera Access](#camera-access) section below). This might be something you want if you're away from the property for a large portion of the day.
 
 > **⚠️** Use only the camera covers for additional privacy reassurance **⚠️** Do not **unplug** or **reposition** any security devices, as this will trigger a security alert. This is a modern AI-managed security system that will send a 'tampering' alert if a device is powered off or repositoned unexpectedly. Any damage to security devices due to guest manipulation will submitted to AirCover for reimbursement.
@@ -209,8 +212,8 @@ We also provide you with access to the [Home Assistant] system for the house. Th
 2. Operating **Privacy Mode**
     1. Click the little eye icon to enable or disable Privacy Mode
     2. Wait ~5 seconds for the mode to be applied to the device. In this screenshot, the camera on the left has Privacy Mode turned on.
-      * ![HA home page](https://user-images.githubusercontent.com/3520532/185434001-62ca3173-6636-4ef5-a6aa-6066d0d3f197.png)
-      * ![privacy mode](https://user-images.githubusercontent.com/3520532/185434308-c15c4f63-29b9-44f7-9987-867001ae20e0.png)
+      * ![HA home page](https://github.com/user-attachments/assets/6ee5e38e-ecdc-45a0-8867-656c3e24d7ae)
+      * ![privacy mode](https://github.com/user-attachments/assets/0d826ee2-854c-40ba-a6de-934474a2516d)
 
 If you have any questions or concerns, please *do not remain silent*! Voice your questions/concerns to Lance and he will address all your concerns... we want you to have an enjoyable stay and good communication is a major factor.
 
@@ -232,7 +235,7 @@ There are so many amazing places to eat packed in just Nuevo Arenal's small town
   - Don't let the location's appearance fool you, her italian food and pizza is amazing.
 
 ### Notes
-- You can always ask Roy for recommendations, he is like the unofficial mayor of Arenal and I'm lucky to have him as the property manager and a friend.
+- You can always ask Roy for recommendations, he knows everyone and everything in the area (I'm lucky to have him as the property manager and as a friend).
 - DOT NOT go to "The German Bakery", no matter how many signs on the highway you've seen or how colorful it looks. It is a tourist trap, with really bad food saftey practices. It is a lesson in "how to ruin your reputation and legacy", the owners have let it go and the staff don't care.
 - If you are vegan, vegitarian, or gluten-free, there are plenty of menu options available for you at these locations. Although I can't speak directly to this, I have taken gluten-free vegan friends with me and they were happy with the options.
 
