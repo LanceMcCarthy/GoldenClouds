@@ -167,10 +167,12 @@ During utility power outages:
 * During the day, solar will recharge the batteries and power the house simultaneously during sunlight. 
 * There is a little UPS in the guest bedroom, it is on the nightstand and can be used for the rare event the house batteries don't last long enough through the outage.
 
+
+
 > **➡️** If there is no sun during the power outage, only the batteries will be powering the house. Consider being strategic during outages to get the most battery backup time, for example don't use the washer/dryer unless it is sunny, so you can have hot water throughout the night.
-> You can see if the solar power is enough to cover your high demand needs by checking your Home Assistant dashboard.
 > 
-> ![](.images/solar-metrics-live.png)
+> You can see solar power and battery levels in your Home Assistant dashboard. <br/>
+> ![solar dashboard](.images/solar-metrics-live.png)
 
 ### Wi-Fi
 
