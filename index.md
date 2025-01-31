@@ -163,11 +163,14 @@ We have a hybrid solar power system that will power the house through solar pane
 
 During utility power outages:
 
-* The 120v power outlets and appliances will be powered by solar and battery backup.
-* The 240v appliances are also powered by a separate solar and battery backup system, this system has a smaller battery array, so I recommend not using the dryer during outages so you can use that evergy for hot water and air conditioners.
-* There is a little UPS in the guest bedroom, it is on the nightstand and can be used for the very rare event the house batteries don't last long enough.
+* The entire house will run on the batteries for more than 24 hours if no large appliances are used.
+* During the day, solar will recharge the batteries and power the house simultaneously during sunlight. 
+* There is a little UPS in the guest bedroom, it is on the nightstand and can be used for the rare event the house batteries don't last long enough through the outage.
 
-> **➡️** If there is no sun during the power outage, only the batteries will be powering the house.  If it's sunny, then the solar panels will be powering the house, but that is to a limit before it starts using the batteries for overages.  Consider being strategic during outages to get the most backup time, for example don't use the washer/dryer so you can have hot water throughout the night.
+> **➡️** If there is no sun during the power outage, only the batteries will be powering the house. Consider being strategic during outages to get the most battery backup time, for example don't use the washer/dryer unless it is sunny, so you can have hot water throughout the night.
+> You can see if the solar power is enough to cover your high demand needs by checking your Home Assistant dashboard.
+> 
+> ![](.images/solar-metrics-live.png)
 
 ### Wi-Fi
 
