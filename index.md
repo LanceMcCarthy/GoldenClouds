@@ -104,10 +104,10 @@ Here is a list of all the major items & features of the property, with some guid
   * There is LED ambiance lighting in this room. You can change the color and brightness using any of the remote controllers and/or through Home Assistant. The strip will automatically change at sunset and sunrise.
 * **Kitchen**
   * The kitchen is at your disposal, here are a few important things to keep in mind
-  * Be sure to clean up thoroughly when you’re done. Remember that you’re in a jungle, any dropped food or scraps will attract insects.
+  * Be sure to clean up thoroughly when you're done. Remember that you're in a jungle, any dropped food or scraps will attract insects.
   * There is no garbage disposal, food scraps should be thrown out into the jungle instead of a trash bag. Go to the edge of the yard and throw the scraps downhill.
   * If you trip a breaker, you can find the panel in the yoga room.
-  * Although Arenal water is very pure, the kitchen’s water has its own filter and hot water system.
+  * Although Arenal water is very pure, the kitchen's water has its own filter and hot water system.
     * For the fridge water dispense, since we don't know the duration between guests, so we recommend letting it run for at least 30 seconds to flush out the filter (it's used for the ice maker too).
 * **Laundry**
   * Clothes washer and dryer are in the kitchen, behind the closet doors.
@@ -132,8 +132,8 @@ Here is a list of all the major items & features of the property, with some guid
 
 ### Night-time
 
-  * Sunset is absolutely breathtaking, grab a chair on the patio, a drink and watch the pastel color show. Use `#GoldenCloudsArenal` and `#NeuvoArenal` hashtags on social. Pro-tip: If you’re showering in the front bathroom at this time of day, slide open the window to get the view!
-  * Keep the screen door closed if you’re on the patio. We have excellent, non-toxic pest control on the grounds, but you still don’t want a firefly beep-booping around the house while you’re trying to sleep.
+  * Sunset is absolutely breathtaking, grab a chair on the patio, a drink and watch the pastel color show. Use `#GoldenCloudsArenal` and `#NeuvoArenal` hashtags on social. Pro-tip: If you're showering in the front bathroom at this time of day, slide open the window to get the view!
+  * Keep the screen door closed if you're on the patio. We have excellent, non-toxic pest control on the grounds, but you still don't want a firefly beep-booping around the house while you're trying to sleep.
   * At night, especially right after sunset, bright lights will attract insects. We recommend keeping the kitchen door closed if you have the bar/kitchen lights on. This will prevent finding a bunch of insects just outside the door in the morning.
 
 > **➡️** The valley's bats can sometimes be annoying when they land on the roof in the early hours of the evening after the sun sets. You may hear them scuttling around, but there's no reason for concern. We mention this ahead of time because while some folks don't notice it, others do.
@@ -172,11 +172,11 @@ During utility power outages:
 > **➡️** If there is no sun during the power outage, only the batteries will be powering the house. Consider being strategic during outages to get the most battery backup time, for example don't use the washer/dryer unless it is sunny, so you can have hot water throughout the night.
 > 
 > You can see solar power and battery levels in your Home Assistant dashboard. <br/>
-> ![solar dashboard](.images/solar-metrics-live.png)
+> ![solar dashboard](/.images/solar-metrics-live.png)
 
 ### Wi-Fi
 
-This is the same kind of Wi-Fi that you’ve used at airports, hospitals, stadiums, etc. 
+This is the same kind of Wi-Fi that you've used at airports, hospitals, stadiums, etc. 
 
 1. Connect to `Golden Clouds Guest` (no password).
 2. Your device should automatically open the Terms of Service (ToS) web page, just like airports and coffee shops.
@@ -186,7 +186,6 @@ This is the same kind of Wi-Fi that you’ve used at airports, hospitals, stadiu
 This what the captive portal's ToS acceptance page looks like:
 
 ![guest wifi](https://github.com/user-attachments/assets/3b661fa4-772b-4dc4-8096-008ebbcdf060)
-
 
 - If you have trouble with the Wi-Fi, message Lance, he can fix it very quickly.
 - If you would like a separate dedicated network (i.e., for work), Lance can set that up for you in just a couple minutes.
@@ -207,7 +206,7 @@ It is important that you read and understand this section, so that you can feel 
 
 1. There are 4 external cameras (front/driveway, left, right and backyard), these are not operatable by or accesible to the guest.
 2. All 3 internal cameras; *all are in full view of the guest**; `Living Room`, `Game Room` and `Hallway`. The guest has full control over these cameras, see the [Guest Camera Access section](#guest-camera-access) below.
-    - ![camera coverage](.images/camera-layout-internal.png)
+    - ![camera coverage](/.images/camera-layout-internal.png)
 3. IPrivacy Covers - These are in the **game room**, on the top shelf. They are made out of opaque material (painter's tape) and look like this:
     -  ![privacy covers](https://github.com/user-attachments/assets/d70a5890-9510-427f-872a-32faf017c478)
 4. Guest can access and enable or disable the cameras (see the [Guest Camera Access](#camera-access) section below). This might be something you want if you're away from the property for a large portion of the day.
