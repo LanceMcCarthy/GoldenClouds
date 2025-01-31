@@ -190,16 +190,18 @@ Here is the wifi coverage map (the actual coverage is much stronger, but this gi
 
 ### Security Cameras
 
-There are security cameras on the property, this is a fact of life in Costa Rica that you will find on many properties. It is important that you read and understand this section, so that you can feel comfortable and confident with your privacy during your stay.
+There are security cameras on the property, this is a fact of life in Costa Rica that you will find on many properties where there is no full-time tenant. **You have full control over the internal cameras during your stay.**
 
-1. There are 4 cameras providing coverage for external property (front/driveway, left, right and backyard). These are not operatable by or accesible to the guest.
-2. There are 3 internal cameras which *all in clear view* of occupants; `Living Room`, `Game Room` and `Hallway`. The guest has full control over these cameras, see the [Guest Camera Access section](#guest-camera-access) below.
-    - ![camera coverage](https://github.com/user-attachments/assets/769c7e8c-6823-4863-af1c-ce9f7dbe8363)
-3. Internal Camera Privacy Covers - These are in the **game room**, on the top shelf. They are made out of opaque material (painter's tape) and look like this:
+It is important that you read and understand this section, so that you can feel comfortable and confident with your privacy during your visit.
+
+1. There are 4 external cameras (front/driveway, left, right and backyard), these are not operatable by or accesible to the guest.
+2. All 3 internal cameras; *all are in full view of the guest**; `Living Room`, `Game Room` and `Hallway`. The guest has full control over these cameras, see the [Guest Camera Access section](#guest-camera-access) below.
+    - ![camera coverage](.images/camera-layout-internal.png)
+3. IPrivacy Covers - These are in the **game room**, on the top shelf. They are made out of opaque material (painter's tape) and look like this:
     -  ![privacy covers](https://github.com/user-attachments/assets/d70a5890-9510-427f-872a-32faf017c478)
-4. A guest can access and enable or disable the camera blackout (see the [Guest Camera Access](#camera-access) section below). This might be something you want if you're away from the property for a large portion of the day.
+4. Guest can access and enable or disable the cameras (see the [Guest Camera Access](#camera-access) section below). This might be something you want if you're away from the property for a large portion of the day.
 
-> **⚠️** Use only the camera covers for additional privacy reassurance **⚠️** Do not **unplug** or **reposition** any security devices, as this will trigger a security alert. This is a modern AI-managed security system that will send a 'tampering' alert if a device is powered off or repositoned unexpectedly. Any damage to security devices due to guest manipulation will submitted to AirCover for reimbursement.
+> **⚠️** Please do not **unplug** or **reposition** any security devices without first coordinating with Lance, as this will trigger a security alert. This is a modern AI-managed security system that will send a 'tampering' alert if a device is powered off or repositoned unexpectedly. Any damage to security devices due to guest manipulation will submitted to AirCover for reimbursement.
 
 ### Guest Camera Access
 
