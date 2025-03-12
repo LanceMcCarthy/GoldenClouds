@@ -39,16 +39,14 @@ First, to help you get excited for your stay, [here's a 30 second video at sunse
 
 If you have any questions or problems during your stay, here's how to get in touch.
 
-* **Roy** - Local Property Manager
-  * Whatsapp `+506 8501 7756` (for any problems or questions with the property)
+<!-- * **Roy** - Local Property Manager
+  * Whatsapp `+506 8501 7756` (for any problems or questions with the property) -->
 * **Lance** and **Irina** - Host/Owner
   * Use AirBnb/Vrbo chat for fastest turnaround
   * Use email to share more robust information (lance @ dvlup . com)
 * Emergency Services
   * Medical, Fire, Police `911`
   * Website [www.911.go.cr/](http://www.911.go.cr/)
-
-> **➡️** Roy is an _excellent_ resource to ask about anything. He was a professional chef in New Jersey for many years, and is available for a night to make you dinner at the house. He can also provide a guided tour of the volcano, or a boat tour. He literally knows everyone in the area and is an all-around rockstar. 
 
 ## Check-in
 
