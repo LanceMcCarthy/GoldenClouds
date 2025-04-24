@@ -2,6 +2,7 @@
 body {
     background-color: white;
     color: black;
+    background-image: url("https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/336dcfcb-5258-42bc-89bd-4895e1014734");
 }
 
 /* Dark mode styles */
@@ -9,5 +10,6 @@ body {
     body {
         background-color: black;
         color: white;
+        background-image: url("https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/b09eb353-a71d-4e60-a168-776e6a7f75c5");
     }
 }
