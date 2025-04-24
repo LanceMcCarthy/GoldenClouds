@@ -170,7 +170,7 @@ During utility power outages:
 > **➡️** If there is no sun during the power outage, only the batteries will be powering the house. Consider being strategic during outages to get the most battery backup time, for example don't use the washer/dryer unless it is sunny, so you can have hot water throughout the night.
 > 
 > You can see solar power and battery levels in your Home Assistant dashboard. <br/>
-> ![solar dashboard](/.images/solar-metrics-live.png)
+> ![solar dashboard](/images/solar-metrics-live.png)
 
 ### Wi-Fi
 
@@ -204,7 +204,7 @@ It is important that you read and understand this section, so that you can feel 
 
 1. There are 4 external cameras (front/driveway, left, right and backyard), these are not operatable by or accesible to the guest.
 2. All 3 internal cameras; *all are in full view of the guest**; `Living Room`, `Game Room` and `Hallway`. The guest has full control over these cameras, see the [Guest Camera Access section](#guest-camera-access) below.
-    - ![camera coverage](/.images/camera-layout-internal.png)
+    - ![camera coverage](/images/camera-layout-internal.png)
 3. IPrivacy Covers - These are in the **game room**, on the top shelf. They are made out of opaque material (painter's tape) and look like this:
     -  ![privacy covers](https://github.com/user-attachments/assets/d70a5890-9510-427f-872a-32faf017c478)
 4. Guest can access and enable or disable the cameras (see the [Guest Camera Access](#camera-access) section below). This might be something you want if you're away from the property for a large portion of the day.
