@@ -2,7 +2,9 @@
 body {
     background-color: white;
     color: black;
-    background-image: url("https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/336dcfcb-5258-42bc-89bd-4895e1014734");
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),
+                      url("https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/336dcfcb-5258-42bc-89bd-4895e1014734");
+    background-blend-mode: overlay;
 }
 
 /* Dark mode styles */
@@ -10,6 +12,8 @@ body {
     body {
         background-color: black;
         color: white;
-        background-image: url("https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/b09eb353-a71d-4e60-a168-776e6a7f75c5");
+        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+                          url("https://github.com/LanceMcCarthy/GoldenClouds/assets/3520532/b09eb353-a71d-4e60-a168-776e6a7f75c5");
+        background-blend-mode: overlay;
     }
 }
