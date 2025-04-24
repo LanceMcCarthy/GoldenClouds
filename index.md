@@ -54,11 +54,11 @@ If you have any questions or problems during your stay, here's how to get in tou
 
 Attached to the front of the gate is a little lockbox that contains the keys. Enter the 4-digit combination and pull down the latch to open the box.
 
-![lockbox](https://github.com/user-attachments/assets/9283540b-d921-49a9-b374-8bc21e0c19ce)
+![lockbox](/images/key-lockbox.png)
 
 Once you have the gate fob and keys, here is how to use them:
 
-![keyfob](https://github.com/user-attachments/assets/18e3cbf8-734d-4a71-b674-2282fdb37d17)
+![keyfob](/images/key-fob.png)
 
 ### Key Operation
 
@@ -112,7 +112,7 @@ Here is a list of all the major items & features of the property, with some guid
 * **Trash**
   * The city of Arenal has trash service every week on Thursday morning (5AM-7AM)
   * The cleaning service will take care of any trash. However, if you are staying longer than average guest, you might need to take some bags out. Please only use the metal trash bin to the right of the gate, in this photo:
-      * ![trashbin](https://github.com/user-attachments/assets/4abb2d50-8900-4ecf-b456-92f4da62f5c8)
+      * ![trashbin](/images/trash-bin.png)
 * **Off-limits Areas**
   * There are only two internal areas that are off-limits, both have an electronic key-coded door lock. These rooms are for maintenance and owner access only.
   * Owner's bedroom: This is the door facing the game room with an electronic lock.
@@ -183,7 +183,7 @@ This is the same kind of Wi-Fi that you've used at airports, hospitals, stadiums
 
 This what the captive portal's ToS acceptance page looks like:
 
-![guest wifi](https://github.com/user-attachments/assets/3b661fa4-772b-4dc4-8096-008ebbcdf060)
+![guest wifi](/images/wifi-landing-page.png)
 
 - If you have trouble with the Wi-Fi, message Lance, he can fix it very quickly.
 - If you would like a separate dedicated network (i.e., for work), Lance can set that up for you in just a couple minutes.
@@ -193,7 +193,7 @@ This what the captive portal's ToS acceptance page looks like:
 
 Here is the wifi coverage map (the actual coverage is much stronger, but this gives you an idea of the zones).
 
-![wifi map](https://github.com/user-attachments/assets/667f39d2-1360-49a5-b794-c7d3aac97040)
+![wifi map](/images/wifi-coverage.png)
 
 
 ### Security Cameras
@@ -206,7 +206,7 @@ It is important that you read and understand this section, so that you can feel 
 2. All 3 internal cameras; *all are in full view of the guest**; `Living Room`, `Game Room` and `Hallway`. The guest has full control over these cameras, see the [Guest Camera Access section](#guest-camera-access) below.
     - ![camera coverage](/images/camera-layout-internal.png)
 3. IPrivacy Covers - These are in the **game room**, on the top shelf. They are made out of opaque material (painter's tape) and look like this:
-    -  ![privacy covers](https://github.com/user-attachments/assets/d70a5890-9510-427f-872a-32faf017c478)
+    -  ![privacy covers](/images/camera-covers.png)
 4. Guest can access and enable or disable the cameras (see the [Guest Camera Access](#camera-access) section below). This might be something you want if you're away from the property for a large portion of the day.
 
 > **⚠️** Please do not **unplug** or **reposition** any security devices without first coordinating with Lance, as this will trigger a security alert. This is a modern AI-managed security system that will send a 'tampering' alert if a device is powered off or repositoned unexpectedly. Any damage to security devices due to guest manipulation will submitted to AirCover for reimbursement.
@@ -222,10 +222,10 @@ We also provide you with access to the [Home Assistant] system for the house. Th
 2. Operating **Privacy Mode**
     1. Click the little eye icon to enable or disable Privacy Mode
     2. Wait ~5 seconds for the mode to be applied to the device. In this screenshot, the camera on the left has Privacy Mode turned on.
-      * ![HA home page](https://github.com/user-attachments/assets/6ee5e38e-ecdc-45a0-8867-656c3e24d7ae)
-      * ![privacy mode](https://github.com/user-attachments/assets/0d826ee2-854c-40ba-a6de-934474a2516d)
+      * ![HA home page](/images/ha-guide-1.png)
+      * ![privacy mode](/images/ha-guide-2.png)
 
-If you have any questions or concerns, please *do not remain silent*! Voice your questions/concerns to Lance and he will address all your concerns... we want you to have an enjoyable stay and good communication is a major factor.
+If you have any questions or concerns, please *do not remain silent*! Voice your questions/concerns to Lance and he will address them... we want you to have an enjoyable stay and good communication is a major factor.
 
 ## Food Recommendations
 
