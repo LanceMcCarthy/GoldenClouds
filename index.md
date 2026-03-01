@@ -4,15 +4,14 @@ layout: default
 
 <link rel="stylesheet" type="text/css" href="styles.css">
 
-Welcome to Golden Clouds! Please take 5 minutes to read this **before** your arrival so that you are prepared ([para español, vaya aquí](https://goldenclouds-dvlup-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en)).
+Welcome to Las Palmas! Please take 5 minutes to read this **before** your arrival so that you are prepared ([para español, vaya aquí](https://goldenclouds-dvlup-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en)).
 
-Please bookmark this page, it contains very important information about the property, amenities, technology (e.g., Wi-Fi, cameras), and other "pro-tips" that will make your experience as pleasurable as possible. Please carefully read anything that says "warning".
+Please bookmark this page, it contains very important information about the property, amenities, technology (Wi-Fi, camera locations, etc), and other tips that will make your experience as pleasurable as possible. Please carefully read anything that says "warning".
 
-First, to help you get excited for your stay, [here's a 30 second video at sunset](https://youtu.be/wHkB9e4JbyI):
 
 ### Table of Contents
 
-- [Contacts](#contacts)
+- [Important Contacts](#contacts)
 - [Check-in](#check-in)
   - [Gated Entrance and Keys](#gated-entrance-and-keys)
   - [Key Operation](#key-operation)
@@ -39,16 +38,18 @@ First, to help you get excited for your stay, [here's a 30 second video at sunse
 
 If you have any questions or problems during your stay, here's how to get in touch.
 
-<!-- * **Roy** - Local Property Manager
-  * Whatsapp `+506 8501 7756` (for any problems or questions with the property) -->
-* **Lance** and **Irina** - Host/Owner
-  * Use AirBnb/Vrbo chat for fastest turnaround
-  * Use email to share more robust information (lance @ dvlup . com)
+* **Yorhany** - Local Manager: For any help/questions/problems with the property.
+  * Whatsapp `+506 8888 0404` 
+* **Lance** and **Irina** - Host: For booking help or escalations.
+  * Use AirBnb/Vrbo chat
 * Emergency Services
   * Medical, Fire, Police `911`
   * Website [www.911.go.cr/](http://www.911.go.cr/)
 
 ## Check-in
+
+> [!NOTE]
+> This is our home, not just an "airbnb investment property", so we thank you for being considerate! To help you get excited for your stay, [here's a 30 second video at sunset](https://youtu.be/wHkB9e4JbyI)
 
 ### Gated Entrance and Keys
 
@@ -70,13 +71,15 @@ Once you have the gate fob and keys, here is how to use them:
 
 Checking out is straightforward:
 
-1. You can leave all the soiled laundry on the bed you used.
-2. Close all the doors/windows you've opened and turn off any lights or fans that you turned on.
-3. Turn of any Air Conditioners
-4. Close the electronic gate after you've driven out 
-5. Put the keys back in the lockbox, scramble the code and close to lock it.
+1. Leave all the soiled laundry on the bed you used.
+2. Close all the doors/windows you've opened 
+3. Turn off any lights/fans
+4. Turn of any Air Conditioners
+5. If you have signed into the TV's apps or Xbox with your account, 
+6. Close the electronic gate after you've driven out 
+7. Put the keys back in the lockbox, scramble the code, then close to lock it.
 
-This is our home, not just an "airbnb investment property", so we thank you for being considerate!
+
 
 ## Rooms and Amenities
 
@@ -94,19 +97,16 @@ Here is a list of all the major items & features of the property, with some guid
   * Board games are located in the game room, in the game cabinet (you can open any new games).
   * There is an **Xbox One** available, but it is not hooked up. If you connect it to the TV, it is already configured to connect to the wifi, but you will need to sign in with your own Xbox account. This is a security concern, don't forget to sign out of your account before you leave.
 * **Television & PC Hardware**
-  * There is a 32" TV available with all the apps you might want (Netflix/Hulu/etc). This also has 3 HDMI inputs and can be used as an external monitor for your laptop (very common use case for digital nomads.
-  * There is a bluetooth keyboard and mouse for use at the desk. You need to pull out the little piece of tape in front of the battery and then put it into pairing mode by pressing the bluetooth button for 4 seconds.
-* **Yoga Room**
-  * This room has yoga mats, ball, weights, and a mirror.
-  * This room also doubles as a private office if you do not want to work in the living room with gorgeous view. The gameroom table can be moved in there to act as desktop, the living room desk is very heavy and should be moved.
-  * There is LED ambiance lighting in this room. You can change the color and brightness using any of the remote controllers and/or through Home Assistant. The strip will automatically change at sunset and sunrise.
+  * There is a 32" TV available with all the apps you might want (Netflix/Hulu/etc). 
+  * The TV has three HDMI inputs and can be used as an external monitor for your laptop.
+  * There is a bluetooth keyboard and mouse for use at the desk (remove the tape on the battery, then hold the pairing button for 4 seconds)
 * **Kitchen**
-  * The kitchen is at your disposal, here are a few important things to keep in mind
-  * Be sure to clean up thoroughly when you're done. Remember that you're in a jungle, any dropped food or scraps will attract insects.
+  * The full kitchen is at your disposal, here are a few important things to keep in mind
+  * Be sure to clean up thoroughly when you're done, any food or sweet liquids on the counteror floor will _very quickly_ attract insects.
   * There is no garbage disposal, food scraps should be thrown out into the jungle instead of a trash bag. Go to the edge of the yard and throw the scraps downhill.
-  * If you trip a breaker, you can find the panel in the yoga room.
+  * If you trip an electrical breaker, contact Yorhany or Lance. We can remotely open the utility closet to allow you access to the electrial equipment.
   * Although Arenal water is very pure, the kitchen's water has its own filter and hot water system.
-    * For the fridge water dispense, since we don't know the duration between guests, so we recommend letting it run for at least 30 seconds to flush out the filter (it's used for the ice maker too).
+    * For the fridge water dispenser, since we don't know the duration between guests, so we recommend letting it run for at least 30 seconds to flush out the filter (it's used for the ice maker too).
 * **Laundry**
   * Clothes washer and dryer are in the kitchen, behind the closet doors.
 * **Trash**
@@ -115,7 +115,6 @@ Here is a list of all the major items & features of the property, with some guid
       * ![trashbin](/images/trash-bin.png)
 * **Off-limits Areas**
   * There are only two internal areas that are off-limits, both have an electronic key-coded door lock. These rooms are for maintenance and owner access only.
-  * Owner's bedroom: This is the door facing the game room with an electronic lock.
   * Electrical and networking closet: This is the door in the living room with electronic lock. This is absolutely off-limits to unauthorized personnel, *you can die from touching the wrong thing in there*!
   * The external bodega (tool closet) is not a guest area, but if you do need a rake, shovel, or ladder for some reason, your door key will open it. However, we ask that you contact Roy for anything that requires these items, he will handle it.
 * **Windows, Fans, Air Conditioners**
@@ -176,7 +175,7 @@ During utility power outages:
 
 This is the same kind of Wi-Fi that you've used at airports, hospitals, stadiums, etc. 
 
-1. Connect to `Golden Clouds Guest` (no password).
+1. Connect to `Las Palmas Guest` (no password).
 2. Your device should automatically open the Terms of Service (ToS) web page, just like airports and coffee shops.
     - If this doesn't happen automatically, just open your browser and attempt go to any website.
 3. Accept the ToS and you're done. Note that the lease runs out in 30 days, if you are staying longer, you will be redirected to the ToS again for another 30 days)
@@ -215,7 +214,7 @@ It is important that you read and understand this section, so that you can feel 
 
 We also provide you with access to the [Home Assistant] system for the house. This lets you access and control the house lighting, the camera's privacy mode, and more. This will be available to you between check-in until check-out.
 
-1. Click this link => [Golden Clouds - Home Assistant](https://ha.goldenclouds.dvlup.com) and login:
+1. Click this link => [Las Palmas - Home Assistant](https://ha.goldenclouds.dvlup.com) and login:
     * **Username**: `guest`
     * **Password**: `provided-during-check-in`
     * *Note: If you are using your phone, the first time you open it, the site might recommend using the app instead... just click "no/cancel" and use the website instead.*
