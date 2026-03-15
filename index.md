@@ -4,9 +4,12 @@ layout: default
 
 <link rel="stylesheet" type="text/css" href="styles.css">
 
-Welcome to Las Palmas! Please take 5 minutes to read this **before** your arrival so that you are prepared ([para español, vaya aquí](https://goldenclouds-dvlup-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en)).
+Welcome to Blue Haven/Golden Clouds! Please take a couple minutes to read this **before** your arrival so that you are prepared ([para español, vaya aquí](https://goldenclouds-dvlup-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en)).
 
-Please bookmark this page, it contains very important information about the property, amenities, technology (Wi-Fi, camera locations, etc), and other tips that will make your experience as pleasurable as possible. Please carefully read anything that says "warning".
+Please bookmark this page, it contains very important information about the property, amenities, technology (Wi-Fi, camera locations, etc), and other tips that will make your experience as pleasurable as possible. 
+
+> [!IMPORTANT]
+> Please stop and carefully read anything that says "warning" because these topic have to do with your privacy and security.
 
 
 ### Table of Contents
@@ -91,24 +94,25 @@ Here is a list of all the major items & features of the property, with some guid
     * > **⚠️** Non-toilet paper items like paper towels, sanitary items, etc, *will* result in a backup of the plumbing and is a quick way to ruin your stay. There's a wastebasket next to each toilet dedicated for these items and plenty of extra trash bags in case you want to empty it early (this is common practice in Costa Rica).
   * Every bathroom has a shower that has its own hot water boiler/tank, we recommend the main bathroom for showering. Water can get hot really fast, so start with a tiny bit of hot water, then add cold. Always test it before jumping in 🫠.
 * **Back Patio**
-  * There are two chair hammocks available above the game room cabinet. These hammock chairs hook into the rings in the overhead structure.
-  * Full hammock. We do not yet have a dedicated place to hook this up to yet, please do not use this one.
+  * There is both a dining table and full outdoor patio furniture set. If the cushions are not on the chairs, they're inside drying off.
+  * There are two chair hammocks available above the game room cabinet. These hammock chairs hook into the chains hanging from the overhead structure.
+  * Full hammock. You can connect the full hammock across two chains, but make sure you do not have a hammock chair connected to the same chain.
 * **Game Room**
   * Board games are located in the game room, in the game cabinet (you can open any new games).
-  * There is an **Xbox One** available, but it is not hooked up. If you connect it to the TV, it is already configured to connect to the wifi, but you will need to sign in with your own Xbox account. This is a security concern, don't forget to sign out of your account before you leave.
+  * There is an **Xbox One** available, you can sign in without own account, juts dont ofrget to sign out when you leave
 * **Television & PC Hardware**
   * There is a 32" TV available with all the apps you might want (Netflix/Hulu/etc). 
   * The TV has three HDMI inputs and can be used as an external monitor for your laptop.
   * There is a bluetooth keyboard and mouse for use at the desk (remove the tape on the battery, then hold the pairing button for 4 seconds)
 * **Kitchen**
   * The full kitchen is at your disposal, here are a few important things to keep in mind
-  * Be sure to clean up thoroughly when you're done, any food or sweet liquids on the counteror floor will _very quickly_ attract insects.
+  * Arenal water is very pure, we recommend the cold water tap for drinking water. If you're prefer, the fridge water dispenser may need to be run for 30 seconds to flush it out since the last guest.
   * There is no garbage disposal, food scraps should be thrown out into the jungle instead of a trash bag. Go to the edge of the yard and throw the scraps downhill.
-  * If you trip an electrical breaker, contact Yorhany or Lance. We can remotely open the utility closet to allow you access to the electrial equipment.
-  * Although Arenal water is very pure, the kitchen's water has its own filter and hot water system.
-    * For the fridge water dispenser, since we don't know the duration between guests, so we recommend letting it run for at least 30 seconds to flush out the filter (it's used for the ice maker too).
+  * ⚠️ Be sure to clean up thoroughly when you're done, any food or sweet liquids on the counter or floor will _very quickly_ attract insects.
+  * If you trip an electrical breaker, contact Yorhany or Lance. Yorhany can come over and reset it, or Lance can remotely open the utility closet to allow oyu access to the panel.
 * **Laundry**
   * Clothes washer and dryer are in the kitchen, behind the closet doors.
+  * ⚠️ **DO NOT RUN the clothes dryer and air conditioners at the same time**, see the [solar power caution note below](#solar-power-and-battery-backup) for details.
 * **Trash**
   * The city of Arenal has trash service every week on Thursday morning (5AM-7AM)
   * The cleaning service will take care of any trash. However, if you are staying longer than average guest, you might need to take some bags out. Please only use the metal trash bin to the right of the gate, in this photo:
@@ -116,14 +120,14 @@ Here is a list of all the major items & features of the property, with some guid
 * **Off-limits Areas**
   * There are only two internal areas that are off-limits, both have an electronic key-coded door lock. These rooms are for maintenance and owner access only.
   * Electrical and networking closet: This is the door in the living room with electronic lock. This is absolutely off-limits to unauthorized personnel, *you can die from touching the wrong thing in there*!
-  * The external bodega (tool closet) is not a guest area, but if you do need a rake, shovel, or ladder for some reason, your door key will open it. However, we ask that you contact Roy for anything that requires these items, he will handle it.
+  * The external bodega (tool closet) is not a guest area, but if you do need a rake, shovel, or ladder for some reason, your door key will open it. However, we ask that you contact Yorhany for anything that requires these items, he will handle it.
 * **Windows, Fans, Air Conditioners**
   * Arenal is always ~72 degrees (+/- 10) and comfortable year-round (22 Celsius, +/- 4).
   * Open the windows, patio door and turn on the ceiling fans to get an excellent whole-house breeze.
     * Each window has a screen next to it, insert the screen after opening the window
   * For the rare hot/humid times, there are two brand-new A/C units (bedroom and living room). Please do not forget it off when not in use or while the doors/windows are open. You can use smart timers, if you're familiar with the controls.
-* **Jacuzzis**
-  * The indoor and outdoor jacuzzi are not available for use. They are in the process of being removed (they're too old) and are disconnected.
+* **Jacuzzi**
+  * The jacuzzi in bathroom 3, is planned for removal soon. Parts are no longer available so we are removing it soon. We do not recommend using it.
 
 ## Tips
 
@@ -148,6 +152,7 @@ If you have pets with you, we strongly recommend initially having them on a leas
 * The fences will not keep an untrained or determined dog inside the property.
 * Occasionally, a couple of the neighborhood's small dogs go on a field trip together. They pass through in a couple minutes. Although they may appear to be friendly, **do not feed** or engage with them, or they will not go away.
 
+> [!TIP]
 > **🐶** Since we don't know how your pet behaves; the property owners and Airbnb/Vrbo cannot assume responsiblility for your animal's actions. Thus, we strongly urge caution, leash your pet until you understand how it will act in these surroundings. Play it safe!
 
 ## Onsite Technology
@@ -164,33 +169,33 @@ During utility power outages:
 * During the day, solar will recharge the batteries and power the house simultaneously during sunlight. 
 * There is a little UPS in the guest bedroom, it is on the nightstand and can be used for the rare event the house batteries don't last long enough through the outage.
 
-
-
+> [!TIP]
 > **➡️** If there is no sun during the power outage, only the batteries will be powering the house. Consider being strategic during outages to get the most battery backup time, for example don't use the washer/dryer unless it is sunny, so you can have hot water throughout the night.
 > 
 > You can see solar power and battery levels in your Home Assistant dashboard. <br/>
 > ![solar dashboard](/images/solar-metrics-live.png)
 
+> [!CAUTION]
+> **DO NOT RUN the clothes dryer at the same time as both air conditioners**. You may permanently damage the house's solar/battery inverter as the max power is 10,000 watts. Just turn off the A/C while drying and you're fine. If you ruin the inverter, a $25,000 claim will submitted to your AirCover for reimbursement.
+
 ### Wi-Fi
 
 This is the same kind of Wi-Fi that you've used at airports, hospitals, stadiums, etc. 
 
-1. Connect to `Las Palmas Guest` (no password).
-2. Your device should automatically open the Terms of Service (ToS) web page, just like airports and coffee shops.
-    - If this doesn't happen automatically, just open your browser and attempt go to any website.
-3. Accept the ToS and you're done. Note that the lease runs out in 30 days, if you are staying longer, you will be redirected to the ToS again for another 30 days)
+1. Connect to **Blue Haven Guest** (no password needed).
+2. Open your browser and accept the ToS 
 
-This what the captive portal's ToS acceptance page looks like:
+This what the captive portal page looks like:
 
 ![guest wifi](/images/wifi-landing-page.png)
 
+- This gives you 30 days.
 - If you have trouble with the Wi-Fi, message Lance, he can fix it very quickly.
-- If you would like a separate dedicated network (i.e., for work), Lance can set that up for you in just a couple minutes.
-- If you require ethernet instead of wifi, please let Lance or Roy know ahead of time and we can provide a single guest-isolated line.
+- If you would like a separate dedicated network or require Ethernet cable instead of Wi-fi, please let Lance or Yorhany know.
 
 #### Wi-Fi Coverage
 
-Here is the wifi coverage map (the actual coverage is much stronger, but this gives you an idea of the zones).
+Here is the coverage map (the actual coverage is much stronger, but this gives you an idea of the zones).
 
 ![wifi map](/images/wifi-coverage.png)
 
@@ -201,14 +206,17 @@ There are security cameras on the property, this is a fact of life in Costa Rica
 
 It is important that you read and understand this section, so that you can feel comfortable and confident with your privacy during your visit.
 
-1. There are 4 external cameras (front/driveway, left, right and backyard), these are not operatable by or accesible to the guest.
-2. All 3 internal cameras; *all are in full view of the guest**; `Living Room`, `Game Room` and `Hallway`. The guest has full control over these cameras, see the [Guest Camera Access section](#guest-camera-access) below.
+1. There are several external cameras (front/driveway, left, right and backyard), these are not guest operable.
+2. All 3 internal cameras **are in full view of the guest**; `Living Room`, `Game Room` and `Hallway`. 
+    - The guest has full control over these cameras, see the [Guest Camera Access section](#guest-camera-access) below.
+    - Here is a map of the internal camera coverage
     - ![camera coverage](/images/camera-layout-internal.png)
-3. IPrivacy Covers - These are in the **game room**, on the top shelf. They are made out of opaque material (painter's tape) and look like this:
+4. Privacy Covers - These are in the **game room**, on the top shelf. They are made out of opaque material (painter's tape) and look like this:
     -  ![privacy covers](/images/camera-covers.png)
-4. Guest can access and enable or disable the cameras (see the [Guest Camera Access](#camera-access) section below). This might be something you want if you're away from the property for a large portion of the day.
+5. Guest can access and enable or disable the cameras (see the [Guest Camera Access](#camera-access) section below). This might be something you want if you're away from the property for a large portion of the day.
 
-> **⚠️** Please do not **unplug** or **reposition** any security devices without first coordinating with Lance, as this will trigger a security alert. This is a modern AI-managed security system that will send a 'tampering' alert if a device is powered off or repositoned unexpectedly. Any damage to security devices due to guest manipulation will submitted to AirCover for reimbursement.
+> [!CAUTION]
+> **⚠️** Please do not **unplug** or **reposition** any security devices without first coordinating with Lance. This is a modern AI-managed security system that *will send a tampering alarm* if a device is powered off or repositoned unexpectedly. Any damage to security devices due to guest manipulation will submitted to AirCover for reimbursement.
 
 ### Guest Camera Access
 
@@ -244,7 +252,7 @@ There are so many amazing places to eat packed in just Nuevo Arenal's small town
   - Don't let the location's appearance fool you, her italian food and pizza is amazing.
 
 ### Notes
-- You can always ask Roy for recommendations, he knows everyone and everything in the area (I'm lucky to have him as the property manager and as a friend).
+- You can always ask Yorhany for recommendations, he knows everyone and everything in the area (I'm lucky to have him as the property manager and as a friend).
 - DOT NOT go to "The German Bakery", no matter how many signs on the highway you've seen or how colorful it looks. It is a tourist trap, with really bad food saftey practices. It is a lesson in "how to ruin your reputation and legacy", the owners have let it go and the staff don't care.
 - If you are vegan, vegitarian, or gluten-free, there are plenty of menu options available for you at these locations. Although I can't speak directly to this, I have taken gluten-free vegan friends with me and they were happy with the options.
 
