@@ -4,7 +4,7 @@ layout: default
 
 <link rel="stylesheet" type="text/css" href="styles.css">
 
-Welcome to Blue Haven/Golden Clouds! Please take a couple minutes to read this **before** your arrival so that you are prepared ([para español, vaya aquí](https://goldenclouds-dvlup-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en)).
+Welcome to Golden Clouds! This page serves as quick reference guide for your entire stay. Please take a couple minutes to read this **before** your arrival so that you are prepared ([para español, vaya aquí](https://goldenclouds-dvlup-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en)).
 
 Please bookmark this page, it contains very important information about the property, amenities, technology (Wi-Fi, camera locations, etc), and other tips that will make your experience as pleasurable as possible. 
 
@@ -202,37 +202,18 @@ Here is the coverage map (the actual coverage is much stronger, but this gives y
 
 ### Security Cameras
 
-There are security cameras on the property, this is a fact of life in Costa Rica that you will find on many properties where there is no full-time tenant. **You have full control over the internal cameras during your stay.**
+There are security cameras on the property, this is a fact of life in Costa Rica that you will find on many properties where there is no full-time tenant.
 
 It is important that you read and understand this section, so that you can feel comfortable and confident with your privacy during your visit.
 
-1. There are several external cameras (front/driveway, left, right and backyard), these are not guest operable.
-2. All 3 internal cameras **are in full view of the guest**; `Living Room`, `Game Room` and `Hallway`. 
-    - The guest has full control over these cameras, see the [Guest Camera Access section](#guest-camera-access) below.
-    - Here is a map of the internal camera coverage
+1. INTERNAL - All 3 internal cameras are in full view of the guests; `Living Room`, `Game Room` and `Hallway`. 
+    - Per AirBnb rules, **these will be clearly unplugged during your stay, do not tamper/move/cover them**. 
+    - Here is a map of the locations
     - ![camera coverage](/images/camera-layout-internal.png)
-4. Privacy Covers - These are in the **game room**, on the top shelf. They are made out of opaque material (painter's tape) and look like this:
-    -  ![privacy covers](/images/camera-covers.png)
-5. Guest can access and enable or disable the cameras (see the [Guest Camera Access](#camera-access) section below). This might be something you want if you're away from the property for a large portion of the day.
+2. EXTERNAL - There are several external cameras covering the driveway, sides of the property, and backyard door. The backyard door camera can be put into Privacy Mode (blacked out) upon guest request.
 
 > [!CAUTION]
-> **⚠️** Please do not **unplug** or **reposition** any security devices without first coordinating with Lance. This is a modern AI-managed security system that *will send a tampering alarm* if a device is powered off or repositoned unexpectedly. Any damage to security devices due to guest manipulation will submitted to AirCover for reimbursement.
-
-### Guest Camera Access
-
-We also provide you with access to the [Home Assistant] system for the house. This lets you access and control the house lighting, the camera's privacy mode, and more. This will be available to you between check-in until check-out.
-
-1. Click this link => [Las Palmas - Home Assistant](https://ha.goldenclouds.dvlup.com) and login:
-    * **Username**: `guest`
-    * **Password**: `provided-during-check-in`
-    * *Note: If you are using your phone, the first time you open it, the site might recommend using the app instead... just click "no/cancel" and use the website instead.*
-2. Operating **Privacy Mode**
-    1. Click the little eye icon to enable or disable Privacy Mode
-    2. Wait ~5 seconds for the mode to be applied to the device. In this screenshot, the camera on the left has Privacy Mode turned on.
-      * ![HA home page](/images/ha-guide-1.png)
-      * ![privacy mode](/images/ha-guide-2.png)
-
-If you have any questions or concerns, please *do not remain silent*! Voice your questions/concerns to Lance and he will address them... we want you to have an enjoyable stay and good communication is a major factor.
+> **⚠️** All internal camera will be clearly unplugged during your stay. Please do not **unplug** or **reposition** any security devices. This is a modern AI-managed security system that *will send a tampering alarm*. Any damage to security devices due to guest manipulation will submitted to AirCover for reimbursement.
 
 ## Food Recommendations
 
