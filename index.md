@@ -29,7 +29,6 @@ Please bookmark this page, it contains very important information about the prop
   - [Wi-Fi](#wi-fi)
     - [Wi-Fi Coverage](#wi-fi-coverage)
   - [Security Cameras](#security-cameras)
-  - [Guest Camera Access](#guest-camera-access)
 - [Food Recommendations](#food-recommendations)
   - [Notes](#notes)
 - [Videos](#videos)
@@ -81,8 +80,6 @@ Checking out is straightforward:
 5. If you have signed into the TV's apps or Xbox with your account, 
 6. Close the electronic gate after you've driven out 
 7. Put the keys back in the lockbox, scramble the code, then close to lock it.
-
-
 
 ## Rooms and Amenities
 
